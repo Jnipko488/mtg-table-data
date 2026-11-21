@@ -1,6 +1,6 @@
 # Keyword token art
 
-Token textures (`token_*.png`, for the disc token mesh) and card icons (`icon_*.png`, used by πKeywords) for:
+Token textures (`token3d_*.png` + `token3d_*_normal.png` normal maps, for the disc token mesh; older flat `token_*.png`) and card icons (`icon_*.png`, used by πKeywords) for:
 Ward, Shroud, Protection, Infect, Prowess, Undying, Persist, Shield.
 
 Icons from [game-icons.net](https://game-icons.net) by Lorc, Delapouite and contributors,
