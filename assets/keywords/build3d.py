@@ -19,8 +19,9 @@ TOP_Y = 0.068898          # flat top face of the disc
 FACE_R = 0.738            # flat face radius (mesh units)
 PX_R = 252.0              # face radius in texture pixels (1024 texture)
 GLYPH_PX = 360            # glyph box size on the 512 face crop (matches relief.py)
-HEIGHT = 0.045            # how far the icon stands out of the face
+HEIGHT = 0.068            # how far the icon stands out of the face
 SIDE_UV = (0.62, 0.25)    # solid patch in the texture used for the icon's side walls
+TOP_UV = (0.62, 0.75)     # solid patch for the icon's top
 
 
 def icon_polys(name):
@@ -100,7 +101,8 @@ def add_glyph(m, geom):
         arr = np.array(flat, dtype=np.float64)
         tris = earcut.triangulate_float64(arr, np.array(ends, dtype=np.uint32)).reshape(-1, 3)
         vid = [m.add_v((x, y1, z)) for (x, z) in flat]
-        tid = [m.add_vt(uv_of(x, z)) for (x, z) in flat]
+        top_t = m.add_vt(TOP_UV)
+        tid = [top_t for _ in flat]
         for a, b, c in tris:
             pa, pb, pc = arr[a], arr[b], arr[c]
             # normal of (b-a)x(c-a) in 3D with y up: ny = (bz-az)*(cx-ax) - (bx-ax)*(cz-az)
@@ -145,22 +147,32 @@ def write_obj(m, path):
         for f in m.f: fh.write('f ' + ' '.join('%d/%d/%d' % q for q in f) + '\n')
 
 
+def glyph_tone(bg, fg):
+    """flat tone-on-tone colour like the moulded tokens: a lighter shade of the disc (darker if the glyph was dark)"""
+    if sum(fg) < 200:
+        return tuple(int(c * 0.55) for c in bg)
+    return tuple(int(c + (255 - c) * 0.32) for c in bg)
+
+
 def texture(name, icon, bg, fg):
-    """face keeps the painted tone-on-tone glyph (the raised top samples it); side patch painted darker"""
-    rl.build(None, name, icon, bg, fg)  # writes token3dv2_<name>.png
-    tex = Image.open(f'{OUT}/token3dv2_{name.lower()}.png').convert('RGB')
-    g = rl.glyph_colour(bg, fg)
-    side = tuple(int(c * 0.62) for c in g)
+    """flat colours only: the game's lighting does all the shading (no painted shadows)"""
+    g = glyph_tone(bg, fg)
+    tex = Image.new('RGB', (1024, 1024), bg)
     d = ImageDraw.Draw(tex)
-    cx, cy = SIDE_UV[0] * 1024, (1 - SIDE_UV[1]) * 1024
-    d.rectangle([cx - 60, cy - 60, cx + 60, cy + 60], fill=side)
-    tex.save(f'{OUT}/token3dm_{name.lower()}.png', optimize=True)
+    for (u, v) in (TOP_UV, SIDE_UV):
+        cx, cy = u * 1024, (1 - v) * 1024
+        d.rectangle([cx - 70, cy - 70, cx + 70, cy + 70], fill=g)
+    # underside keeps a flat printed icon so a flipped token is still readable
+    m = mt.gi_mask(icon, 1024).resize((GLYPH_PX, GLYPH_PX), Image.LANCZOS).rotate(180)
+    o = (512 - GLYPH_PX) // 2
+    tex.paste(Image.new('RGB', (GLYPH_PX, GLYPH_PX), g), (o, 512 + o), m)
+    tex.save(f'{OUT}/token3dm2_{name.lower()}.png', optimize=True)
 
 
 if __name__ == '__main__':
     for key, name, des, icon, bg, fg in mt.KEYWORDS:
         m = Mesh(); load_base(m)
         add_glyph(m, icon_polys(icon))
-        write_obj(m, f'{OUT}/token3dm_{name.lower()}.obj')
+        write_obj(m, f'{OUT}/token3dm2_{name.lower()}.obj')
         texture(name, icon, bg, fg)
         print(name, len(m.v), 'verts', len(m.f), 'tris')
