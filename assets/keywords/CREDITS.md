@@ -1,5 +1,7 @@
 # Keyword token art
 
+3D tokens: `token3dm_*.obj` (the table's disc token mesh with the icon extruded out of the face) + `token3dm_*.png` textures.
+
 Token textures (`token3d_*.png` + `token3d_*_normal.png` normal maps, for the disc token mesh; older flat `token_*.png`) and card icons (`icon_*.png`, used by πKeywords) for:
 Ward, Shroud, Protection, Infect, Prowess, Undying, Persist, Shield.
 
