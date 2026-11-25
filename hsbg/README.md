@@ -12,3 +12,7 @@ replaced without breaking older saves.
 - `manifest.json` every file with its size and SHA-256
 
 Card and UI art is from the owner's own Hearthstone install and HearthstoneJSON renders, for personal table use.
+
+Format (since the v4.2 table): every PNG is 32-bit RGBA. Images the table spawns as Custom Tokens (`f/`,
+`ui/bob.png`) have hard alpha and a 4 px transparent border, which TTS needs to build the token shape;
+older palette PNGs made TTS reopen its Custom Token import dialog.
