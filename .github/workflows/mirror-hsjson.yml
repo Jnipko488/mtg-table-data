@@ -6,6 +6,7 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
+concurrency: mirror-hsjson
 jobs:
   mirror:
     runs-on: ubuntu-latest
@@ -16,15 +17,24 @@ jobs:
           fetch-depth: 1
       - name: Download art
         run: |
-          cd hsbg/hsjson
+          mkdir -p "$RUNNER_TEMP/hsjson"
+          cp hsbg/hsjson/paths.txt "$RUNNER_TEMP/hsjson/"
+          cd "$RUNNER_TEMP/hsjson"
           : > missing.txt
-          grep -v '^$' paths.txt | xargs -P 16 -I{} sh -c 'if [ ! -s "{}" ]; then mkdir -p "$(dirname "{}")"; curl -sfL --retry 3 -o "{}" "https://art.hearthstonejson.com/{}" || { rm -f "{}"; echo "{}" >> missing.txt; }; fi'
+          grep -v '^$' paths.txt | xargs -P 16 -I{} sh -c 'mkdir -p "$(dirname "{}")"; curl -sfL --retry 3 -o "{}" "https://art.hearthstonejson.com/{}" || { rm -f "{}"; echo "{}" >> missing.txt; }'
           sort -o missing.txt missing.txt
           echo "downloaded: $(find v1 -type f | wc -l)  missing: $(wc -l < missing.txt)"
-      - name: Commit
+      - name: Commit on top of the latest branch head
         run: |
           git config user.name "hsbg-mirror"
           git config user.email "hsbg-mirror@users.noreply.github.com"
-          git add hsbg/hsjson
-          git commit -m "Mirror HearthstoneJSON art for Battlegrounds (multiplayer-safe)" || exit 0
-          git push origin HEAD:battlegrounds-multiplayer-20261125
+          for attempt in 1 2 3 4 5; do
+            git fetch --depth=1 origin battlegrounds-multiplayer-20261125
+            git checkout -q --force FETCH_HEAD
+            cp -r "$RUNNER_TEMP/hsjson/." hsbg/hsjson/
+            git add hsbg/hsjson
+            git commit -q -m "Mirror HearthstoneJSON art for Battlegrounds (multiplayer-safe)" || exit 0
+            if git push origin HEAD:battlegrounds-multiplayer-20261125; then exit 0; fi
+            sleep 10
+          done
+          exit 1
