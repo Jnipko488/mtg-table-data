@@ -1,0 +1,42 @@
+Free Travel Winner BG30_103 None | None
+Mantid Queen BG22_402 None | None
+Manasaber BG26_800 None | None
+Monstrous Macaw BGS_078 None | None
+Shadowdancer BG32_891 None | None
+Dream Inquisitor BG32_892 None | None
+Emerald Proto-Whelp BG28_590 None | None
+Efficient Engineer BG31_301 None | None
+Nether Drake BG24_003 None | None
+Ignition Specialist BG28_595 6 | At the end of your turn, get 2 random Tavern spells.
+Gentle Djinni BGS_121 6 | Taunt Battlecry and Deathrattle: Get a random Elemental.
+Divine Sparkbot BG33_809 None | None
+Junk Jouster BG34_175 None | None
+Primitive Painter BG33_893 6 | After you play a card from Tier 3 or below, give your Murlocs +3/+3.
+Peggy Sturdybone BG25_032 None | None
+Wizened Captain BG33_826 None | None
+Bloodsnout Warlord BG33_884 None | None
+Thundering Abomination BG30_124 None | None
+Catacomb Crasher BG30_129 None | None
+Intrepid Botanist BG32_237 None | None
+Sin'dorei Straight Shot BG25_016 None | None
+Treasure Parrot BG36_763 None | None
+Felfire Conjurer BG32_821 None | None
+Y'Shaarj TB_BaconShop_HERO_92 None | None
+C'Thun TB_BaconShop_HERO_29 None | None
+Zoatroid BG36_098 None | None
+Underrot Spawn BG36_116 None | None
+Drifting Sacrifice BG36_113 None | None
+Harbinger Aph'lass BGFYM_005 None | None
+Lurking Leviathan BG35_602 None | None
+Goldrinn, the Great Wolf BGS_018 None | None
+Devilish Distractor BG36_762 None | None
+Tichondrius BG26_523 None | None
+Scarlet Survivor BG35_814 None | None
+Stone Age Slab BG34_950 None | None
+Annoy-o-Module BG_BOT_911 None | None
+Rescue Bot BG36_854 None | None
+Bubble Gunner BG31_149 None | None
+Shoalfin Mystic BG32_860 None | None
+Hackerfin BG31_148 None | None
+Surfing Sylvar BG32_235 None | None
+Hooktusk, Master Marauder BG36_344 None | None

@@ -1,0 +1,571 @@
+{
+ "rwc": [
+  "Free Travel Winner",
+  "Mantid Queen",
+  "Manasaber",
+  "Monstrous Macaw",
+  "Shadowdancer",
+  "Dream Inquisitor",
+  "Emerald Proto-Whelp",
+  "Efficient Engineer",
+  "Nether Drake",
+  "Ignition Specialist",
+  "Gentle Djinni",
+  "Divine Sparkbot",
+  "Junk Jouster",
+  "Primitive Painter",
+  "Peggy Sturdybone",
+  "Wizened Captain",
+  "Bloodsnout Warlord",
+  "Thundering Abomination",
+  "Catacomb Crasher"
+ ],
+ "chg": [
+  "Intrepid Botanist",
+  "Sin'dorei Straight Shot",
+  "Treasure Parrot",
+  "Felfire Conjurer",
+  "Y'Shaarj",
+  "C'Thun",
+  "Zoatroid",
+  "Underrot Spawn",
+  "Drifting Sacrifice",
+  "Harbinger Aph'lass",
+  "Lurking Leviathan",
+  "Goldrinn, the Great Wolf",
+  "Devilish Distractor",
+  "Tichondrius",
+  "Scarlet Survivor",
+  "Stone Age Slab",
+  "Annoy-o-Module",
+  "Rescue Bot",
+  "Bubble Gunner",
+  "Shoalfin Mystic",
+  "Hackerfin",
+  "Diremuck Forager",
+  "Surfing Sylvar",
+  "Hooktusk, Master Marauder"
+ ],
+ "art": {
+  "Free Travel Winner": {
+   "ids": [
+    "BG30_103"
+   ],
+   "files": [
+    "new-113128-free-travel-winner.webp"
+   ]
+  },
+  "Mantid Queen": {
+   "ids": [
+    "BG22_402"
+   ],
+   "files": [
+    "new-86783-mantid-queen.webp"
+   ]
+  },
+  "Manasaber": {
+   "ids": [
+    "BG26_800"
+   ],
+   "files": [
+    "new-98831-manasaber.webp"
+   ]
+  },
+  "Monstrous Macaw": {
+   "ids": [
+    "BGS_078"
+   ],
+   "files": [
+    "new-62230-monstrous-macaw.webp"
+   ]
+  },
+  "Shadowdancer": {
+   "ids": [
+    "BG32_891"
+   ],
+   "files": [
+    "new-120662-shadowdancer.webp"
+   ]
+  },
+  "Dream Inquisitor": {
+   "ids": [
+    "BG32_892"
+   ],
+   "files": [
+    "new-120664-dream-inquisitor.webp"
+   ]
+  },
+  "Emerald Proto-Whelp": {
+   "ids": [
+    "BG28_590"
+   ],
+   "files": [
+    "new-105523-emerald-proto-whelp.webp"
+   ]
+  },
+  "Efficient Engineer": {
+   "ids": [
+    "BG31_301"
+   ],
+   "files": [
+    "new-116025-efficient-engineer.webp"
+   ]
+  },
+  "Nether Drake": {
+   "ids": [
+    "BG24_003"
+   ],
+   "files": [
+    "new-92397-nether-drake.webp"
+   ]
+  },
+  "Ignition Specialist": {
+   "ids": [
+    "BG28_595"
+   ],
+   "files": [
+    "new-105852-ignition-specialist.webp"
+   ]
+  },
+  "Gentle Djinni": {
+   "ids": [
+    "BGS_121"
+   ],
+   "files": [
+    "new-64062-gentle-djinni.webp"
+   ]
+  },
+  "Divine Sparkbot": {
+   "ids": [
+    "BG33_809"
+   ],
+   "files": [
+    "new-123644-divine-sparkbot.webp"
+   ]
+  },
+  "Junk Jouster": {
+   "ids": [
+    "BG34_175"
+   ],
+   "files": [
+    "new-126830-junk-jouster.webp"
+   ]
+  },
+  "Primitive Painter": {
+   "ids": [
+    "BG33_893"
+   ],
+   "files": [
+    "new-122281-primitive-painter.webp"
+   ]
+  },
+  "Peggy Sturdybone": {
+   "ids": [
+    "BG25_032"
+   ],
+   "files": [
+    "new-97535-peggy-sturdybone.webp"
+   ]
+  },
+  "Wizened Captain": {
+   "ids": [
+    "BG33_826"
+   ],
+   "files": [
+    "new-122921-wizened-captain.webp"
+   ]
+  },
+  "Bloodsnout Warlord": {
+   "ids": [
+    "BG33_884"
+   ],
+   "files": [
+    "new-122564-bloodsnout-warlord.webp"
+   ]
+  },
+  "Thundering Abomination": {
+   "ids": [
+    "BG30_124"
+   ],
+   "files": [
+    "new-113156-thundering-abomination.webp"
+   ]
+  },
+  "Catacomb Crasher": {
+   "ids": [
+    "BG30_129"
+   ],
+   "files": [
+    "new-114379-catacomb-crasher.webp"
+   ]
+  },
+  "Intrepid Botanist": {
+   "ids": [
+    "BG32_237"
+   ],
+   "files": [
+    "new-120223-intrepid-botanist.webp"
+   ]
+  },
+  "Sin'dorei Straight Shot": {
+   "ids": [
+    "BG25_016"
+   ],
+   "files": [
+    "new-95286-sindorei-straight-shot.webp"
+   ]
+  },
+  "Treasure Parrot": {
+   "ids": [
+    "BG36_763"
+   ],
+   "files": [
+    "new-132987-treasure-parrot.webp"
+   ]
+  },
+  "Felfire Conjurer": {
+   "ids": [
+    "BG32_821"
+   ],
+   "files": [
+    "new-120299-felfire-conjurer.webp"
+   ]
+  },
+  "Y'Shaarj": {
+   "ids": [
+    "TB_BaconShop_HERO_92"
+   ],
+   "files": [
+    "new-132532-yshaarj.webp"
+   ]
+  },
+  "C'Thun": {
+   "ids": [
+    "TB_BaconShop_HERO_29"
+   ],
+   "files": [
+    "new-130610-cthun.webp"
+   ]
+  },
+  "Zoatroid": {
+   "ids": [
+    "BG36_098"
+   ],
+   "files": [
+    "new-131694-zoatroid.webp"
+   ]
+  },
+  "Underrot Spawn": {
+   "ids": [
+    "BG36_116"
+   ],
+   "files": [
+    "new-133104-underrot-spawn.webp"
+   ]
+  },
+  "Drifting Sacrifice": {
+   "ids": [
+    "BG36_113"
+   ],
+   "files": [
+    "new-133098-drifting-sacrifice.webp"
+   ]
+  },
+  "Harbinger Aph'lass": {
+   "ids": [
+    "BGFYM_005"
+   ],
+   "files": [
+    "new-130620-harbinger-aphlass.webp"
+   ]
+  },
+  "Lurking Leviathan": {
+   "ids": [
+    "BG35_602"
+   ],
+   "files": [
+    "new-130711-lurking-leviathan.webp"
+   ]
+  },
+  "Goldrinn, the Great Wolf": {
+   "ids": [
+    "BGS_018"
+   ],
+   "files": [
+    "new-59955-goldrinn-the-great-wolf.webp"
+   ]
+  },
+  "Devilish Distractor": {
+   "ids": [
+    "BG36_762"
+   ],
+   "files": [
+    "new-132901-devilish-distractor.webp"
+   ]
+  },
+  "Tichondrius": {
+   "ids": [
+    "BG26_523"
+   ],
+   "files": [
+    "new-99228-tichondrius.webp"
+   ]
+  },
+  "Scarlet Survivor": {
+   "ids": [
+    "BG35_814"
+   ],
+   "files": [
+    "new-129749-scarlet-survivor.webp"
+   ]
+  },
+  "Stone Age Slab": {
+   "ids": [
+    "BG34_950"
+   ],
+   "files": [
+    "new-126959-stone-age-slab.webp"
+   ]
+  },
+  "Annoy-o-Module": {
+   "ids": [
+    "BG_BOT_911"
+   ],
+   "files": [
+    "new-96812-annoy-o-module.webp"
+   ]
+  },
+  "Rescue Bot": {
+   "ids": [
+    "BG36_854"
+   ],
+   "files": [
+    "new-132895-rescue-bot.webp"
+   ]
+  },
+  "Bubble Gunner": {
+   "ids": [
+    "BG31_149"
+   ],
+   "files": [
+    "new-116178-bubble-gunner.webp"
+   ]
+  },
+  "Shoalfin Mystic": {
+   "ids": [
+    "BG32_860"
+   ],
+   "files": [
+    "new-120215-shoalfin-mystic.webp"
+   ]
+  },
+  "Hackerfin": {
+   "ids": [
+    "BG31_148"
+   ],
+   "files": [
+    "new-115848-hackerfin.webp"
+   ]
+  },
+  "Surfing Sylvar": {
+   "ids": [
+    "BG32_235"
+   ],
+   "files": [
+    "new-119994-surfing-sylvar.webp"
+   ]
+  },
+  "Hooktusk, Master Marauder": {
+   "ids": [
+    "BG36_344"
+   ],
+   "files": [
+    "new-132925-hooktusk-master-marauder.webp"
+   ]
+  },
+  "Power of George": {
+   "ids": [
+    "BG34_HeroPowerSpell_006"
+   ],
+   "files": [
+    "new-126267-power-of-george.webp"
+   ]
+  },
+  "Power of Guff": {
+   "ids": [
+    "BG34_HeroPowerSpell_015"
+   ],
+   "files": [
+    "new-126276-power-of-guff.webp"
+   ]
+  },
+  "Timewarped Busker": {
+   "ids": [
+    "BG34_Giant_001"
+   ],
+   "files": [
+    "new-126235-timewarped-busker.webp"
+   ]
+  },
+  "Timewarped Devourer": {
+   "ids": [
+    "BG34_Giant_583"
+   ],
+   "files": [
+    "new-127721-timewarped-devourer.webp"
+   ]
+  },
+  "Timewarped Geomancer": {
+   "ids": [
+    "BG34_Giant_305"
+   ],
+   "files": [
+    "new-127430-timewarped-geomancer.webp"
+   ]
+  },
+  "Timewarped Hyena": {
+   "ids": [
+    "BG34_Giant_581"
+   ],
+   "files": [
+    "new-127714-timewarped-hyena.webp"
+   ]
+  },
+  "Timewarped Lubber": {
+   "ids": [
+    "BG34_Giant_066"
+   ],
+   "files": [
+    "new-126756-timewarped-lubber.webp"
+   ]
+  },
+  "Timewarped Rewinder": {
+   "ids": [
+    "BG34_Giant_300"
+   ],
+   "files": [
+    "new-127539-timewarped-rewinder.webp"
+   ]
+  },
+  "Timewarped Saurolisk": {
+   "ids": [
+    "BG34_Giant_202"
+   ],
+   "files": [
+    "new-127126-timewarped-saurolisk.webp"
+   ]
+  },
+  "Timewarped Sensei": {
+   "ids": [
+    "BG34_Giant_209"
+   ],
+   "files": [
+    "new-127245-timewarped-sensei.webp"
+   ]
+  },
+  "Timewarped Tipper": {
+   "ids": [
+    "BG34_Giant_604"
+   ],
+   "files": [
+    "new-127948-timewarped-tipper.webp"
+   ]
+  },
+  "Timewarped Whelp Smuggler": {
+   "ids": [
+    "BG34_Giant_064"
+   ],
+   "files": [
+    "new-126754-timewarped-whelp-smuggler.webp"
+   ]
+  },
+  "Timewarped Bandit": {
+   "ids": [
+    "BG34_PreMadeChamp_078"
+   ],
+   "files": [
+    "new-127868-timewarped-bandit.webp"
+   ]
+  },
+  "Timewarped Bloodbinder": {
+   "ids": [
+    "BG34_PreMadeChamp_076"
+   ],
+   "files": [
+    "new-126583-timewarped-bloodbinder.webp"
+   ]
+  },
+  "Timewarped Caretaker": {
+   "ids": [
+    "BG34_Giant_618"
+   ],
+   "files": [
+    "new-128177-timewarped-caretaker.webp"
+   ]
+  },
+  "Timewarped Collector": {
+   "ids": [
+    "BG34_Giant_680"
+   ],
+   "files": [
+    "new-129114-timewarped-collector.webp"
+   ]
+  },
+  "Timewarped Goldrinn": {
+   "ids": [
+    "BG34_Giant_362"
+   ],
+   "files": [
+    "new-128111-timewarped-goldrinn.webp"
+   ]
+  },
+  "Timewarped Imp-filtrator": {
+   "ids": [
+    "BG34_PreMadeChamp_013"
+   ],
+   "files": [
+    "new-126560-timewarped-imp-filtrator.webp"
+   ]
+  },
+  "Timewarped Lil' Quilboar": {
+   "ids": [
+    "BG34_Giant_608"
+   ],
+   "files": [
+    "new-127877-timewarped-lil-quilboar.webp"
+   ]
+  },
+  "Timewarped Nalaa": {
+   "ids": [
+    "BG34_Giant_205"
+   ],
+   "files": [
+    "new-127168-timewarped-nalaa.webp"
+   ]
+  },
+  "Timewarped Nomi": {
+   "ids": [
+    "BG34_Giant_032"
+   ],
+   "files": [
+    "new-126514-timewarped-nomi.webp"
+   ]
+  },
+  "Timewarped Painter": {
+   "ids": [
+    "BG34_Giant_319"
+   ],
+   "files": [
+    "new-127800-timewarped-painter.webp"
+   ]
+  },
+  "Timewarped Prismscale": {
+   "ids": [
+    "BG34_PreMadeChamp_022"
+   ],
+   "files": [
+    "new-126565-timewarped-prismscale.webp"
+   ]
+  }
+ }
+}

@@ -1,0 +1,1449 @@
+[
+ {
+  "id": "S15_tw_power_buttons",
+  "name": "Power of Buttons",
+  "pool": 3,
+  "cost": 2,
+  "kind": "power",
+  "text": "Casts When Bought. Make 'Growing Collection' your second Hero Power.",
+  "files": [
+   "added-136060-power-of-buttons.webp"
+  ]
+ },
+ {
+  "id": "S15_tw_power_clocksworth",
+  "name": "Power of Clocksworth",
+  "pool": 3,
+  "cost": 1,
+  "kind": "power",
+  "text": "Casts When Bought. Make 'Double Time' your second Hero Power.",
+  "files": [
+   "added-136058-power-of-clocksworth.webp"
+  ]
+ },
+ {
+  "id": "S15_tw_power_murozond",
+  "name": "Power of Murozond",
+  "pool": 3,
+  "cost": 2,
+  "kind": "power",
+  "text": "Casts When Bought. Make 'Alternate Timeline' your second Hero Power.",
+  "files": [
+   "added-136061-power-of-murozond.webp"
+  ]
+ },
+ {
+  "id": "S15_tw_power_snake_eyes",
+  "name": "Power of Snake Eyes",
+  "pool": 3,
+  "cost": 1,
+  "kind": "power",
+  "text": "Casts When Bought. Make 'Lucky Roll' your second Hero Power.",
+  "files": [
+   "added-136057-power-of-snake-eyes.webp"
+  ]
+ },
+ {
+  "id": "S15_tw_power_zerek",
+  "name": "Power of Zerek",
+  "pool": 3,
+  "cost": 2,
+  "kind": "power",
+  "text": "Casts When Bought. Make 'Cloning Gallery' your second Hero Power.",
+  "files": [
+   "added-136062-power-of-zerek.webp"
+  ]
+ },
+ {
+  "id": "S15_tw_amalgam_of_the_deep",
+  "name": "Timewarped Amalgam of the Deep",
+  "pool": 3,
+  "cost": 2,
+  "kind": "minion",
+  "text": "Activate (1): Choose another friendly minion. Discover a minion of the same type.",
+  "files": [
+   "added-136151-timewarped-amalgam-of-the-deep.webp",
+   "added-136151-timewarped-amalgam-of-the-deep_golden.webp"
+  ],
+  "atk": 5,
+  "hp": 6,
+  "tribes": [],
+  "all": true,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_assistant",
+  "name": "Timewarped Assistant",
+  "pool": 3,
+  "cost": 1,
+  "kind": "minion",
+  "text": "Battlecry and Rally: Add a Fodder to your next 3 Refreshes.",
+  "files": [
+   "added-136388-timewarped-assistant.webp",
+   "added-136388-timewarped-assistant_golden.webp"
+  ],
+  "atk": 5,
+  "hp": 6,
+  "tribes": [
+   "DEMON"
+  ],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_avalanche_caller",
+  "name": "Timewarped Avalanche Caller",
+  "pool": 3,
+  "cost": 1,
+  "kind": "minion",
+  "text": "Activate (0): Sell a friendly minion to gain its Bonus Keywords and stats.",
+  "files": [
+   "added-135962-timewarped-avalanche-caller.webp",
+   "added-135962-timewarped-avalanche-caller_golden.webp"
+  ],
+  "atk": 4,
+  "hp": 6,
+  "tribes": [
+   "ELEMENTAL"
+  ],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_breakout",
+  "name": "Timewarped Breakout",
+  "pool": 3,
+  "cost": 1,
+  "kind": "minion",
+  "text": "Battlecry, Deathrattle, and Rally: Get a Lockbox. If you already have one, it opens 1 turn sooner instead.",
+  "files": [
+   "added-136278-timewarped-breakout.webp",
+   "added-136278-timewarped-breakout_golden.webp"
+  ],
+  "atk": 5,
+  "hp": 4,
+  "tribes": [
+   "PIRATE"
+  ],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_clan_trainer",
+  "name": "Timewarped Clan Trainer",
+  "pool": 3,
+  "cost": 2,
+  "kind": "minion",
+  "text": "Activate (2): Double the stats of your two lowest-Attack minions.",
+  "files": [
+   "added-135908-timewarped-clan-trainer.webp",
+   "added-135908-timewarped-clan-trainer_golden.webp"
+  ],
+  "atk": 4,
+  "hp": 4,
+  "tribes": [],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_contortionist",
+  "name": "Timewarped Contortionist",
+  "pool": 3,
+  "cost": 2,
+  "kind": "minion",
+  "text": "Rally: Your Tavern spells give an extra +1/+1 this game.",
+  "files": [
+   "added-135912-timewarped-contortionist.webp",
+   "added-135912-timewarped-contortionist_golden.webp"
+  ],
+  "atk": 3,
+  "hp": 5,
+  "tribes": [
+   "MURLOC"
+  ],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_cub",
+  "name": "Timewarped Cub",
+  "pool": 3,
+  "cost": 2,
+  "kind": "minion",
+  "text": "Deathrattle: Get a Goldrinn's Blessing.",
+  "files": [
+   "added-136232-timewarped-cub.webp",
+   "added-136232-timewarped-cub_golden.webp"
+  ],
+  "atk": 8,
+  "hp": 5,
+  "tribes": [
+   "BEAST"
+  ],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_cutlassier",
+  "name": "Timewarped Cutlassier",
+  "pool": 3,
+  "cost": 2,
+  "kind": "minion",
+  "text": "Mission: Add 15 cards to your hand for your Tavern spells to give an extra +5/+5 this game. (15 left!)",
+  "files": [
+   "added-135989-timewarped-cutlassier.webp",
+   "added-135989-timewarped-cutlassier_golden.webp"
+  ],
+  "atk": 6,
+  "hp": 5,
+  "tribes": [
+   "PIRATE"
+  ],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_duke",
+  "name": "Timewarped Duke",
+  "pool": 3,
+  "cost": 1,
+  "kind": "minion",
+  "text": "Has +4/+4 for each card you've discarded this game (wherever this is).",
+  "files": [
+   "added-136270-timewarped-duke.webp",
+   "added-136270-timewarped-duke_golden.webp"
+  ],
+  "atk": 4,
+  "hp": 4,
+  "tribes": [
+   "ABERRATION"
+  ],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_fruit_vendor",
+  "name": "Timewarped Fruit Vendor",
+  "pool": 3,
+  "cost": 1,
+  "kind": "minion",
+  "text": "Activate (0): Get 3 Tavern Dish Bananas.",
+  "files": [
+   "added-136230-timewarped-fruit-vendor.webp",
+   "added-136230-timewarped-fruit-vendor_golden.webp"
+  ],
+  "atk": 6,
+  "hp": 6,
+  "tribes": [
+   "BEAST"
+  ],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_graverobber",
+  "name": "Timewarped Graverobber",
+  "pool": 3,
+  "cost": 1,
+  "kind": "minion",
+  "text": "Activate (0): Destroy another friendly minion to gain \u201cDeathrattle: Summon that minion\u201d until next turn.",
+  "files": [
+   "added-136016-timewarped-graverobber.webp",
+   "added-136016-timewarped-graverobber_golden.webp"
+  ],
+  "atk": 4,
+  "hp": 6,
+  "tribes": [],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_holmes",
+  "name": "Timewarped Holmes",
+  "pool": 3,
+  "cost": 1,
+  "kind": "minion",
+  "text": "Activate (0): Guess which minion is in your next opponent's warband to get a copy of it.",
+  "files": [
+   "added-136149-timewarped-holmes.webp",
+   "added-136149-timewarped-holmes_golden.webp"
+  ],
+  "atk": 4,
+  "hp": 4,
+  "tribes": [
+   "MURLOC"
+  ],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_morchie",
+  "name": "Timewarped Morchie",
+  "pool": 3,
+  "cost": 2,
+  "kind": "minion",
+  "text": "Activate (4): Discover a 2-Cost minion from the Minor Timewarp.",
+  "files": [
+   "added-136064-timewarped-morchie.webp",
+   "added-136064-timewarped-morchie_golden.webp"
+  ],
+  "atk": 3,
+  "hp": 6,
+  "tribes": [],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_muscle_o_tron",
+  "name": "Timewarped Muscle-o-Tron",
+  "pool": 3,
+  "cost": 1,
+  "kind": "minion",
+  "text": "Mission: Magnetize 3 Mechs to this to double this minion's stats. (3 left!)",
+  "files": [
+   "added-135007-timewarped-muscle-o-tron.webp",
+   "added-135007-timewarped-muscle-o-tron_golden.webp"
+  ],
+  "atk": 4,
+  "hp": 4,
+  "tribes": [
+   "MECHANICAL"
+  ],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_mycologist",
+  "name": "Timewarped Mycologist",
+  "pool": 3,
+  "cost": 2,
+  "kind": "minion",
+  "text": "Activate (1): Discover a Tavern spell and get a 1/1 Murloc to teach that spell.",
+  "files": [
+   "added-136342-timewarped-mycologist.webp",
+   "added-136342-timewarped-mycologist_golden.webp"
+  ],
+  "atk": 5,
+  "hp": 7,
+  "tribes": [
+   "MURLOC"
+  ],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_necromancer",
+  "name": "Timewarped Necromancer",
+  "pool": 3,
+  "cost": 1,
+  "kind": "minion",
+  "text": "Reborn. Activate (0): Discard a card to give your left-most Aberration Reborn.",
+  "files": [
+   "added-136264-timewarped-necromancer.webp",
+   "added-136264-timewarped-necromancer_golden.webp"
+  ],
+  "atk": 4,
+  "hp": 2,
+  "tribes": [
+   "ABERRATION"
+  ],
+  "all": false,
+  "kw": {
+   "reborn": true
+  }
+ },
+ {
+  "id": "S15_tw_outpourer",
+  "name": "Timewarped Outpourer",
+  "pool": 3,
+  "cost": 2,
+  "kind": "minion",
+  "text": "Whenever you play an Elemental, cast a random Elemental Invocation on it.",
+  "files": [
+   "added-135960-timewarped-outpourer.webp",
+   "added-135960-timewarped-outpourer_golden.webp"
+  ],
+  "atk": 6,
+  "hp": 6,
+  "tribes": [
+   "ELEMENTAL"
+  ],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_picky_eater",
+  "name": "Timewarped Picky Eater",
+  "pool": 3,
+  "cost": 2,
+  "kind": "minion",
+  "text": "Activate (0): Choose a minion in the Tavern. Consume it to gain its Bonus Keywords and stats.",
+  "files": [
+   "added-136443-timewarped-picky-eater.webp",
+   "added-136443-timewarped-picky-eater_golden.webp"
+  ],
+  "atk": 3,
+  "hp": 3,
+  "tribes": [
+   "DEMON"
+  ],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_piggy_bank",
+  "name": "Timewarped Piggy Bank",
+  "pool": 3,
+  "cost": 1,
+  "kind": "spell",
+  "text": "Gain 2 Gold. (Upgrades each turn!)",
+  "files": [
+   "added-136063-timewarped-piggy-bank.webp"
+  ]
+ },
+ {
+  "id": "S15_tw_prophet_of_the_boar",
+  "name": "Timewarped Prophet of the Boar",
+  "pool": 3,
+  "cost": 1,
+  "kind": "minion",
+  "text": "Taunt. After you play a Quilboar, get a Blood Gem and play another on this.",
+  "files": [
+   "added-135964-timewarped-prophet-of-the-boar.webp",
+   "added-135964-timewarped-prophet-of-the-boar_golden.webp"
+  ],
+  "atk": 4,
+  "hp": 8,
+  "tribes": [
+   "QUILBOAR"
+  ],
+  "all": false,
+  "kw": {
+   "taunt": true
+  }
+ },
+ {
+  "id": "S15_tw_recyclebot",
+  "name": "Timewarped Recyclebot",
+  "pool": 3,
+  "cost": 2,
+  "kind": "minion",
+  "text": "When you sell this, get a Magnetic Satellite with this minion's Bonus Keywords and stats.",
+  "files": [
+   "added-136276-timewarped-recyclebot.webp",
+   "added-136276-timewarped-recyclebot_golden.webp"
+  ],
+  "atk": 8,
+  "hp": 10,
+  "tribes": [
+   "MECHANICAL"
+  ],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_reflector",
+  "name": "Timewarped Reflector",
+  "pool": 3,
+  "cost": 1,
+  "kind": "minion",
+  "text": "After you cast a Tavern spell on a friendly minion, this casts it on the minion to the left of it.",
+  "files": [
+   "added-135970-timewarped-reflector.webp",
+   "added-135970-timewarped-reflector_golden.webp"
+  ],
+  "atk": 7,
+  "hp": 7,
+  "tribes": [],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_reverber_drake",
+  "name": "Timewarped Reverber Drake",
+  "pool": 3,
+  "cost": 2,
+  "kind": "minion",
+  "text": "Activate (0): Cast Echoing Roar on this and another friendly minion.",
+  "files": [
+   "added-136445-timewarped-reverber-drake.webp",
+   "added-136445-timewarped-reverber-drake_golden.webp"
+  ],
+  "atk": 4,
+  "hp": 4,
+  "tribes": [
+   "DRAGON"
+  ],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_rot",
+  "name": "Timewarped Rot",
+  "pool": 3,
+  "cost": 2,
+  "kind": "minion",
+  "text": "After you cast a spell on this, get a Growing Ooze. (2 times per turn.)",
+  "files": [
+   "added-136272-timewarped-rot.webp",
+   "added-136272-timewarped-rot_golden.webp"
+  ],
+  "atk": 5,
+  "hp": 6,
+  "tribes": [
+   "ABERRATION"
+  ],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_rylak",
+  "name": "Timewarped Rylak",
+  "pool": 3,
+  "cost": 1,
+  "kind": "minion",
+  "text": "Taunt. Deathrattle: Trigger adjacent minions Battlecries.",
+  "files": [
+   "added-136228-timewarped-rylak.webp",
+   "added-136228-timewarped-rylak_golden.webp"
+  ],
+  "atk": 6,
+  "hp": 4,
+  "tribes": [
+   "BEAST"
+  ],
+  "all": false,
+  "kw": {
+   "taunt": true
+  }
+ },
+ {
+  "id": "S15_tw_scrapsmith",
+  "name": "Timewarped Scrapsmith",
+  "pool": 3,
+  "cost": 1,
+  "kind": "minion",
+  "text": "Battlecry and Deathrattle: Get a Blood Gem that gives a Quilboar Taunt, Divine Shield, or Reborn.",
+  "files": [
+   "added-135966-timewarped-scrapsmith.webp",
+   "added-135966-timewarped-scrapsmith_golden.webp"
+  ],
+  "atk": 7,
+  "hp": 3,
+  "tribes": [
+   "QUILBOAR"
+  ],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_soldier",
+  "name": "Timewarped Soldier",
+  "pool": 3,
+  "cost": 1,
+  "kind": "minion",
+  "text": "Whenever this gains stats, also give the stats to your Deity.",
+  "files": [
+   "added-136266-timewarped-soldier.webp",
+   "added-136266-timewarped-soldier_golden.webp"
+  ],
+  "atk": 4,
+  "hp": 6,
+  "tribes": [
+   "ABERRATION"
+  ],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_sr_scout",
+  "name": "Timewarped Sr. Scout",
+  "pool": 3,
+  "cost": 2,
+  "kind": "minion",
+  "text": "When you sell this, Discover a Tier 2 minion with a Dark Gift. (Improves each turn!)",
+  "files": [
+   "added-135968-timewarped-sr-scout.webp",
+   "added-135968-timewarped-sr-scout_golden.webp"
+  ],
+  "atk": 7,
+  "hp": 7,
+  "tribes": [],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_telescope",
+  "name": "Timewarped Telescope",
+  "pool": 3,
+  "cost": 2,
+  "kind": "spell",
+  "text": "Discover a minion of your most common type with a Dark Gift.",
+  "files": [
+   "added-135959-timewarped-telescope.webp"
+  ]
+ },
+ {
+  "id": "S15_tw_traverser",
+  "name": "Timewarped Traverser",
+  "pool": 3,
+  "cost": 1,
+  "kind": "minion",
+  "text": "At the end of your turn, get a random Chromadrake and trigger its Battlecry.",
+  "files": [
+   "added-136447-timewarped-traverser.webp",
+   "added-136447-timewarped-traverser_golden.webp"
+  ],
+  "atk": 6,
+  "hp": 8,
+  "tribes": [
+   "DRAGON"
+  ],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_tumor",
+  "name": "Timewarped Tumor",
+  "pool": 3,
+  "cost": 2,
+  "kind": "minion",
+  "text": "Whenever you discard a minion, gain its Bonus Keywords and stats.",
+  "files": [
+   "added-136274-timewarped-tumor.webp",
+   "added-136274-timewarped-tumor_golden.webp"
+  ],
+  "atk": 2,
+  "hp": 8,
+  "tribes": [
+   "ABERRATION"
+  ],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_willbreaker",
+  "name": "Timewarped Willbreaker",
+  "pool": 3,
+  "cost": 1,
+  "kind": "minion",
+  "text": "Activate (1): Get 3 random Tavern spells. After you cast one, discard the others.",
+  "files": [
+   "added-136268-timewarped-willbreaker.webp",
+   "added-136268-timewarped-willbreaker_golden.webp"
+  ],
+  "atk": 3,
+  "hp": 5,
+  "tribes": [
+   "ABERRATION"
+  ],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_amalgadon",
+  "name": "Timewarped Amalgadon",
+  "pool": 5,
+  "cost": 2,
+  "kind": "minion",
+  "text": "Divine Shield. Taunt. Windfury. Venomous. Deathrattle: Summon two 1/1 Plants.",
+  "files": [
+   "added-136139-timewarped-amalgadon.webp",
+   "added-136139-timewarped-amalgadon_golden.webp"
+  ],
+  "atk": 8,
+  "hp": 8,
+  "tribes": [],
+  "all": true,
+  "kw": {
+   "shield": true,
+   "taunt": true,
+   "windfury": true,
+   "venom": true
+  }
+ },
+ {
+  "id": "S15_tw_ball_of_minions",
+  "name": "Timewarped Ball of Minions",
+  "pool": 5,
+  "cost": 2,
+  "kind": "minion",
+  "text": "Activate (3): Choose a different friendly minion. Give it this minion's stats.",
+  "files": [
+   "added-136141-timewarped-ball-of-minions.webp",
+   "added-136141-timewarped-ball-of-minions_golden.webp"
+  ],
+  "atk": 10,
+  "hp": 10,
+  "tribes": [],
+  "all": true,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_bronze_gatekeeper",
+  "name": "Timewarped Bronze Gatekeeper",
+  "pool": 5,
+  "cost": 1,
+  "kind": "minion",
+  "text": "Magnetic, Resilient",
+  "files": [
+   "added-136292-timewarped-bronze-gatekeeper.webp",
+   "added-136292-timewarped-bronze-gatekeeper_golden.webp"
+  ],
+  "atk": 1,
+  "hp": 20,
+  "tribes": [
+   "MECHANICAL"
+  ],
+  "all": false,
+  "kw": {
+   "resilient": true,
+   "magnetic": true
+  }
+ },
+ {
+  "id": "S15_tw_bubblebot",
+  "name": "Timewarped Bubblebot",
+  "pool": 5,
+  "cost": 2,
+  "kind": "minion",
+  "text": "Start of Combat: Give adjacent minions Divine Shield. If any already have it, it takes 2 more hits to break.",
+  "files": [
+   "added-136298-timewarped-bubblebot.webp",
+   "added-136298-timewarped-bubblebot_golden.webp"
+  ],
+  "atk": 3,
+  "hp": 8,
+  "tribes": [
+   "MECHANICAL"
+  ],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_cage_gnawer",
+  "name": "Timewarped Cage Gnawer",
+  "pool": 5,
+  "cost": 2,
+  "kind": "minion",
+  "text": "Whenever another friendly Beasts attacks, cast Goldrinn's Blessing.",
+  "files": [
+   "added-136238-timewarped-cage-gnawer.webp",
+   "added-136238-timewarped-cage-gnawer_golden.webp"
+  ],
+  "atk": 4,
+  "hp": 12,
+  "tribes": [
+   "BEAST"
+  ],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_clunker",
+  "name": "Timewarped Clunker",
+  "pool": 5,
+  "cost": 1,
+  "kind": "minion",
+  "text": "Activate (2): Discover 3 Magnetic Mechs.",
+  "files": [
+   "added-136294-timewarped-clunker.webp",
+   "added-136294-timewarped-clunker_golden.webp"
+  ],
+  "atk": 6,
+  "hp": 8,
+  "tribes": [
+   "MECHANICAL"
+  ],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_concierge",
+  "name": "Timewarped Concierge",
+  "pool": 5,
+  "cost": 1,
+  "kind": "minion",
+  "text": "Tavern spells that give stats cost (1) less.",
+  "files": [
+   "added-136300-timewarped-concierge.webp",
+   "added-136300-timewarped-concierge_golden.webp"
+  ],
+  "atk": 5,
+  "hp": 7,
+  "tribes": [
+   "PIRATE"
+  ],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_converter",
+  "name": "Timewarped Converter",
+  "pool": 5,
+  "cost": 1,
+  "kind": "minion",
+  "text": "Deathrattle: Give your Deity +4/+4. (Improved by each card you've discarded this game!)",
+  "files": [
+   "added-136284-timewarped-converter.webp",
+   "added-136284-timewarped-converter_golden.webp"
+  ],
+  "atk": 7,
+  "hp": 5,
+  "tribes": [
+   "ABERRATION"
+  ],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_deliverer",
+  "name": "Timewarped Deliverer",
+  "pool": 5,
+  "cost": 1,
+  "kind": "minion",
+  "text": "Activate (2): Discover a Golden Tier 4 minion.",
+  "files": [
+   "added-136302-timewarped-deliverer.webp",
+   "added-136302-timewarped-deliverer_golden.webp"
+  ],
+  "atk": 4,
+  "hp": 9,
+  "tribes": [
+   "PIRATE"
+  ],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_endurer",
+  "name": "Timewarped Endurer",
+  "pool": 5,
+  "cost": 2,
+  "kind": "minion",
+  "text": "After you play a Blood Gem on a minion, give it Resilient until next turn. (3 times per turn.)",
+  "files": [
+   "added-136133-timewarped-endurer.webp",
+   "added-136133-timewarped-endurer_golden.webp"
+  ],
+  "atk": 5,
+  "hp": 9,
+  "tribes": [
+   "QUILBOAR"
+  ],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_engineer",
+  "name": "Timewarped Engineer",
+  "pool": 5,
+  "cost": 2,
+  "kind": "minion",
+  "text": "Activate (3): Trigger all friendly end of turn effects.",
+  "files": [
+   "added-136407-timewarped-engineer.webp",
+   "added-136407-timewarped-engineer_golden.webp"
+  ],
+  "atk": 8,
+  "hp": 10,
+  "tribes": [
+   "DRAGON"
+  ],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_eye_of_gorath",
+  "name": "Timewarped Eye of Go'rath",
+  "pool": 5,
+  "cost": 2,
+  "kind": "minion",
+  "text": "Start of Combat: Gain the stats of your Deity.",
+  "files": [
+   "added-136308-timewarped-eye-of-gorath.webp",
+   "added-136308-timewarped-eye-of-gorath_golden.webp"
+  ],
+  "atk": 1,
+  "hp": 1,
+  "tribes": [
+   "ABERRATION"
+  ],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_flat_tusk",
+  "name": "Timewarped Flat Tusk",
+  "pool": 5,
+  "cost": 1,
+  "kind": "minion",
+  "text": "Whenever you spend 5 Gold, this casts a Blood Gem on all your Quilboar. (5 left)",
+  "files": [
+   "added-135904-timewarped-flat-tusk.webp",
+   "added-135904-timewarped-flat-tusk_golden.webp"
+  ],
+  "atk": 9,
+  "hp": 6,
+  "tribes": [
+   "QUILBOAR"
+  ],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_fuel",
+  "name": "Timewarped Fuel",
+  "pool": 5,
+  "cost": 1,
+  "kind": "spell",
+  "text": "Discover two Tier 6 minions with Dark Gifts.",
+  "files": [
+   "added-135974-timewarped-fuel.webp"
+  ]
+ },
+ {
+  "id": "S15_tw_future_fighter",
+  "name": "Timewarped Future Fighter",
+  "pool": 5,
+  "cost": 2,
+  "kind": "minion",
+  "text": "Battlecry minions cost (1) less.",
+  "files": [
+   "added-136409-timewarped-future-fighter.webp",
+   "added-136409-timewarped-future-fighter_golden.webp"
+  ],
+  "atk": 6,
+  "hp": 6,
+  "tribes": [
+   "DRAGON"
+  ],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_gem_smuggler",
+  "name": "Timewarped Gem Smuggler",
+  "pool": 5,
+  "cost": 2,
+  "kind": "minion",
+  "text": "Battlecry and Activate (0): This plays 2 Blood Gems on all your other minions.",
+  "files": [
+   "added-136135-timewarped-gem-smuggler.webp",
+   "added-136135-timewarped-gem-smuggler_golden.webp"
+  ],
+  "atk": 6,
+  "hp": 6,
+  "tribes": [
+   "QUILBOAR"
+  ],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_hardlight",
+  "name": "Timewarped Hardlight",
+  "pool": 5,
+  "cost": 1,
+  "kind": "minion",
+  "text": "Divine Shield. After a friendly Divine Shield prevents damage, gain that much Attack.",
+  "files": [
+   "added-135019-timewarped-hardlight.webp",
+   "added-135019-timewarped-hardlight_golden.webp"
+  ],
+  "atk": 7,
+  "hp": 7,
+  "tribes": [
+   "MECHANICAL"
+  ],
+  "all": false,
+  "kw": {
+   "shield": true
+  }
+ },
+ {
+  "id": "S15_tw_huhuran",
+  "name": "Timewarped Huhuran",
+  "pool": 5,
+  "cost": 1,
+  "kind": "minion",
+  "text": "Whenever you play a Deathrattle or Rally minion, trigger its Deathrattles and Rallies.",
+  "files": [
+   "added-136429-timewarped-huhuran.webp",
+   "added-136429-timewarped-huhuran_golden.webp"
+  ],
+  "atk": 8,
+  "hp": 9,
+  "tribes": [
+   "UNDEAD"
+  ],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_kthir",
+  "name": "Timewarped K'Thir",
+  "pool": 5,
+  "cost": 2,
+  "kind": "minion",
+  "text": "Activate (0): Discard all cards in your hand. Give your minions +5/+5 for each discarded.",
+  "files": [
+   "added-136280-timewarped-kthir.webp",
+   "added-136280-timewarped-kthir_golden.webp"
+  ],
+  "atk": 6,
+  "hp": 7,
+  "tribes": [
+   "ABERRATION"
+  ],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_looter",
+  "name": "Timewarped Looter",
+  "pool": 5,
+  "cost": 2,
+  "kind": "minion",
+  "text": "Minions in the Tavern from Tier 2 and below are replaced by Bounties.",
+  "files": [
+   "added-136304-timewarped-looter.webp",
+   "added-136304-timewarped-looter_golden.webp"
+  ],
+  "atk": 6,
+  "hp": 10,
+  "tribes": [
+   "PIRATE"
+  ],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_mecherel",
+  "name": "Timewarped Mecherel",
+  "pool": 5,
+  "cost": 1,
+  "kind": "minion",
+  "text": "Divine Shield. After a different friendly minion loses Divine Shield, gain Divine Shield.",
+  "files": [
+   "added-135750-timewarped-mecherel.webp",
+   "added-135750-timewarped-mecherel_golden.webp"
+  ],
+  "atk": 12,
+  "hp": 5,
+  "tribes": [
+   "MECHANICAL"
+  ],
+  "all": false,
+  "kw": {
+   "shield": true
+  }
+ },
+ {
+  "id": "S15_tw_mirror_mage",
+  "name": "Timewarped Mirror Mage",
+  "pool": 5,
+  "cost": 1,
+  "kind": "minion",
+  "text": "Activate (0): Get a plain copy of a random friendly minion (except Timewarped minions).",
+  "files": [
+   "added-136018-timewarped-mirror-mage.webp",
+   "added-136018-timewarped-mirror-mage_golden.webp"
+  ],
+  "atk": 9,
+  "hp": 9,
+  "tribes": [],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_mosher",
+  "name": "Timewarped Mosher",
+  "pool": 5,
+  "cost": 2,
+  "kind": "minion",
+  "text": "Resilient. Activate (1): Give another Demon +15 Health and Resilient.",
+  "files": [
+   "added-136433-timewarped-mosher.webp",
+   "added-136433-timewarped-mosher_golden.webp"
+  ],
+  "atk": 10,
+  "hp": 11,
+  "tribes": [
+   "DEMON"
+  ],
+  "all": false,
+  "kw": {
+   "resilient": true
+  }
+ },
+ {
+  "id": "S15_tw_mount",
+  "name": "Timewarped Mount",
+  "pool": 5,
+  "cost": 2,
+  "kind": "minion",
+  "text": "Battlecry, Deathrattle, and Rally: Get a Dragonstorm.",
+  "files": [
+   "added-136405-timewarped-mount.webp",
+   "added-136405-timewarped-mount_golden.webp"
+  ],
+  "atk": 5,
+  "hp": 7,
+  "tribes": [
+   "DRAGON"
+  ],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_murozond",
+  "name": "Timewarped Murozond",
+  "pool": 5,
+  "cost": 3,
+  "kind": "minion",
+  "text": "Activate (0): Discover a 2-Cost card from the Major Timewarp.",
+  "files": [
+   "added-136067-timewarped-murozond.webp",
+   "added-136067-timewarped-murozond_golden.webp"
+  ],
+  "atk": 8,
+  "hp": 8,
+  "tribes": [
+   "DRAGON"
+  ],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_nether_construct",
+  "name": "Timewarped Nether Construct",
+  "pool": 5,
+  "cost": 2,
+  "kind": "minion",
+  "text": "Activate (1): Double the stats of minions in the Tavern.",
+  "files": [
+   "added-135898-timewarped-nether-construct.webp",
+   "added-135898-timewarped-nether-construct_golden.webp"
+  ],
+  "atk": 8,
+  "hp": 8,
+  "tribes": [
+   "ELEMENTAL"
+  ],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_nightmare",
+  "name": "Timewarped Nightmare",
+  "pool": 5,
+  "cost": 2,
+  "kind": "minion",
+  "text": "Deathrattle: Give a different friendly Undead \"Deathrattle: Summon a Timewarped Nightmare.\"",
+  "files": [
+   "added-136022-timewarped-nightmare.webp",
+   "added-136022-timewarped-nightmare_golden.webp"
+  ],
+  "atk": 8,
+  "hp": 5,
+  "tribes": [
+   "UNDEAD"
+  ],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_phalanx",
+  "name": "Timewarped Phalanx",
+  "pool": 5,
+  "cost": 1,
+  "kind": "minion",
+  "text": "Deathrattle: Give a friendly minion of each type +2/+2 permanently. Improves after you play a minion with no type.",
+  "files": [
+   "added-136137-timewarped-phalanx.webp",
+   "added-136137-timewarped-phalanx_golden.webp"
+  ],
+  "atk": 5,
+  "hp": 5,
+  "tribes": [],
+  "all": true,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_replicator",
+  "name": "Timewarped Replicator",
+  "pool": 5,
+  "cost": 1,
+  "kind": "minion",
+  "text": "Deathrattle: Discard your 2 right-most cards to summon a Timewarped Replicator.",
+  "files": [
+   "added-135987-timewarped-replicator.webp",
+   "added-135987-timewarped-replicator_golden.webp"
+  ],
+  "atk": 12,
+  "hp": 4,
+  "tribes": [
+   "ABERRATION"
+  ],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_rite_of_atrocity",
+  "name": "Timewarped Rite of Atrocity",
+  "pool": 5,
+  "cost": 1,
+  "kind": "spell",
+  "text": "Choose a minion to get a plain copy of. Then choose a Dark Gift to give it.",
+  "files": [
+   "added-135975-timewarped-rite-of-atrocity.webp"
+  ]
+ },
+ {
+  "id": "S15_tw_sabercat",
+  "name": "Timewarped Sabercat",
+  "pool": 5,
+  "cost": 1,
+  "kind": "minion",
+  "text": "Whenever a friendly Deathrattle minion dies, your Tavern spells give an extra +1 Attack this game.",
+  "files": [
+   "added-136024-timewarped-sabercat.webp",
+   "added-136024-timewarped-sabercat_golden.webp"
+  ],
+  "atk": 10,
+  "hp": 6,
+  "tribes": [
+   "BEAST"
+  ],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_sanctifier",
+  "name": "Timewarped Sanctifier",
+  "pool": 5,
+  "cost": 2,
+  "kind": "minion",
+  "text": "At the end of your turn, cast Sanctify. Repeat for each friendly minion with Divine Shield.",
+  "files": [
+   "added-136296-timewarped-sanctifier.webp",
+   "added-136296-timewarped-sanctifier_golden.webp"
+  ],
+  "atk": 7,
+  "hp": 4,
+  "tribes": [
+   "MECHANICAL"
+  ],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_sergeant",
+  "name": "Timewarped Sergeant",
+  "pool": 5,
+  "cost": 1,
+  "kind": "minion",
+  "text": "Deathrattle: Give your other minions +3 Health. (Improves permanently after this gains Attack!)",
+  "files": [
+   "added-135906-timewarped-sergeant.webp",
+   "added-135906-timewarped-sergeant_golden.webp"
+  ],
+  "atk": 8,
+  "hp": 5,
+  "tribes": [
+   "UNDEAD"
+  ],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_slinger",
+  "name": "Timewarped Slinger",
+  "pool": 5,
+  "cost": 2,
+  "kind": "minion",
+  "text": "Battlecry: Make another Murloc Golden.",
+  "files": [
+   "added-135902-timewarped-slinger.webp",
+   "added-135902-timewarped-slinger_golden.webp"
+  ],
+  "atk": 5,
+  "hp": 5,
+  "tribes": [
+   "MURLOC"
+  ],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_spawn_of_nzoth",
+  "name": "Timewarped Spawn of N'Zoth",
+  "pool": 5,
+  "cost": 2,
+  "kind": "minion",
+  "text": "Deathrattle: Give this minion's maximum stats to your Deity.",
+  "files": [
+   "added-136290-timewarped-spawn-of-nzoth.webp",
+   "added-136290-timewarped-spawn-of-nzoth_golden.webp"
+  ],
+  "atk": 7,
+  "hp": 7,
+  "tribes": [
+   "ABERRATION"
+  ],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_story",
+  "name": "Timewarped Story",
+  "pool": 5,
+  "cost": 1,
+  "kind": "spell",
+  "text": "Give a minion every Bonus Keyword.",
+  "files": [
+   "added-135976-timewarped-story.webp"
+  ]
+ },
+ {
+  "id": "S15_tw_sweet_tooth",
+  "name": "Timewarped Sweet Tooth",
+  "pool": 5,
+  "cost": 1,
+  "kind": "minion",
+  "text": "Battlecry and Deathrattle: Get a Corrupted Coin.",
+  "files": [
+   "added-136310-timewarped-sweet-tooth.webp",
+   "added-136310-timewarped-sweet-tooth_golden.webp"
+  ],
+  "atk": 8,
+  "hp": 3,
+  "tribes": [
+   "ABERRATION"
+  ],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_terrorguard",
+  "name": "Timewarped Terrorguard",
+  "pool": 5,
+  "cost": 1,
+  "kind": "minion",
+  "text": "After you cast a Tavern spell, add 2 Fodders to your next Refresh.",
+  "files": [
+   "added-136435-timewarped-terrorguard.webp",
+   "added-136435-timewarped-terrorguard_golden.webp"
+  ],
+  "atk": 7,
+  "hp": 8,
+  "tribes": [
+   "DEMON"
+  ],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_thunder_knight",
+  "name": "Timewarped Thunder Knight",
+  "pool": 5,
+  "cost": 1,
+  "kind": "minion",
+  "text": "Battlecry and Deathrattle: Get a Command the Elements.",
+  "files": [
+   "added-135896-timewarped-thunder-knight.webp",
+   "added-135896-timewarped-thunder-knight_golden.webp"
+  ],
+  "atk": 5,
+  "hp": 5,
+  "tribes": [
+   "ELEMENTAL"
+  ],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_tickatus",
+  "name": "Timewarped Tickatus",
+  "pool": 5,
+  "cost": 1,
+  "kind": "minion",
+  "text": "Activate (3): Discover a Tier 3 Darkmoon Prize.",
+  "files": [
+   "added-135972-timewarped-tickatus.webp",
+   "added-135972-timewarped-tickatus_golden.webp"
+  ],
+  "atk": 6,
+  "hp": 8,
+  "tribes": [
+   "DEMON"
+  ],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_tour_group",
+  "name": "Timewarped Tour Group",
+  "pool": 5,
+  "cost": 1,
+  "kind": "minion",
+  "text": "Whenever you play a card, give friendly minions of its Tier or higher +2/+2.",
+  "files": [
+   "added-136143-timewarped-tour-group.webp",
+   "added-136143-timewarped-tour-group_golden.webp"
+  ],
+  "atk": 6,
+  "hp": 7,
+  "tribes": [],
+  "all": true,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_voidpriest",
+  "name": "Timewarped Voidpriest",
+  "pool": 5,
+  "cost": 1,
+  "kind": "minion",
+  "text": "After you discard a card, get a copy of it. (3 times per turn.)",
+  "files": [
+   "added-136286-timewarped-voidpriest.webp",
+   "added-136286-timewarped-voidpriest_golden.webp"
+  ],
+  "atk": 4,
+  "hp": 8,
+  "tribes": [
+   "ABERRATION"
+  ],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_wallow",
+  "name": "Timewarped Wallow",
+  "pool": 5,
+  "cost": 2,
+  "kind": "minion",
+  "text": "Activate (3): Discover a minion of your most common type from Tier 4 or above with a Dark Gift.",
+  "files": [
+   "added-135910-timewarped-wallow.webp",
+   "added-135910-timewarped-wallow_golden.webp"
+  ],
+  "atk": 10,
+  "hp": 10,
+  "tribes": [],
+  "all": false,
+  "kw": {}
+ },
+ {
+  "id": "S15_tw_wisdomball",
+  "name": "Timewarped Wisdomball",
+  "pool": 5,
+  "cost": 2,
+  "kind": "spell",
+  "text": "Your Refreshes this turn will occasionally be helpful.",
+  "files": [
+   "added-136340-timewarped-wisdomball.webp"
+  ]
+ }
+]

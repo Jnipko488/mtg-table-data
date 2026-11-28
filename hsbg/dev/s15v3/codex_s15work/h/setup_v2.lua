@@ -1,0 +1,16 @@
+-- generated from test227.json
+local o = makeObject({guid='7af774', type='Custom_Token', nickname='Highlight Mat', pos={-28.8,1.075,18.5}, rot={0.0,0.0,0.0}, scale={14.6,1.0,6.95}, locked=true, size={2,0.2,1.4}, tags={}})
+local o = makeObject({guid='73652b', type='Custom_Token', nickname='Highlight Mat', pos={28.8,1.075,18.5}, rot={0.0,0.0,0.0}, scale={14.6,1.0,6.95}, locked=true, size={2,0.2,1.4}, tags={}})
+local o = makeObject({guid='d203fb', type='Custom_Token', nickname='Highlight Mat', pos={-28.8,1.075,-18.5}, rot={0.0,0.0,0.0}, scale={14.6,1.0,6.95}, locked=true, size={2,0.2,1.4}, tags={}})
+local o = makeObject({guid='1184c1', type='Custom_Token', nickname='Highlight Mat', pos={28.8,1.075,-18.5}, rot={0.0,0.0,0.0}, scale={14.6,1.0,6.95}, locked=true, size={2,0.2,1.4}, tags={}})
+local o = makeObject({guid='25b273', type='Custom_Token', nickname='Highlight Mat', pos={86.4,-98.925,18.5}, rot={0.0,0.0,0.0}, scale={14.6,1.0,6.95}, locked=true, size={2,0.2,1.4}, tags={}})
+local o = makeObject({guid='8be353', type='Custom_Token', nickname='Highlight Mat', pos={86.4,-98.925,-18.5}, rot={0.0,0.0,0.0}, scale={14.6,1.0,6.95}, locked=true, size={2,0.2,1.4}, tags={}})
+local o = makeObject({guid='90759f', type='Custom_Token', nickname='Highlight Mat', pos={-86.4,-98.925,18.5}, rot={0.0,0.0,0.0}, scale={14.6,1.0,6.95}, locked=true, size={2,0.2,1.4}, tags={}})
+local o = makeObject({guid='869678', type='Custom_Token', nickname='Highlight Mat', pos={-86.4,-98.925,-18.5}, rot={0.0,0.0,0.0}, scale={14.6,1.0,6.95}, locked=true, size={2,0.2,1.4}, tags={}})
+local o = makeObject({guid='f06d01', type='Custom_Model', nickname='Tabletop Arena Setup Box', pos={0.0,2.08,11.4}, rot={0.0,0.0,0.0}, scale={1.0,1.0,1.0}, locked=true, size={6,0.4,6}, tags={}})
+attachScript(o, __readfile("scripts/f06d01.lua"))
+local o = makeObject({guid='b9a001', type='Custom_Model', nickname='Battlegrounds Tavern', pos={0.0,-2.5,0.0}, rot={0.0,0.0,0.0}, scale={0.42,0.42,0.42}, locked=true, size={6,0.4,6}, tags={}})
+attachScript(o, __readfile("scripts/b9a001.lua"))
+UI_IDS = {["CMinput"]=true,["CMtext"]=true,["GetValuePanel"]=true,["ListCloseButton"]=true,["ListImport"]=true,["ListMenuBar"]=true,["ListPanel"]=true,["ListTable"]=true,["ListWindowTitle"]=true,["MenuBar"]=true,["STtext"]=true,["SearchPanel"]=true,["SearchTable"]=true,["SearchTypePanel"]=true,["WindowTitle"]=true,["artifact"]=true,["closeButton"]=true,["creature"]=true,["enchantment"]=true,["instant"]=true,["land"]=true,["planeswalker"]=true,["repeatCascadeX"]=true,["repeatX"]=true,["search"]=true,["sorcery"]=true,["typeCustom"]=true,["vBlack"]=true,["vBlue"]=true,["vCmc"]=true,["vColorless"]=true,["vDeckList"]=true,["vEmblem"]=true,["vGreen"]=true,["vName"]=true,["vOther"]=true,["vPower"]=true,["vRed"]=true,["vToken"]=true,["vToughness"]=true,["vWhite"]=true}
+SCRIPTED = {{guid='f06d01', state=""},{guid='b9a001', state="{\"lastWarbands\":[],\"seats\":[],\"settings\":{\"anomalies\":false,\"bots\":true,\"buddies\":false,\"darkgifts\":true,\"decalFlip\":false,\"flip\":false,\"layout\":43,\"quests\":false,\"roster\":\"full\",\"season\":\"s14\",\"speed\":2,\"timer\":\"Default\",\"timewarp\":false,\"trinkets\":true}}"}}
+for _, s in ipairs(SCRIPTED) do local o = OBJECTS[s.guid]; if o.env.onLoad then protected(s.guid .. '.onLoad', o.env.onLoad, s.state) end end

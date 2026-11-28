@@ -1,0 +1,48 @@
+seatPlayer("White", true, "Nipko")
+pump(10)
+local T = OBJECTS["b9a001"]
+print("-- 1: Bots OFF, only 1 human -> visible error")
+click("b9a001", "bgBots", "White")
+click("b9a001", "bgStart", "White")
+pump(2)
+print("launcher: " .. buttons("f06d01"))
+print("tavern panel: " .. (OBJECTS["b9a001"].buttons[1].label:gsub("\n", " / ")))
+click("b9a001", "bgBots", "White")
+print("-- 2: open Codex lane game from the context menu, then click the Setup Box button")
+OBJECTS["f06d01"].ctx[#OBJECTS["f06d01"].ctx].fn("White")
+pump(5)
+print("arena boards " .. #getObjectsWithTag("table_arena_board_f06d01") .. " launcher: " .. buttons("f06d01"))
+click("f06d01", "toggleTableArena", "White")
+pump(3)
+print("arena boards " .. #getObjectsWithTag("table_arena_board_f06d01") .. " launcher: " .. buttons("f06d01"))
+print("-- 3: non-host click")
+seatPlayer("Red", false, "Friend")
+click("f06d01", "toggleTableArena", "Red")
+print("-- 4: Tavern START GAME")
+click("b9a001", "bgStart", "White")
+pump(20)
+local g = T.env.bgDebugState()
+print("game " .. tostring(g and g.phase) .. " players " .. #g.order .. " launcher: " .. buttons("f06d01"))
+local b = getObjectsWithTag("hsbg_board")
+for _, bo in ipairs(b) do print(bo.getName() .. ": " .. buttons(bo.getGUID())) end
+print("-- 5: play turns")
+for i = 1, 4 do
+    for _, bo in ipairs(getObjectsWithTag("hsbg_board")) do
+        for _, bt in ipairs(OBJECTS[bo.getGUID()].buttons) do if bt.click_function == "bgReady" then protected("ready", T.env.bgReady, bo, "White", false) end end
+    end
+    pump(40)
+    g = T.env.bgDebugState()
+    print("turn " .. g.turn .. " " .. g.phase)
+end
+print("-- 6: save + End")
+local st = T.env.onSave()
+SAVED_STATE = st
+print("state bytes " .. #st)
+click("f06d01", "toggleTableArena", "White")
+pump(4)
+print("after end: game " .. tostring(T.env.bgDebugState()) .. " boards " .. #getObjectsWithTag("hsbg_board") .. " cards " .. #getObjectsWithTag("hsbg_card") .. " launcher: " .. buttons("f06d01"))
+click("f06d01", "toggleTableArena", "White")
+pump(20)
+g = T.env.bgDebugState()
+print("restart: " .. tostring(g and g.phase) .. " turn " .. tostring(g and g.turn))
+print("== ERRORS: " .. #ERRORS)

@@ -1,0 +1,27 @@
+{
+ "BG26_524": {
+  "gtext": "Four Refreshes each turn cost Health instead of Gold. (4 left!)"
+ },
+ "BG31_815": {
+  "gtext": "Battlecry: Give Elementals in the Tavern +1/+1 this game twice."
+ },
+ "BG34_272": {
+  "text": "Give your minions +3/+3. Repeat for each different friendly minion type."
+ },
+ "S15_temple_keeper": {
+  "text": "Activate (0): Give another minion 2 random Bonus Keywords until next turn."
+ },
+ "S15_tw_fruit_vendor": {
+  "text": "Activate (0): Get 3 Tavern Dish Bananas."
+ },
+ "BG28_838": {
+  "text": "Set a minion's stats to 20/20."
+ },
+ "S15S_tumultuous_growth": {
+  "text": "Choose a minion. Cast 2 random Tavern spells (targeting it if possible)."
+ },
+ "BG23_017": {
+  "text": "Battlecry and Deathrattle: Your Blood Gems give an extra +2/+1 this game.",
+  "gtext": "Battlecry and Deathrattle: Your Blood Gems give an extra +4/+2 this game."
+ }
+}

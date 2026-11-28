@@ -1,0 +1,2060 @@
+{
+"added|growing-ooze": {
+"dbf": "132156",
+"n": "added-132156-growing-ooze.webp"
+},
+"added|nzoth": {
+"dbf": "132510",
+"n": "added-132510-nzoth.webp",
+"g": "added-132510-nzoth_golden.webp"
+},
+"added|obsessive-artisan": {
+"dbf": "134513",
+"n": "added-134513-obsessive-artisan.webp",
+"g": "added-134513-obsessive-artisan_golden.webp"
+},
+"added|hardy-felhound": {
+"dbf": "134521",
+"n": "added-134521-hardy-felhound.webp",
+"g": "added-134521-hardy-felhound_golden.webp"
+},
+"added|nonchalant-napper": {
+"dbf": "134523",
+"n": "added-134523-nonchalant-napper.webp",
+"g": "added-134523-nonchalant-napper_golden.webp"
+},
+"added|pain-promoter": {
+"dbf": "134525",
+"n": "added-134525-pain-promoter.webp",
+"g": "added-134525-pain-promoter_golden.webp"
+},
+"added|imp-erial": {
+"dbf": "134527",
+"n": "added-134527-imp-erial.webp",
+"g": "added-134527-imp-erial_golden.webp"
+},
+"added|future-fighter": {
+"dbf": "134529",
+"n": "added-134529-future-fighter.webp",
+"g": "added-134529-future-fighter_golden.webp"
+},
+"added|scaled-sovereign": {
+"dbf": "134533",
+"n": "added-134533-scaled-sovereign.webp",
+"g": "added-134533-scaled-sovereign_golden.webp"
+},
+"added|twilight-traverser": {
+"dbf": "134535",
+"n": "added-134535-twilight-traverser.webp",
+"g": "added-134535-twilight-traverser_golden.webp"
+},
+"added|thunder-knight": {
+"dbf": "134537",
+"n": "added-134537-thunder-knight.webp",
+"g": "added-134537-thunder-knight_golden.webp"
+},
+"added|land-upheaver": {
+"dbf": "134539",
+"n": "added-134539-land-upheaver.webp",
+"g": "added-134539-land-upheaver_golden.webp"
+},
+"added|tsunami-surfer": {
+"dbf": "134541",
+"n": "added-134541-tsunami-surfer.webp",
+"g": "added-134541-tsunami-surfer_golden.webp"
+},
+"added|effusive-dancer": {
+"dbf": "134543",
+"n": "added-134543-effusive-dancer.webp",
+"g": "added-134543-effusive-dancer_golden.webp"
+},
+"added|prototype-builder": {
+"dbf": "134547",
+"n": "added-134547-prototype-builder.webp",
+"g": "added-134547-prototype-builder_golden.webp"
+},
+"added|hammer-hero": {
+"dbf": "134549",
+"n": "added-134549-hammer-hero.webp",
+"g": "added-134549-hammer-hero_golden.webp"
+},
+"added|gorloc-gardener": {
+"dbf": "134555",
+"n": "added-134555-gorloc-gardener.webp",
+"g": "added-134555-gorloc-gardener_golden.webp"
+},
+"added|bloodfin-scholar": {
+"dbf": "134557",
+"n": "added-134557-bloodfin-scholar.webp",
+"g": "added-134557-bloodfin-scholar_golden.webp"
+},
+"added|hostile-haggler": {
+"dbf": "134573",
+"n": "added-134573-hostile-haggler.webp",
+"g": "added-134573-hostile-haggler_golden.webp"
+},
+"added|freedom-fighter": {
+"dbf": "134577",
+"n": "added-134577-freedom-fighter.webp",
+"g": "added-134577-freedom-fighter_golden.webp"
+},
+"added|voidtouched-geopriestess": {
+"dbf": "134579",
+"n": "added-134579-voidtouched-geopriestess.webp",
+"g": "added-134579-voidtouched-geopriestess_golden.webp"
+},
+"added|dauntless-adventurer": {
+"dbf": "134581",
+"n": "added-134581-dauntless-adventurer.webp",
+"g": "added-134581-dauntless-adventurer_golden.webp"
+},
+"added|tenacious-thorn-witch": {
+"dbf": "134585",
+"n": "added-134585-tenacious-thorn-witch.webp",
+"g": "added-134585-tenacious-thorn-witch_golden.webp"
+},
+"added|brutal-bristlethorn": {
+"dbf": "134587",
+"n": "added-134587-brutal-bristlethorn.webp",
+"g": "added-134587-brutal-bristlethorn_golden.webp"
+},
+"added|saronite-colossus": {
+"dbf": "134589",
+"n": "added-134589-saronite-colossus.webp",
+"g": "added-134589-saronite-colossus_golden.webp"
+},
+"added|patrolling-gargoyle": {
+"dbf": "134593",
+"n": "added-134593-patrolling-gargoyle.webp",
+"g": "added-134593-patrolling-gargoyle_golden.webp"
+},
+"added|crypt-crawler": {
+"dbf": "134595",
+"n": "added-134595-crypt-crawler.webp",
+"g": "added-134595-crypt-crawler_golden.webp"
+},
+"added|tainted-tormentor": {
+"dbf": "134609",
+"n": "added-134609-tainted-tormentor.webp",
+"g": "added-134609-tainted-tormentor_golden.webp"
+},
+"added|erupting-eyestalk": {
+"dbf": "134611",
+"n": "added-134611-erupting-eyestalk.webp",
+"g": "added-134611-erupting-eyestalk_golden.webp"
+},
+"added|underrot-infestor": {
+"dbf": "134613",
+"n": "added-134613-underrot-infestor.webp",
+"g": "added-134613-underrot-infestor_golden.webp"
+},
+"added|shambling-shadowfiend": {
+"dbf": "134615",
+"n": "added-134615-shambling-shadowfiend.webp",
+"g": "added-134615-shambling-shadowfiend_golden.webp"
+},
+"added|vindictive-preacher": {
+"dbf": "134619",
+"n": "added-134619-vindictive-preacher.webp",
+"g": "added-134619-vindictive-preacher_golden.webp"
+},
+"added|timewarped-muscle-o-tron": {
+"dbf": "135007",
+"n": "added-135007-timewarped-muscle-o-tron.webp",
+"g": "added-135007-timewarped-muscle-o-tron_golden.webp"
+},
+"added|surging-sanctifier": {
+"dbf": "135013",
+"n": "added-135013-surging-sanctifier.webp",
+"g": "added-135013-surging-sanctifier_golden.webp"
+},
+"added|timewarped-hardlight": {
+"dbf": "135019",
+"n": "added-135019-timewarped-hardlight.webp",
+"g": "added-135019-timewarped-hardlight_golden.webp"
+},
+"added|light-generator": {
+"dbf": "135023",
+"n": "added-135023-light-generator.webp",
+"g": "added-135023-light-generator_golden.webp"
+},
+"added|wave-watcher": {
+"dbf": "135215",
+"n": "added-135215-wave-watcher.webp",
+"g": "added-135215-wave-watcher_golden.webp"
+},
+"added|invocation-of-water": {
+"dbf": "135222",
+"n": "added-135222-invocation-of-water.webp"
+},
+"added|invocation-of-earth": {
+"dbf": "135223",
+"n": "added-135223-invocation-of-earth.webp"
+},
+"added|invocation-of-fire": {
+"dbf": "135224",
+"n": "added-135224-invocation-of-fire.webp"
+},
+"added|invocation-of-air": {
+"dbf": "135225",
+"n": "added-135225-invocation-of-air.webp"
+},
+"added|command-the-elements": {
+"dbf": "135226",
+"n": "added-135226-command-the-elements.webp"
+},
+"added|scaretaker": {
+"dbf": "135238",
+"n": "added-135238-scaretaker.webp",
+"g": "added-135238-scaretaker_golden.webp"
+},
+"added|graveyard-skulker": {
+"dbf": "135242",
+"n": "added-135242-graveyard-skulker.webp",
+"g": "added-135242-graveyard-skulker_golden.webp"
+},
+"added|unholy-ritual": {
+"dbf": "135260",
+"n": "added-135260-unholy-ritual.webp"
+},
+"added|greymist-infiltrator": {
+"dbf": "135473",
+"n": "added-135473-greymist-infiltrator.webp",
+"g": "added-135473-greymist-infiltrator_golden.webp"
+},
+"added|squirky": {
+"dbf": "135479",
+"n": "added-135479-squirky.webp",
+"g": "added-135479-squirky_golden.webp"
+},
+"added|timeless-mount": {
+"dbf": "135611",
+"n": "added-135611-timeless-mount.webp",
+"g": "added-135611-timeless-mount_golden.webp"
+},
+"added|bot-launcher": {
+"dbf": "135699",
+"n": "added-135699-bot-launcher.webp",
+"g": "added-135699-bot-launcher_golden.webp"
+},
+"added|crooked-banker": {
+"dbf": "135703",
+"n": "added-135703-crooked-banker.webp",
+"g": "added-135703-crooked-banker_golden.webp"
+},
+"added|ruthless-pursuer": {
+"dbf": "135705",
+"n": "added-135705-ruthless-pursuer.webp",
+"g": "added-135705-ruthless-pursuer_golden.webp"
+},
+"added|timewarped-mecherel": {
+"dbf": "135750",
+"n": "added-135750-timewarped-mecherel.webp",
+"g": "added-135750-timewarped-mecherel_golden.webp"
+},
+"added|crafty-cookfire": {
+"dbf": "135872",
+"n": "added-135872-crafty-cookfire.webp",
+"g": "added-135872-crafty-cookfire_golden.webp"
+},
+"added|driftaway-djinni": {
+"dbf": "135874",
+"n": "added-135874-driftaway-djinni.webp",
+"g": "added-135874-driftaway-djinni_golden.webp"
+},
+"added|desert-duelist": {
+"dbf": "135876",
+"n": "added-135876-desert-duelist.webp",
+"g": "added-135876-desert-duelist_golden.webp"
+},
+"added|timewarped-thunder-knight": {
+"dbf": "135896",
+"n": "added-135896-timewarped-thunder-knight.webp",
+"g": "added-135896-timewarped-thunder-knight_golden.webp"
+},
+"added|timewarped-nether-construct": {
+"dbf": "135898",
+"n": "added-135898-timewarped-nether-construct.webp",
+"g": "added-135898-timewarped-nether-construct_golden.webp"
+},
+"added|timewarped-slinger": {
+"dbf": "135902",
+"n": "added-135902-timewarped-slinger.webp",
+"g": "added-135902-timewarped-slinger_golden.webp"
+},
+"added|timewarped-flat-tusk": {
+"dbf": "135904",
+"n": "added-135904-timewarped-flat-tusk.webp",
+"g": "added-135904-timewarped-flat-tusk_golden.webp"
+},
+"added|timewarped-sergeant": {
+"dbf": "135906",
+"n": "added-135906-timewarped-sergeant.webp",
+"g": "added-135906-timewarped-sergeant_golden.webp"
+},
+"added|timewarped-clan-trainer": {
+"dbf": "135908",
+"n": "added-135908-timewarped-clan-trainer.webp",
+"g": "added-135908-timewarped-clan-trainer_golden.webp"
+},
+"added|timewarped-wallow": {
+"dbf": "135910",
+"n": "added-135910-timewarped-wallow.webp",
+"g": "added-135910-timewarped-wallow_golden.webp"
+},
+"added|timewarped-contortionist": {
+"dbf": "135912",
+"n": "added-135912-timewarped-contortionist.webp",
+"g": "added-135912-timewarped-contortionist_golden.webp"
+},
+"added|shackled-shade": {
+"dbf": "135914",
+"n": "added-135914-shackled-shade.webp",
+"g": "added-135914-shackled-shade_golden.webp"
+},
+"added|defense-mechanism": {
+"dbf": "135916",
+"n": "added-135916-defense-mechanism.webp",
+"g": "added-135916-defense-mechanism_golden.webp"
+},
+"added|ambitious-recruit": {
+"dbf": "135940",
+"n": "added-135940-ambitious-recruit.webp",
+"g": "added-135940-ambitious-recruit_golden.webp"
+},
+"added|timewarped-telescope": {
+"dbf": "135959",
+"n": "added-135959-timewarped-telescope.webp"
+},
+"added|timewarped-outpourer": {
+"dbf": "135960",
+"n": "added-135960-timewarped-outpourer.webp",
+"g": "added-135960-timewarped-outpourer_golden.webp"
+},
+"added|timewarped-avalanche-caller": {
+"dbf": "135962",
+"n": "added-135962-timewarped-avalanche-caller.webp",
+"g": "added-135962-timewarped-avalanche-caller_golden.webp"
+},
+"added|timewarped-prophet-of-the-boar": {
+"dbf": "135964",
+"n": "added-135964-timewarped-prophet-of-the-boar.webp",
+"g": "added-135964-timewarped-prophet-of-the-boar_golden.webp"
+},
+"added|timewarped-scrapsmith": {
+"dbf": "135966",
+"n": "added-135966-timewarped-scrapsmith.webp",
+"g": "added-135966-timewarped-scrapsmith_golden.webp"
+},
+"added|timewarped-sr-scout": {
+"dbf": "135968",
+"n": "added-135968-timewarped-sr-scout.webp",
+"g": "added-135968-timewarped-sr-scout_golden.webp"
+},
+"added|timewarped-reflector": {
+"dbf": "135970",
+"n": "added-135970-timewarped-reflector.webp",
+"g": "added-135970-timewarped-reflector_golden.webp"
+},
+"added|timewarped-tickatus": {
+"dbf": "135972",
+"n": "added-135972-timewarped-tickatus.webp",
+"g": "added-135972-timewarped-tickatus_golden.webp"
+},
+"added|timewarped-fuel": {
+"dbf": "135974",
+"n": "added-135974-timewarped-fuel.webp"
+},
+"added|timewarped-rite-of-atrocity": {
+"dbf": "135975",
+"n": "added-135975-timewarped-rite-of-atrocity.webp"
+},
+"added|timewarped-story": {
+"dbf": "135976",
+"n": "added-135976-timewarped-story.webp"
+},
+"added|merciless-warden": {
+"dbf": "135977",
+"n": "added-135977-merciless-warden.webp",
+"g": "added-135977-merciless-warden_golden.webp"
+},
+"added|faceless-necromancer": {
+"dbf": "135981",
+"n": "added-135981-faceless-necromancer.webp",
+"g": "added-135981-faceless-necromancer_golden.webp"
+},
+"added|ominous-ooze": {
+"dbf": "135985",
+"n": "added-135985-ominous-ooze.webp",
+"g": "added-135985-ominous-ooze_golden.webp"
+},
+"added|timewarped-replicator": {
+"dbf": "135987",
+"n": "added-135987-timewarped-replicator.webp",
+"g": "added-135987-timewarped-replicator_golden.webp"
+},
+"added|timewarped-cutlassier": {
+"dbf": "135989",
+"n": "added-135989-timewarped-cutlassier.webp",
+"g": "added-135989-timewarped-cutlassier_golden.webp"
+},
+"added|dragonstorm": {
+"dbf": "136015",
+"n": "added-136015-dragonstorm.webp"
+},
+"added|timewarped-graverobber": {
+"dbf": "136016",
+"n": "added-136016-timewarped-graverobber.webp",
+"g": "added-136016-timewarped-graverobber_golden.webp"
+},
+"added|timewarped-mirror-mage": {
+"dbf": "136018",
+"n": "added-136018-timewarped-mirror-mage.webp",
+"g": "added-136018-timewarped-mirror-mage_golden.webp"
+},
+"added|timewarped-nightmare": {
+"dbf": "136022",
+"n": "added-136022-timewarped-nightmare.webp",
+"g": "added-136022-timewarped-nightmare_golden.webp"
+},
+"added|timewarped-sabercat": {
+"dbf": "136024",
+"n": "added-136024-timewarped-sabercat.webp",
+"g": "added-136024-timewarped-sabercat_golden.webp"
+},
+"added|temple-keeper": {
+"dbf": "136053",
+"n": "added-136053-temple-keeper.webp",
+"g": "added-136053-temple-keeper_golden.webp"
+},
+"added|power-of-snake-eyes": {
+"dbf": "136057",
+"n": "added-136057-power-of-snake-eyes.webp"
+},
+"added|power-of-clocksworth": {
+"dbf": "136058",
+"n": "added-136058-power-of-clocksworth.webp"
+},
+"added|power-of-buttons": {
+"dbf": "136060",
+"n": "added-136060-power-of-buttons.webp"
+},
+"added|power-of-murozond": {
+"dbf": "136061",
+"n": "added-136061-power-of-murozond.webp"
+},
+"added|power-of-zerek": {
+"dbf": "136062",
+"n": "added-136062-power-of-zerek.webp"
+},
+"added|timewarped-piggy-bank": {
+"dbf": "136063",
+"n": "added-136063-timewarped-piggy-bank.webp"
+},
+"added|timewarped-morchie": {
+"dbf": "136064",
+"n": "added-136064-timewarped-morchie.webp",
+"g": "added-136064-timewarped-morchie_golden.webp"
+},
+"added|timewarped-murozond": {
+"dbf": "136067",
+"n": "added-136067-timewarped-murozond.webp",
+"g": "added-136067-timewarped-murozond_golden.webp"
+},
+"added|tumultuous-growth": {
+"dbf": "136070",
+"n": "added-136070-tumultuous-growth.webp"
+},
+"added|vanessa-the-ringleader": {
+"dbf": "136099",
+"n": "added-136099-vanessa-the-ringleader.webp"
+},
+"added|strategic-edge": {
+"dbf": "136100",
+"n": "added-136100-strategic-edge.webp"
+},
+"added|goldrinns-blessing": {
+"dbf": "136104",
+"n": "added-136104-goldrinns-blessing.webp"
+},
+"added|cunning-chameleon": {
+"dbf": "136106",
+"n": "added-136106-cunning-chameleon.webp",
+"g": "added-136106-cunning-chameleon_golden.webp"
+},
+"added|great-wolf-cub": {
+"dbf": "136108",
+"n": "added-136108-great-wolf-cub.webp",
+"g": "added-136108-great-wolf-cub_golden.webp"
+},
+"added|ribbiting-magician": {
+"dbf": "136110",
+"n": "added-136110-ribbiting-magician.webp",
+"g": "added-136110-ribbiting-magician_golden.webp"
+},
+"added|loti-devilsaur-form": {
+"dbf": "136112",
+"n": "added-136112-loti-devilsaur-form.webp",
+"g": "added-136112-loti-devilsaur-form_golden.webp"
+},
+"added|young-mukla": {
+"dbf": "136123",
+"n": "added-136123-young-mukla.webp",
+"g": "added-136123-young-mukla_golden.webp"
+},
+"added|flying-monkey": {
+"dbf": "136125",
+"n": "added-136125-flying-monkey.webp",
+"g": "added-136125-flying-monkey_golden.webp"
+},
+"added|great-direwolf": {
+"dbf": "136127",
+"n": "added-136127-great-direwolf.webp",
+"g": "added-136127-great-direwolf_golden.webp"
+},
+"added|elder-moonbeast": {
+"dbf": "136129",
+"n": "added-136129-elder-moonbeast.webp",
+"g": "added-136129-elder-moonbeast_golden.webp"
+},
+"added|timewarped-endurer": {
+"dbf": "136133",
+"n": "added-136133-timewarped-endurer.webp",
+"g": "added-136133-timewarped-endurer_golden.webp"
+},
+"added|timewarped-gem-smuggler": {
+"dbf": "136135",
+"n": "added-136135-timewarped-gem-smuggler.webp",
+"g": "added-136135-timewarped-gem-smuggler_golden.webp"
+},
+"added|timewarped-phalanx": {
+"dbf": "136137",
+"n": "added-136137-timewarped-phalanx.webp",
+"g": "added-136137-timewarped-phalanx_golden.webp"
+},
+"added|timewarped-amalgadon": {
+"dbf": "136139",
+"n": "added-136139-timewarped-amalgadon.webp",
+"g": "added-136139-timewarped-amalgadon_golden.webp"
+},
+"added|timewarped-ball-of-minions": {
+"dbf": "136141",
+"n": "added-136141-timewarped-ball-of-minions.webp",
+"g": "added-136141-timewarped-ball-of-minions_golden.webp"
+},
+"added|timewarped-tour-group": {
+"dbf": "136143",
+"n": "added-136143-timewarped-tour-group.webp",
+"g": "added-136143-timewarped-tour-group_golden.webp"
+},
+"added|timewarped-holmes": {
+"dbf": "136149",
+"n": "added-136149-timewarped-holmes.webp",
+"g": "added-136149-timewarped-holmes_golden.webp"
+},
+"added|timewarped-amalgam-of-the-deep": {
+"dbf": "136151",
+"n": "added-136151-timewarped-amalgam-of-the-deep.webp",
+"g": "added-136151-timewarped-amalgam-of-the-deep_golden.webp"
+},
+"added|patron-gatherer": {
+"dbf": "136159",
+"n": "added-136159-patron-gatherer.webp",
+"g": "added-136159-patron-gatherer_golden.webp"
+},
+"added|ucha-the-mighty": {
+"dbf": "136214",
+"n": "added-136214-ucha-the-mighty.webp",
+"g": "added-136214-ucha-the-mighty_golden.webp"
+},
+"added|timewarped-rylak": {
+"dbf": "136228",
+"n": "added-136228-timewarped-rylak.webp",
+"g": "added-136228-timewarped-rylak_golden.webp"
+},
+"added|timewarped-fruit-vendor": {
+"dbf": "136230",
+"n": "added-136230-timewarped-fruit-vendor.webp",
+"g": "added-136230-timewarped-fruit-vendor_golden.webp"
+},
+"added|timewarped-cub": {
+"dbf": "136232",
+"n": "added-136232-timewarped-cub.webp",
+"g": "added-136232-timewarped-cub_golden.webp"
+},
+"added|eternus": {
+"dbf": "136236",
+"n": "added-136236-eternus.webp"
+},
+"added|dawn-of-the-infinite": {
+"dbf": "136237",
+"n": "added-136237-dawn-of-the-infinite.webp"
+},
+"added|timewarped-cage-gnawer": {
+"dbf": "136238",
+"n": "added-136238-timewarped-cage-gnawer.webp",
+"g": "added-136238-timewarped-cage-gnawer_golden.webp"
+},
+"added|cut-rate-crewman": {
+"dbf": "136260",
+"n": "added-136260-cut-rate-crewman.webp",
+"g": "added-136260-cut-rate-crewman_golden.webp"
+},
+"added|ambitious-cannoneer": {
+"dbf": "136262",
+"n": "added-136262-ambitious-cannoneer.webp",
+"g": "added-136262-ambitious-cannoneer_golden.webp"
+},
+"added|timewarped-necromancer": {
+"dbf": "136264",
+"n": "added-136264-timewarped-necromancer.webp",
+"g": "added-136264-timewarped-necromancer_golden.webp"
+},
+"added|timewarped-soldier": {
+"dbf": "136266",
+"n": "added-136266-timewarped-soldier.webp",
+"g": "added-136266-timewarped-soldier_golden.webp"
+},
+"added|timewarped-willbreaker": {
+"dbf": "136268",
+"n": "added-136268-timewarped-willbreaker.webp",
+"g": "added-136268-timewarped-willbreaker_golden.webp"
+},
+"added|timewarped-duke": {
+"dbf": "136270",
+"n": "added-136270-timewarped-duke.webp",
+"g": "added-136270-timewarped-duke_golden.webp"
+},
+"added|timewarped-rot": {
+"dbf": "136272",
+"n": "added-136272-timewarped-rot.webp",
+"g": "added-136272-timewarped-rot_golden.webp"
+},
+"added|timewarped-tumor": {
+"dbf": "136274",
+"n": "added-136274-timewarped-tumor.webp",
+"g": "added-136274-timewarped-tumor_golden.webp"
+},
+"added|timewarped-recyclebot": {
+"dbf": "136276",
+"n": "added-136276-timewarped-recyclebot.webp",
+"g": "added-136276-timewarped-recyclebot_golden.webp"
+},
+"added|timewarped-breakout": {
+"dbf": "136278",
+"n": "added-136278-timewarped-breakout.webp",
+"g": "added-136278-timewarped-breakout_golden.webp"
+},
+"added|timewarped-kthir": {
+"dbf": "136280",
+"n": "added-136280-timewarped-kthir.webp",
+"g": "added-136280-timewarped-kthir_golden.webp"
+},
+"added|timewarped-converter": {
+"dbf": "136284",
+"n": "added-136284-timewarped-converter.webp",
+"g": "added-136284-timewarped-converter_golden.webp"
+},
+"added|timewarped-voidpriest": {
+"dbf": "136286",
+"n": "added-136286-timewarped-voidpriest.webp",
+"g": "added-136286-timewarped-voidpriest_golden.webp"
+},
+"added|timewarped-spawn-of-nzoth": {
+"dbf": "136290",
+"n": "added-136290-timewarped-spawn-of-nzoth.webp",
+"g": "added-136290-timewarped-spawn-of-nzoth_golden.webp"
+},
+"added|timewarped-bronze-gatekeeper": {
+"dbf": "136292",
+"n": "added-136292-timewarped-bronze-gatekeeper.webp",
+"g": "added-136292-timewarped-bronze-gatekeeper_golden.webp"
+},
+"added|timewarped-clunker": {
+"dbf": "136294",
+"n": "added-136294-timewarped-clunker.webp",
+"g": "added-136294-timewarped-clunker_golden.webp"
+},
+"added|timewarped-sanctifier": {
+"dbf": "136296",
+"n": "added-136296-timewarped-sanctifier.webp",
+"g": "added-136296-timewarped-sanctifier_golden.webp"
+},
+"added|timewarped-bubblebot": {
+"dbf": "136298",
+"n": "added-136298-timewarped-bubblebot.webp",
+"g": "added-136298-timewarped-bubblebot_golden.webp"
+},
+"added|timewarped-concierge": {
+"dbf": "136300",
+"n": "added-136300-timewarped-concierge.webp",
+"g": "added-136300-timewarped-concierge_golden.webp"
+},
+"added|timewarped-deliverer": {
+"dbf": "136302",
+"n": "added-136302-timewarped-deliverer.webp",
+"g": "added-136302-timewarped-deliverer_golden.webp"
+},
+"added|timewarped-looter": {
+"dbf": "136304",
+"n": "added-136304-timewarped-looter.webp",
+"g": "added-136304-timewarped-looter_golden.webp"
+},
+"added|timewarped-eye-of-gorath": {
+"dbf": "136308",
+"n": "added-136308-timewarped-eye-of-gorath.webp",
+"g": "added-136308-timewarped-eye-of-gorath_golden.webp"
+},
+"added|timewarped-sweet-tooth": {
+"dbf": "136310",
+"n": "added-136310-timewarped-sweet-tooth.webp",
+"g": "added-136310-timewarped-sweet-tooth_golden.webp"
+},
+"added|timewarped-wisdomball": {
+"dbf": "136340",
+"n": "added-136340-timewarped-wisdomball.webp"
+},
+"added|timewarped-mycologist": {
+"dbf": "136342",
+"n": "added-136342-timewarped-mycologist.webp",
+"g": "added-136342-timewarped-mycologist_golden.webp"
+},
+"added|sickly-ooze": {
+"dbf": "136344",
+"n": "added-136344-sickly-ooze.webp",
+"g": "added-136344-sickly-ooze_golden.webp"
+},
+"added|eclectic-musician": {
+"dbf": "136346",
+"n": "added-136346-eclectic-musician.webp",
+"g": "added-136346-eclectic-musician_golden.webp"
+},
+"added|timewarped-assistant": {
+"dbf": "136388",
+"n": "added-136388-timewarped-assistant.webp",
+"g": "added-136388-timewarped-assistant_golden.webp"
+},
+"added|timewarped-mount": {
+"dbf": "136405",
+"n": "added-136405-timewarped-mount.webp",
+"g": "added-136405-timewarped-mount_golden.webp"
+},
+"added|timewarped-engineer": {
+"dbf": "136407",
+"n": "added-136407-timewarped-engineer.webp",
+"g": "added-136407-timewarped-engineer_golden.webp"
+},
+"added|timewarped-future-fighter": {
+"dbf": "136409",
+"n": "added-136409-timewarped-future-fighter.webp",
+"g": "added-136409-timewarped-future-fighter_golden.webp"
+},
+"added|timewarped-huhuran": {
+"dbf": "136429",
+"n": "added-136429-timewarped-huhuran.webp",
+"g": "added-136429-timewarped-huhuran_golden.webp"
+},
+"added|timewarped-mosher": {
+"dbf": "136433",
+"n": "added-136433-timewarped-mosher.webp",
+"g": "added-136433-timewarped-mosher_golden.webp"
+},
+"added|timewarped-terrorguard": {
+"dbf": "136435",
+"n": "added-136435-timewarped-terrorguard.webp",
+"g": "added-136435-timewarped-terrorguard_golden.webp"
+},
+"added|timewarped-picky-eater": {
+"dbf": "136443",
+"n": "added-136443-timewarped-picky-eater.webp",
+"g": "added-136443-timewarped-picky-eater_golden.webp"
+},
+"added|timewarped-reverber-drake": {
+"dbf": "136445",
+"n": "added-136445-timewarped-reverber-drake.webp",
+"g": "added-136445-timewarped-reverber-drake_golden.webp"
+},
+"added|timewarped-traverser": {
+"dbf": "136447",
+"n": "added-136447-timewarped-traverser.webp",
+"g": "added-136447-timewarped-traverser_golden.webp"
+},
+"added|ossifier": {
+"dbf": "136591",
+"n": "added-136591-ossifier.webp",
+"g": "added-136591-ossifier_golden.webp"
+},
+"new|pointy-arrow": {
+"dbf": "100596",
+"n": "new-100596-pointy-arrow.webp"
+},
+"new|echoing-roar": {
+"dbf": "104440",
+"n": "new-104440-echoing-roar.webp"
+},
+"new|emerald-proto-whelp": {
+"dbf": "105523",
+"n": "new-105523-emerald-proto-whelp.webp",
+"g": "new-105523-emerald-proto-whelp_golden.webp"
+},
+"new|ignition-specialist": {
+"dbf": "105852",
+"n": "new-105852-ignition-specialist.webp",
+"g": "new-105852-ignition-specialist_golden.webp"
+},
+"new|ancestral-automaton": {
+"dbf": "108432",
+"n": "new-108432-ancestral-automaton.webp",
+"g": "new-108432-ancestral-automaton_golden.webp"
+},
+"new|free-travel-winner": {
+"dbf": "113128",
+"n": "new-113128-free-travel-winner.webp",
+"g": "new-113128-free-travel-winner_golden.webp"
+},
+"new|thundering-abomination": {
+"dbf": "113156",
+"n": "new-113156-thundering-abomination.webp",
+"g": "new-113156-thundering-abomination_golden.webp"
+},
+"new|clunker-junker": {
+"dbf": "113766",
+"n": "new-113766-clunker-junker.webp",
+"g": "new-113766-clunker-junker_golden.webp"
+},
+"new|catacomb-crasher": {
+"dbf": "114379",
+"n": "new-114379-catacomb-crasher.webp",
+"g": "new-114379-catacomb-crasher_golden.webp"
+},
+"new|three-lil-quilboar": {
+"dbf": "114486",
+"n": "new-114486-three-lil-quilboar.webp",
+"g": "new-114486-three-lil-quilboar_golden.webp"
+},
+"new|hackerfin": {
+"dbf": "115848",
+"n": "new-115848-hackerfin.webp",
+"g": "new-115848-hackerfin_golden.webp"
+},
+"new|reverber-drake": {
+"dbf": "116023",
+"n": "new-116023-reverber-drake.webp",
+"g": "new-116023-reverber-drake_golden.webp"
+},
+"new|efficient-engineer": {
+"dbf": "116025",
+"n": "new-116025-efficient-engineer.webp",
+"g": "new-116025-efficient-engineer_golden.webp"
+},
+"new|bubble-gunner": {
+"dbf": "116178",
+"n": "new-116178-bubble-gunner.webp",
+"g": "new-116178-bubble-gunner_golden.webp"
+},
+"new|batty-terrorguard": {
+"dbf": "116697",
+"n": "new-116697-batty-terrorguard.webp",
+"g": "new-116697-batty-terrorguard_golden.webp"
+},
+"new|surfing-sylvar": {
+"dbf": "119994",
+"n": "new-119994-surfing-sylvar.webp",
+"g": "new-119994-surfing-sylvar_golden.webp"
+},
+"new|auto-assembler": {
+"dbf": "120025",
+"n": "new-120025-auto-assembler.webp",
+"g": "new-120025-auto-assembler_golden.webp"
+},
+"new|shoalfin-mystic": {
+"dbf": "120215",
+"n": "new-120215-shoalfin-mystic.webp",
+"g": "new-120215-shoalfin-mystic_golden.webp"
+},
+"new|intrepid-botanist": {
+"dbf": "120223",
+"n": "new-120223-intrepid-botanist.webp",
+"g": "new-120223-intrepid-botanist_golden.webp"
+},
+"new|felfire-conjurer": {
+"dbf": "120299",
+"n": "new-120299-felfire-conjurer.webp",
+"g": "new-120299-felfire-conjurer_golden.webp"
+},
+"new|fire-forged-evoker": {
+"dbf": "120301",
+"n": "new-120301-fire-forged-evoker.webp",
+"g": "new-120301-fire-forged-evoker_golden.webp"
+},
+"new|shadowdancer": {
+"dbf": "120662",
+"n": "new-120662-shadowdancer.webp",
+"g": "new-120662-shadowdancer_golden.webp"
+},
+"new|dream-inquisitor": {
+"dbf": "120664",
+"n": "new-120664-dream-inquisitor.webp",
+"g": "new-120664-dream-inquisitor_golden.webp"
+},
+"new|apprentice-of-sefin": {
+"dbf": "120681",
+"n": "new-120681-apprentice-of-sefin.webp",
+"g": "new-120681-apprentice-of-sefin_golden.webp"
+},
+"new|primitive-painter": {
+"dbf": "122281",
+"n": "new-122281-primitive-painter.webp",
+"g": "new-122281-primitive-painter_golden.webp"
+},
+"new|bloodsnout-warlord": {
+"dbf": "122564",
+"n": "new-122564-bloodsnout-warlord.webp",
+"g": "new-122564-bloodsnout-warlord_golden.webp"
+},
+"new|hog-watcher": {
+"dbf": "122737",
+"n": "new-122737-hog-watcher.webp",
+"g": "new-122737-hog-watcher_golden.webp"
+},
+"new|sanctify": {
+"dbf": "122899",
+"n": "new-122899-sanctify.webp"
+},
+"new|wizened-captain": {
+"dbf": "122921",
+"n": "new-122921-wizened-captain.webp",
+"g": "new-122921-wizened-captain_golden.webp"
+},
+"new|divine-sparkbot": {
+"dbf": "123644",
+"n": "new-123644-divine-sparkbot.webp",
+"g": "new-123644-divine-sparkbot_golden.webp"
+},
+"new|timewarped-evolving-tavern": {
+"dbf": "126154",
+"n": "new-126154-timewarped-evolving-tavern.webp"
+},
+"new|timewarped-master-thief": {
+"dbf": "126156",
+"n": "new-126156-timewarped-master-thief.webp"
+},
+"new|timewarped-on-the-house": {
+"dbf": "126157",
+"n": "new-126157-timewarped-on-the-house.webp"
+},
+"new|timewarped-rat-in-a-cage": {
+"dbf": "126159",
+"n": "new-126159-timewarped-rat-in-a-cage.webp"
+},
+"new|timewarped-bananas": {
+"dbf": "126165",
+"n": "new-126165-timewarped-bananas.webp"
+},
+"new|timewarped-busker": {
+"dbf": "126235",
+"n": "new-126235-timewarped-busker.webp",
+"g": "new-126235-timewarped-busker_golden.webp"
+},
+"new|power-of-alakir": {
+"dbf": "126237",
+"n": "new-126237-power-of-alakir.webp"
+},
+"new|timewarped-annoy-o-tron": {
+"dbf": "126239",
+"n": "new-126239-timewarped-annoy-o-tron.webp",
+"g": "new-126239-timewarped-annoy-o-tron_golden.webp"
+},
+"new|timewarped-new-recruit": {
+"dbf": "126262",
+"n": "new-126262-timewarped-new-recruit.webp"
+},
+"new|power-of-elise": {
+"dbf": "126266",
+"n": "new-126266-power-of-elise.webp"
+},
+"new|power-of-george": {
+"dbf": "126267",
+"n": "new-126267-power-of-george.webp"
+},
+"new|power-of-shudderwock": {
+"dbf": "126269",
+"n": "new-126269-power-of-shudderwock.webp"
+},
+"new|power-of-teron": {
+"dbf": "126270",
+"n": "new-126270-power-of-teron.webp"
+},
+"new|power-of-the-lich-king": {
+"dbf": "126271",
+"n": "new-126271-power-of-the-lich-king.webp"
+},
+"new|power-of-zephrys": {
+"dbf": "126273",
+"n": "new-126273-power-of-zephrys.webp"
+},
+"new|power-of-guff": {
+"dbf": "126276",
+"n": "new-126276-power-of-guff.webp"
+},
+"new|timewarped-molten-rock": {
+"dbf": "126285",
+"n": "new-126285-timewarped-molten-rock.webp",
+"g": "new-126285-timewarped-molten-rock_golden.webp"
+},
+"new|timewarped-alleycat": {
+"dbf": "126343",
+"n": "new-126343-timewarped-alleycat.webp",
+"g": "new-126343-timewarped-alleycat_golden.webp"
+},
+"new|timewarped-scourfin": {
+"dbf": "126351",
+"n": "new-126351-timewarped-scourfin.webp",
+"g": "new-126351-timewarped-scourfin_golden.webp"
+},
+"new|timewarped-strike-oil": {
+"dbf": "126397",
+"n": "new-126397-timewarped-strike-oil.webp"
+},
+"new|timewarped-evolution": {
+"dbf": "126398",
+"n": "new-126398-timewarped-evolution.webp"
+},
+"new|timewarped-armor-stash": {
+"dbf": "126399",
+"n": "new-126399-timewarped-armor-stash.webp"
+},
+"new|timewarped-corpse": {
+"dbf": "126401",
+"n": "new-126401-timewarped-corpse.webp"
+},
+"new|timewarped-chefs-choice": {
+"dbf": "126404",
+"n": "new-126404-timewarped-chefs-choice.webp"
+},
+"new|timewarped-nomi": {
+"dbf": "126514",
+"n": "new-126514-timewarped-nomi.webp",
+"g": "new-126514-timewarped-nomi_golden.webp"
+},
+"new|timewarped-glowscale": {
+"dbf": "126517",
+"n": "new-126517-timewarped-glowscale.webp",
+"g": "new-126517-timewarped-glowscale_golden.webp"
+},
+"new|timewarped-elise": {
+"dbf": "126521",
+"n": "new-126521-timewarped-elise.webp",
+"g": "new-126521-timewarped-elise_golden.webp"
+},
+"new|timewarped-winner": {
+"dbf": "126522",
+"n": "new-126522-timewarped-winner.webp",
+"g": "new-126522-timewarped-winner_golden.webp"
+},
+"new|timewarped-greenskeeper": {
+"dbf": "126524",
+"n": "new-126524-timewarped-greenskeeper.webp",
+"g": "new-126524-timewarped-greenskeeper_golden.webp"
+},
+"new|timewarped-chameleon": {
+"dbf": "126525",
+"n": "new-126525-timewarped-chameleon.webp",
+"g": "new-126525-timewarped-chameleon_golden.webp"
+},
+"new|timewarped-jungle-king": {
+"dbf": "126548",
+"n": "new-126548-timewarped-jungle-king.webp",
+"g": "new-126548-timewarped-jungle-king_golden.webp"
+},
+"new|timewarped-overfiend": {
+"dbf": "126558",
+"n": "new-126558-timewarped-overfiend.webp",
+"g": "new-126558-timewarped-overfiend_golden.webp"
+},
+"new|timewarped-imp-filtrator": {
+"dbf": "126560",
+"n": "new-126560-timewarped-imp-filtrator.webp",
+"g": "new-126560-timewarped-imp-filtrator_golden.webp"
+},
+"new|timewarped-prismscale": {
+"dbf": "126565",
+"n": "new-126565-timewarped-prismscale.webp",
+"g": "new-126565-timewarped-prismscale_golden.webp"
+},
+"new|timewarped-stormcloud": {
+"dbf": "126568",
+"n": "new-126568-timewarped-stormcloud.webp",
+"g": "new-126568-timewarped-stormcloud_golden.webp"
+},
+"new|timewarped-squallfin": {
+"dbf": "126574",
+"n": "new-126574-timewarped-squallfin.webp",
+"g": "new-126574-timewarped-squallfin_golden.webp"
+},
+"new|timewarped-raider": {
+"dbf": "126578",
+"n": "new-126578-timewarped-raider.webp",
+"g": "new-126578-timewarped-raider_golden.webp"
+},
+"new|timewarped-plunderer": {
+"dbf": "126580",
+"n": "new-126580-timewarped-plunderer.webp",
+"g": "new-126580-timewarped-plunderer_golden.webp"
+},
+"new|timewarped-bloodbinder": {
+"dbf": "126583",
+"n": "new-126583-timewarped-bloodbinder.webp",
+"g": "new-126583-timewarped-bloodbinder_golden.webp"
+},
+"new|timewarped-anubarak": {
+"dbf": "126584",
+"n": "new-126584-timewarped-anubarak.webp",
+"g": "new-126584-timewarped-anubarak_golden.webp"
+},
+"new|timewarped-whelp-smuggler": {
+"dbf": "126754",
+"n": "new-126754-timewarped-whelp-smuggler.webp",
+"g": "new-126754-timewarped-whelp-smuggler_golden.webp"
+},
+"new|timewarped-lubber": {
+"dbf": "126756",
+"n": "new-126756-timewarped-lubber.webp",
+"g": "new-126756-timewarped-lubber_golden.webp"
+},
+"new|timewarped-sellemental": {
+"dbf": "126757",
+"n": "new-126757-timewarped-sellemental.webp",
+"g": "new-126757-timewarped-sellemental_golden.webp"
+},
+"new|timewarped-deathswarmer": {
+"dbf": "126761",
+"n": "new-126761-timewarped-deathswarmer.webp",
+"g": "new-126761-timewarped-deathswarmer_golden.webp"
+},
+"new|timewarped-recycler": {
+"dbf": "126762",
+"n": "new-126762-timewarped-recycler.webp",
+"g": "new-126762-timewarped-recycler_golden.webp"
+},
+"new|junk-jouster": {
+"dbf": "126830",
+"n": "new-126830-junk-jouster.webp",
+"g": "new-126830-junk-jouster_golden.webp"
+},
+"new|wintergrasp-ghoul": {
+"dbf": "126955",
+"n": "new-126955-wintergrasp-ghoul.webp",
+"g": "new-126955-wintergrasp-ghoul_golden.webp"
+},
+"new|stone-age-slab": {
+"dbf": "126959",
+"n": "new-126959-stone-age-slab.webp",
+"g": "new-126959-stone-age-slab_golden.webp"
+},
+"new|timewarped-bonker": {
+"dbf": "126974",
+"n": "new-126974-timewarped-bonker.webp",
+"g": "new-126974-timewarped-bonker_golden.webp"
+},
+"new|timewarped-piper": {
+"dbf": "127096",
+"n": "new-127096-timewarped-piper.webp",
+"g": "new-127096-timewarped-piper_golden.webp"
+},
+"new|timewarped-boar": {
+"dbf": "127097",
+"n": "new-127097-timewarped-boar.webp",
+"g": "new-127097-timewarped-boar_golden.webp"
+},
+"new|timewarped-saurolisk": {
+"dbf": "127126",
+"n": "new-127126-timewarped-saurolisk.webp",
+"g": "new-127126-timewarped-saurolisk_golden.webp"
+},
+"new|timewarped-bassgill": {
+"dbf": "127128",
+"n": "new-127128-timewarped-bassgill.webp",
+"g": "new-127128-timewarped-bassgill_golden.webp"
+},
+"new|timewarped-skipper": {
+"dbf": "127129",
+"n": "new-127129-timewarped-skipper.webp",
+"g": "new-127129-timewarped-skipper_golden.webp"
+},
+"new|timewarped-pillager": {
+"dbf": "127132",
+"n": "new-127132-timewarped-pillager.webp",
+"g": "new-127132-timewarped-pillager_golden.webp"
+},
+"new|timewarped-sea-glass": {
+"dbf": "127167",
+"n": "new-127167-timewarped-sea-glass.webp",
+"g": "new-127167-timewarped-sea-glass_golden.webp"
+},
+"new|timewarped-nalaa": {
+"dbf": "127168",
+"n": "new-127168-timewarped-nalaa.webp",
+"g": "new-127168-timewarped-nalaa_golden.webp"
+},
+"new|timewarped-murky": {
+"dbf": "127180",
+"n": "new-127180-timewarped-murky.webp",
+"g": "new-127180-timewarped-murky_golden.webp"
+},
+"new|timewarped-murcules": {
+"dbf": "127181",
+"n": "new-127181-timewarped-murcules.webp",
+"g": "new-127181-timewarped-murcules_golden.webp"
+},
+"new|timewarped-pagle": {
+"dbf": "127182",
+"n": "new-127182-timewarped-pagle.webp",
+"g": "new-127182-timewarped-pagle_golden.webp"
+},
+"new|timewarped-sensei": {
+"dbf": "127245",
+"n": "new-127245-timewarped-sensei.webp",
+"g": "new-127245-timewarped-sensei_golden.webp"
+},
+"new|timewarped-ragnaros": {
+"dbf": "127246",
+"n": "new-127246-timewarped-ragnaros.webp",
+"g": "new-127246-timewarped-ragnaros_golden.webp"
+},
+"new|timewarped-centurion": {
+"dbf": "127293",
+"n": "new-127293-timewarped-centurion.webp",
+"g": "new-127293-timewarped-centurion_golden.webp"
+},
+"new|timewarped-investment": {
+"dbf": "127323",
+"n": "new-127323-timewarped-investment.webp"
+},
+"new|timewarped-beanstalk": {
+"dbf": "127324",
+"n": "new-127324-timewarped-beanstalk.webp"
+},
+"new|power-of-sylvanas": {
+"dbf": "127401",
+"n": "new-127401-power-of-sylvanas.webp"
+},
+"new|timewarped-geomancer": {
+"dbf": "127430",
+"n": "new-127430-timewarped-geomancer.webp",
+"g": "new-127430-timewarped-geomancer_golden.webp"
+},
+"new|timewarped-jazzer": {
+"dbf": "127431",
+"n": "new-127431-timewarped-jazzer.webp",
+"g": "new-127431-timewarped-jazzer_golden.webp"
+},
+"new|timewarped-poet": {
+"dbf": "127441",
+"n": "new-127441-timewarped-poet.webp",
+"g": "new-127441-timewarped-poet_golden.webp"
+},
+"new|timewarped-warghoul": {
+"dbf": "127443",
+"n": "new-127443-timewarped-warghoul.webp",
+"g": "new-127443-timewarped-warghoul_golden.webp"
+},
+"new|timewarped-mrrrglr": {
+"dbf": "127498",
+"n": "new-127498-timewarped-mrrrglr.webp",
+"g": "new-127498-timewarped-mrrrglr_golden.webp"
+},
+"new|timewarped-peggy": {
+"dbf": "127508",
+"n": "new-127508-timewarped-peggy.webp",
+"g": "new-127508-timewarped-peggy_golden.webp"
+},
+"new|timewarped-scout": {
+"dbf": "127510",
+"n": "new-127510-timewarped-scout.webp",
+"g": "new-127510-timewarped-scout_golden.webp"
+},
+"new|timewarped-copter": {
+"dbf": "127517",
+"n": "new-127517-timewarped-copter.webp",
+"g": "new-127517-timewarped-copter_golden.webp"
+},
+"new|timewarped-rewinder": {
+"dbf": "127539",
+"n": "new-127539-timewarped-rewinder.webp",
+"g": "new-127539-timewarped-rewinder_golden.webp"
+},
+"new|timewarped-nellies-ship": {
+"dbf": "127556",
+"n": "new-127556-timewarped-nellies-ship.webp",
+"g": "new-127556-timewarped-nellies-ship_golden.webp"
+},
+"new|timewarped-shivarra": {
+"dbf": "127567",
+"n": "new-127567-timewarped-shivarra.webp",
+"g": "new-127567-timewarped-shivarra_golden.webp"
+},
+"new|timewarped-tide-razor": {
+"dbf": "127568",
+"n": "new-127568-timewarped-tide-razor.webp",
+"g": "new-127568-timewarped-tide-razor_golden.webp"
+},
+"new|timewarped-substrate": {
+"dbf": "127647",
+"n": "new-127647-timewarped-substrate.webp",
+"g": "new-127647-timewarped-substrate_golden.webp"
+},
+"new|timewarped-revelation": {
+"dbf": "127709",
+"n": "new-127709-timewarped-revelation.webp"
+},
+"new|timewarped-behemoth": {
+"dbf": "127710",
+"n": "new-127710-timewarped-behemoth.webp",
+"g": "new-127710-timewarped-behemoth_golden.webp"
+},
+"new|timewarped-hyena": {
+"dbf": "127714",
+"n": "new-127714-timewarped-hyena.webp",
+"g": "new-127714-timewarped-hyena_golden.webp"
+},
+"new|timewarped-devourer": {
+"dbf": "127721",
+"n": "new-127721-timewarped-devourer.webp",
+"g": "new-127721-timewarped-devourer_golden.webp"
+},
+"new|timewarped-kilrek": {
+"dbf": "127723",
+"n": "new-127723-timewarped-kilrek.webp",
+"g": "new-127723-timewarped-kilrek_golden.webp"
+},
+"new|timewarped-vaelastrasz": {
+"dbf": "127725",
+"n": "new-127725-timewarped-vaelastrasz.webp",
+"g": "new-127725-timewarped-vaelastrasz_golden.webp"
+},
+"new|timewarped-snow-elemental": {
+"dbf": "127727",
+"n": "new-127727-timewarped-snow-elemental.webp",
+"g": "new-127727-timewarped-snow-elemental_golden.webp"
+},
+"new|timewarped-sailor": {
+"dbf": "127733",
+"n": "new-127733-timewarped-sailor.webp",
+"g": "new-127733-timewarped-sailor_golden.webp"
+},
+"new|timewarped-festergut": {
+"dbf": "127735",
+"n": "new-127735-timewarped-festergut.webp",
+"g": "new-127735-timewarped-festergut_golden.webp"
+},
+"new|timewarped-interpreter": {
+"dbf": "127739",
+"n": "new-127739-timewarped-interpreter.webp",
+"g": "new-127739-timewarped-interpreter_golden.webp"
+},
+"new|timewarped-acolyte": {
+"dbf": "127761",
+"n": "new-127761-timewarped-acolyte.webp",
+"g": "new-127761-timewarped-acolyte_golden.webp"
+},
+"new|timewarped-henchman": {
+"dbf": "127765",
+"n": "new-127765-timewarped-henchman.webp",
+"g": "new-127765-timewarped-henchman_golden.webp"
+},
+"new|timewarped-botani": {
+"dbf": "127767",
+"n": "new-127767-timewarped-botani.webp",
+"g": "new-127767-timewarped-botani_golden.webp"
+},
+"new|timewarped-tamuzo": {
+"dbf": "127769",
+"n": "new-127769-timewarped-tamuzo.webp",
+"g": "new-127769-timewarped-tamuzo_golden.webp"
+},
+"new|timewarped-archimonde": {
+"dbf": "127771",
+"n": "new-127771-timewarped-archimonde.webp",
+"g": "new-127771-timewarped-archimonde_golden.webp"
+},
+"new|timewarped-immortal": {
+"dbf": "127773",
+"n": "new-127773-timewarped-immortal.webp",
+"g": "new-127773-timewarped-immortal_golden.webp"
+},
+"new|timewarped-ritual": {
+"dbf": "127774",
+"n": "new-127774-timewarped-ritual.webp"
+},
+"new|timewarped-mothership": {
+"dbf": "127776",
+"n": "new-127776-timewarped-mothership.webp",
+"g": "new-127776-timewarped-mothership_golden.webp"
+},
+"new|timewarped-kiljaeden": {
+"dbf": "127780",
+"n": "new-127780-timewarped-kiljaeden.webp",
+"g": "new-127780-timewarped-kiljaeden_golden.webp"
+},
+"new|timewarped-lei": {
+"dbf": "127790",
+"n": "new-127790-timewarped-lei.webp",
+"g": "new-127790-timewarped-lei_golden.webp"
+},
+"new|timewarped-murk-eye": {
+"dbf": "127799",
+"n": "new-127799-timewarped-murk-eye.webp",
+"g": "new-127799-timewarped-murk-eye_golden.webp"
+},
+"new|timewarped-painter": {
+"dbf": "127800",
+"n": "new-127800-timewarped-painter.webp",
+"g": "new-127800-timewarped-painter_golden.webp"
+},
+"new|timewarped-mystic": {
+"dbf": "127801",
+"n": "new-127801-timewarped-mystic.webp",
+"g": "new-127801-timewarped-mystic_golden.webp"
+},
+"new|timewarped-summoner": {
+"dbf": "127830",
+"n": "new-127830-timewarped-summoner.webp",
+"g": "new-127830-timewarped-summoner_golden.webp"
+},
+"new|timewarped-goldenizer": {
+"dbf": "127865",
+"n": "new-127865-timewarped-goldenizer.webp"
+},
+"new|timewarped-bandit": {
+"dbf": "127868",
+"n": "new-127868-timewarped-bandit.webp",
+"g": "new-127868-timewarped-bandit_golden.webp"
+},
+"new|timewarped-lil-quilboar": {
+"dbf": "127877",
+"n": "new-127877-timewarped-lil-quilboar.webp",
+"g": "new-127877-timewarped-lil-quilboar_golden.webp"
+},
+"new|timewarped-tipper": {
+"dbf": "127948",
+"n": "new-127948-timewarped-tipper.webp",
+"g": "new-127948-timewarped-tipper_golden.webp"
+},
+"new|timewarped-traveler": {
+"dbf": "127962",
+"n": "new-127962-timewarped-traveler.webp",
+"g": "new-127962-timewarped-traveler_golden.webp"
+},
+"new|timewarped-big-winner": {
+"dbf": "127965",
+"n": "new-127965-timewarped-big-winner.webp"
+},
+"new|timewarped-trainee": {
+"dbf": "127967",
+"n": "new-127967-timewarped-trainee.webp"
+},
+"new|timewarped-lasso": {
+"dbf": "127970",
+"n": "new-127970-timewarped-lasso.webp"
+},
+"new|timewarped-scroll": {
+"dbf": "127972",
+"n": "new-127972-timewarped-scroll.webp"
+},
+"new|timewarped-shadowdancer": {
+"dbf": "128003",
+"n": "new-128003-timewarped-shadowdancer.webp",
+"g": "new-128003-timewarped-shadowdancer_golden.webp"
+},
+"new|timewarped-thief": {
+"dbf": "128015",
+"n": "new-128015-timewarped-thief.webp"
+},
+"new|timewarped-ghoul-acabra": {
+"dbf": "128044",
+"n": "new-128044-timewarped-ghoul-acabra.webp",
+"g": "new-128044-timewarped-ghoul-acabra_golden.webp"
+},
+"new|timewarped-goldrinn": {
+"dbf": "128111",
+"n": "new-128111-timewarped-goldrinn.webp",
+"g": "new-128111-timewarped-goldrinn_golden.webp"
+},
+"new|timewarped-gemsplitter": {
+"dbf": "128117",
+"n": "new-128117-timewarped-gemsplitter.webp",
+"g": "new-128117-timewarped-gemsplitter_golden.webp"
+},
+"new|timewarped-caretaker": {
+"dbf": "128177",
+"n": "new-128177-timewarped-caretaker.webp",
+"g": "new-128177-timewarped-caretaker_golden.webp"
+},
+"new|timewarped-hawkstrider": {
+"dbf": "128211",
+"n": "new-128211-timewarped-hawkstrider.webp",
+"g": "new-128211-timewarped-hawkstrider_golden.webp"
+},
+"new|timewarped-zerus": {
+"dbf": "128917",
+"n": "new-128917-timewarped-zerus.webp",
+"g": "new-128917-timewarped-zerus_golden.webp"
+},
+"new|timewarped-trumpeter": {
+"dbf": "129101",
+"n": "new-129101-timewarped-trumpeter.webp",
+"g": "new-129101-timewarped-trumpeter_golden.webp"
+},
+"new|timewarped-wargear": {
+"dbf": "129109",
+"n": "new-129109-timewarped-wargear.webp",
+"g": "new-129109-timewarped-wargear_golden.webp"
+},
+"new|timewarped-collector": {
+"dbf": "129114",
+"n": "new-129114-timewarped-collector.webp",
+"g": "new-129114-timewarped-collector_golden.webp"
+},
+"new|timewarped-hag": {
+"dbf": "129119",
+"n": "new-129119-timewarped-hag.webp",
+"g": "new-129119-timewarped-hag_golden.webp"
+},
+"new|timewarped-mythrax": {
+"dbf": "129128",
+"n": "new-129128-timewarped-mythrax.webp",
+"g": "new-129128-timewarped-mythrax_golden.webp"
+},
+"new|timewarped-secrecy": {
+"dbf": "129289",
+"n": "new-129289-timewarped-secrecy.webp"
+},
+"new|timewarped-chimera": {
+"dbf": "129428",
+"n": "new-129428-timewarped-chimera.webp",
+"g": "new-129428-timewarped-chimera_golden.webp"
+},
+"new|scarlet-survivor": {
+"dbf": "129749",
+"n": "new-129749-scarlet-survivor.webp",
+"g": "new-129749-scarlet-survivor_golden.webp"
+},
+"new|void-pup-trainer": {
+"dbf": "130078",
+"n": "new-130078-void-pup-trainer.webp",
+"g": "new-130078-void-pup-trainer_golden.webp"
+},
+"new|bristleback-bully": {
+"dbf": "130145",
+"n": "new-130145-bristleback-bully.webp",
+"g": "new-130145-bristleback-bully_golden.webp"
+},
+"new|earthsong-shaman": {
+"dbf": "130149",
+"n": "new-130149-earthsong-shaman.webp",
+"g": "new-130149-earthsong-shaman_golden.webp"
+},
+"new|redtusk-thornraiser": {
+"dbf": "130153",
+"n": "new-130153-redtusk-thornraiser.webp",
+"g": "new-130153-redtusk-thornraiser_golden.webp"
+},
+"new|timewarped-astrogill": {
+"dbf": "130290",
+"n": "new-130290-timewarped-astrogill.webp",
+"g": "new-130290-timewarped-astrogill_golden.webp"
+},
+"new|cthun": {
+"dbf": "130610",
+"n": "new-130610-cthun.webp",
+"g": "new-130610-cthun_golden.webp"
+},
+"new|harbinger-aphlass": {
+"dbf": "130620",
+"n": "new-130620-harbinger-aphlass.webp",
+"g": "new-130620-harbinger-aphlass_golden.webp"
+},
+"new|lurking-leviathan": {
+"dbf": "130711",
+"n": "new-130711-lurking-leviathan.webp",
+"g": "new-130711-lurking-leviathan_golden.webp"
+},
+"new|deepwater-chieftain": {
+"dbf": "131216",
+"n": "new-131216-deepwater-chieftain.webp",
+"g": "new-131216-deepwater-chieftain_golden.webp"
+},
+"new|deepwater-clan": {
+"dbf": "131218",
+"n": "new-131218-deepwater-clan.webp"
+},
+"new|zoatroid": {
+"dbf": "131694",
+"n": "new-131694-zoatroid.webp",
+"g": "new-131694-zoatroid_golden.webp"
+},
+"new|wandering-willbreaker": {
+"dbf": "131698",
+"n": "new-131698-wandering-willbreaker.webp",
+"g": "new-131698-wandering-willbreaker_golden.webp"
+},
+"new|yshaarj": {
+"dbf": "132532",
+"n": "new-132532-yshaarj.webp",
+"g": "new-132532-yshaarj_golden.webp"
+},
+"new|rescue-bot": {
+"dbf": "132895",
+"n": "new-132895-rescue-bot.webp",
+"g": "new-132895-rescue-bot_golden.webp"
+},
+"new|devilish-distractor": {
+"dbf": "132901",
+"n": "new-132901-devilish-distractor.webp",
+"g": "new-132901-devilish-distractor_golden.webp"
+},
+"new|hooktusk-master-marauder": {
+"dbf": "132925",
+"n": "new-132925-hooktusk-master-marauder.webp",
+"g": "new-132925-hooktusk-master-marauder_golden.webp"
+},
+"new|treasure-parrot": {
+"dbf": "132987",
+"n": "new-132987-treasure-parrot.webp",
+"g": "new-132987-treasure-parrot_golden.webp"
+},
+"new|drifting-sacrifice": {
+"dbf": "133098",
+"n": "new-133098-drifting-sacrifice.webp",
+"g": "new-133098-drifting-sacrifice_golden.webp"
+},
+"new|underrot-spawn": {
+"dbf": "133104",
+"n": "new-133104-underrot-spawn.webp",
+"g": "new-133104-underrot-spawn_golden.webp"
+},
+"new|bananarama": {
+"dbf": "59815",
+"n": "new-59815-bananarama.webp"
+},
+"new|kangors-apprentice": {
+"dbf": "59935",
+"n": "new-59935-kangors-apprentice.webp",
+"g": "new-59935-kangors-apprentice_golden.webp"
+},
+"new|goldrinn-the-great-wolf": {
+"dbf": "59955",
+"n": "new-59955-goldrinn-the-great-wolf.webp",
+"g": "new-59955-goldrinn-the-great-wolf_golden.webp"
+},
+"new|deflect-o-bot": {
+"dbf": "61930",
+"n": "new-61930-deflect-o-bot.webp",
+"g": "new-61930-deflect-o-bot_golden.webp"
+},
+"new|monstrous-macaw": {
+"dbf": "62230",
+"n": "new-62230-monstrous-macaw.webp",
+"g": "new-62230-monstrous-macaw_golden.webp"
+},
+"new|gentle-djinni": {
+"dbf": "64062",
+"n": "new-64062-gentle-djinni.webp",
+"g": "new-64062-gentle-djinni_golden.webp"
+},
+"new|sewer-rat": {
+"dbf": "70790",
+"n": "new-70790-sewer-rat.webp",
+"g": "new-70790-sewer-rat_golden.webp"
+},
+"new|reef-explorer": {
+"dbf": "80754",
+"n": "new-80754-reef-explorer.webp",
+"g": "new-80754-reef-explorer_golden.webp"
+},
+"new|mantid-queen": {
+"dbf": "86783",
+"n": "new-86783-mantid-queen.webp",
+"g": "new-86783-mantid-queen_golden.webp"
+},
+"new|nether-drake": {
+"dbf": "92397",
+"n": "new-92397-nether-drake.webp",
+"g": "new-92397-nether-drake_golden.webp"
+},
+"new|sindorei-straight-shot": {
+"dbf": "95286",
+"n": "new-95286-sindorei-straight-shot.webp",
+"g": "new-95286-sindorei-straight-shot_golden.webp"
+},
+"new|alleycat": {
+"dbf": "96758",
+"n": "new-96758-alleycat.webp",
+"g": "new-96758-alleycat_golden.webp"
+},
+"new|annoy-o-module": {
+"dbf": "96812",
+"n": "new-96812-annoy-o-module.webp",
+"g": "new-96812-annoy-o-module_golden.webp"
+},
+"new|peggy-sturdybone": {
+"dbf": "97535",
+"n": "new-97535-peggy-sturdybone.webp",
+"g": "new-97535-peggy-sturdybone_golden.webp"
+},
+"new|scrap-scraper": {
+"dbf": "98592",
+"n": "new-98592-scrap-scraper.webp",
+"g": "new-98592-scrap-scraper_golden.webp"
+},
+"new|manasaber": {
+"dbf": "98831",
+"n": "new-98831-manasaber.webp",
+"g": "new-98831-manasaber_golden.webp"
+},
+"new|moon-bacon-jazzer": {
+"dbf": "98930",
+"n": "new-98930-moon-bacon-jazzer.webp",
+"g": "new-98930-moon-bacon-jazzer_golden.webp"
+},
+"new|prickly-piper": {
+"dbf": "98946",
+"n": "new-98946-prickly-piper.webp",
+"g": "new-98946-prickly-piper_golden.webp"
+},
+"new|tichondrius": {
+"dbf": "99228",
+"n": "new-99228-tichondrius.webp",
+"g": "new-99228-tichondrius_golden.webp"
+},
+"old|echoing-roar": {
+"dbf": "104440",
+"n": "old-104440-echoing-roar.webp"
+},
+"old|emerald-proto-whelp": {
+"dbf": "105523",
+"n": "old-105523-emerald-proto-whelp.webp",
+"g": "old-105523-emerald-proto-whelp_golden.webp"
+},
+"old|ignition-specialist": {
+"dbf": "105852",
+"n": "old-105852-ignition-specialist.webp",
+"g": "old-105852-ignition-specialist_golden.webp"
+},
+"old|free-travel-winner": {
+"dbf": "113128",
+"n": "old-113128-free-travel-winner.webp",
+"g": "old-113128-free-travel-winner_golden.webp"
+},
+"old|thundering-abomination": {
+"dbf": "113156",
+"n": "old-113156-thundering-abomination.webp",
+"g": "old-113156-thundering-abomination_golden.webp"
+},
+"old|catacomb-crasher": {
+"dbf": "114379",
+"n": "old-114379-catacomb-crasher.webp",
+"g": "old-114379-catacomb-crasher_golden.webp"
+},
+"old|hackerfin": {
+"dbf": "115848",
+"n": "old-115848-hackerfin.webp",
+"g": "old-115848-hackerfin_golden.webp"
+},
+"old|efficient-engineer": {
+"dbf": "116025",
+"n": "old-116025-efficient-engineer.webp",
+"g": "old-116025-efficient-engineer_golden.webp"
+},
+"old|bubble-gunner": {
+"dbf": "116178",
+"n": "old-116178-bubble-gunner.webp",
+"g": "old-116178-bubble-gunner_golden.webp"
+},
+"old|surfing-sylvar": {
+"dbf": "119994",
+"n": "old-119994-surfing-sylvar.webp",
+"g": "old-119994-surfing-sylvar_golden.webp"
+},
+"old|shoalfin-mystic": {
+"dbf": "120215",
+"n": "old-120215-shoalfin-mystic.webp",
+"g": "old-120215-shoalfin-mystic_golden.webp"
+},
+"old|intrepid-botanist": {
+"dbf": "120223",
+"n": "old-120223-intrepid-botanist.webp",
+"g": "old-120223-intrepid-botanist_golden.webp"
+},
+"old|felfire-conjurer": {
+"dbf": "120299",
+"n": "old-120299-felfire-conjurer.webp",
+"g": "old-120299-felfire-conjurer_golden.webp"
+},
+"old|shadowdancer": {
+"dbf": "120662",
+"n": "old-120662-shadowdancer.webp",
+"g": "old-120662-shadowdancer_golden.webp"
+},
+"old|dream-inquisitor": {
+"dbf": "120664",
+"n": "old-120664-dream-inquisitor.webp",
+"g": "old-120664-dream-inquisitor_golden.webp"
+},
+"old|primitive-painter": {
+"dbf": "122281",
+"n": "old-122281-primitive-painter.webp",
+"g": "old-122281-primitive-painter_golden.webp"
+},
+"old|bloodsnout-warlord": {
+"dbf": "122564",
+"n": "old-122564-bloodsnout-warlord.webp",
+"g": "old-122564-bloodsnout-warlord_golden.webp"
+},
+"old|sanctify": {
+"dbf": "122899",
+"n": "old-122899-sanctify.webp"
+},
+"old|wizened-captain": {
+"dbf": "122921",
+"n": "old-122921-wizened-captain.webp",
+"g": "old-122921-wizened-captain_golden.webp"
+},
+"old|divine-sparkbot": {
+"dbf": "123644",
+"n": "old-123644-divine-sparkbot.webp",
+"g": "old-123644-divine-sparkbot_golden.webp"
+},
+"old|timewarped-busker": {
+"dbf": "126235",
+"n": "old-126235-timewarped-busker.webp",
+"g": "old-126235-timewarped-busker_golden.webp"
+},
+"old|power-of-george": {
+"dbf": "126267",
+"n": "old-126267-power-of-george.webp"
+},
+"old|power-of-guff": {
+"dbf": "126276",
+"n": "old-126276-power-of-guff.webp"
+},
+"old|timewarped-nomi": {
+"dbf": "126514",
+"n": "old-126514-timewarped-nomi.webp",
+"g": "old-126514-timewarped-nomi_golden.webp"
+},
+"old|timewarped-imp-filtrator": {
+"dbf": "126560",
+"n": "old-126560-timewarped-imp-filtrator.webp",
+"g": "old-126560-timewarped-imp-filtrator_golden.webp"
+},
+"old|timewarped-prismscale": {
+"dbf": "126565",
+"n": "old-126565-timewarped-prismscale.webp"
+},
+"old|timewarped-bloodbinder": {
+"dbf": "126583",
+"n": "old-126583-timewarped-bloodbinder.webp",
+"g": "old-126583-timewarped-bloodbinder_golden.webp"
+},
+"old|timewarped-whelp-smuggler": {
+"dbf": "126754",
+"n": "old-126754-timewarped-whelp-smuggler.webp",
+"g": "old-126754-timewarped-whelp-smuggler_golden.webp"
+},
+"old|timewarped-lubber": {
+"dbf": "126756",
+"n": "old-126756-timewarped-lubber.webp",
+"g": "old-126756-timewarped-lubber_golden.webp"
+},
+"old|junk-jouster": {
+"dbf": "126830",
+"n": "old-126830-junk-jouster.webp",
+"g": "old-126830-junk-jouster_golden.webp"
+},
+"old|stone-age-slab": {
+"dbf": "126959",
+"n": "old-126959-stone-age-slab.webp",
+"g": "old-126959-stone-age-slab_golden.webp"
+},
+"old|timewarped-saurolisk": {
+"dbf": "127126",
+"n": "old-127126-timewarped-saurolisk.webp",
+"g": "old-127126-timewarped-saurolisk_golden.webp"
+},
+"old|timewarped-nalaa": {
+"dbf": "127168",
+"n": "old-127168-timewarped-nalaa.webp",
+"g": "old-127168-timewarped-nalaa_golden.webp"
+},
+"old|timewarped-sensei": {
+"dbf": "127245",
+"n": "old-127245-timewarped-sensei.webp",
+"g": "old-127245-timewarped-sensei_golden.webp"
+},
+"old|timewarped-rewinder": {
+"dbf": "127539",
+"n": "old-127539-timewarped-rewinder.webp",
+"g": "old-127539-timewarped-rewinder_golden.webp"
+},
+"old|timewarped-hyena": {
+"dbf": "127714",
+"n": "old-127714-timewarped-hyena.webp",
+"g": "old-127714-timewarped-hyena_golden.webp"
+},
+"old|timewarped-devourer": {
+"dbf": "127721",
+"n": "old-127721-timewarped-devourer.webp",
+"g": "old-127721-timewarped-devourer_golden.webp"
+},
+"old|timewarped-painter": {
+"dbf": "127800",
+"n": "old-127800-timewarped-painter.webp",
+"g": "old-127800-timewarped-painter_golden.webp"
+},
+"old|timewarped-bandit": {
+"dbf": "127868",
+"n": "old-127868-timewarped-bandit.webp",
+"g": "old-127868-timewarped-bandit_golden.webp"
+},
+"old|timewarped-lil-quilboar": {
+"dbf": "127877",
+"n": "old-127877-timewarped-lil-quilboar.webp",
+"g": "old-127877-timewarped-lil-quilboar_golden.webp"
+},
+"old|timewarped-tipper": {
+"dbf": "127948",
+"n": "old-127948-timewarped-tipper.webp",
+"g": "old-127948-timewarped-tipper_golden.webp"
+},
+"old|timewarped-goldrinn": {
+"dbf": "128111",
+"n": "old-128111-timewarped-goldrinn.webp",
+"g": "old-128111-timewarped-goldrinn_golden.webp"
+},
+"old|timewarped-caretaker": {
+"dbf": "128177",
+"n": "old-128177-timewarped-caretaker.webp",
+"g": "old-128177-timewarped-caretaker_golden.webp"
+},
+"old|timewarped-collector": {
+"dbf": "129114",
+"n": "old-129114-timewarped-collector.webp",
+"g": "old-129114-timewarped-collector_golden.webp"
+},
+"old|scarlet-survivor": {
+"dbf": "129749",
+"n": "old-129749-scarlet-survivor.webp",
+"g": "old-129749-scarlet-survivor_golden.webp"
+},
+"old|cthun": {
+"dbf": "130610",
+"n": "old-130610-cthun.webp",
+"g": "old-130610-cthun_golden.webp"
+},
+"old|harbinger-aphlass": {
+"dbf": "130620",
+"n": "old-130620-harbinger-aphlass.webp",
+"g": "old-130620-harbinger-aphlass_golden.webp"
+},
+"old|lurking-leviathan": {
+"dbf": "130711",
+"n": "old-130711-lurking-leviathan.webp",
+"g": "old-130711-lurking-leviathan_golden.webp"
+},
+"old|zoatroid": {
+"dbf": "131694",
+"n": "old-131694-zoatroid.webp",
+"g": "old-131694-zoatroid_golden.webp"
+},
+"old|wandering-willbreaker": {
+"dbf": "131698",
+"n": "old-131698-wandering-willbreaker.webp",
+"g": "old-131698-wandering-willbreaker_golden.webp"
+},
+"old|yshaarj": {
+"dbf": "132532",
+"n": "old-132532-yshaarj.webp",
+"g": "old-132532-yshaarj_golden.webp"
+},
+"old|rescue-bot": {
+"dbf": "132895",
+"n": "old-132895-rescue-bot.webp",
+"g": "old-132895-rescue-bot_golden.webp"
+},
+"old|devilish-distractor": {
+"dbf": "132901",
+"n": "old-132901-devilish-distractor.webp",
+"g": "old-132901-devilish-distractor_golden.webp"
+},
+"old|hooktusk-master-marauder": {
+"dbf": "132925",
+"n": "old-132925-hooktusk-master-marauder.webp",
+"g": "old-132925-hooktusk-master-marauder_golden.webp"
+},
+"old|treasure-parrot": {
+"dbf": "132987",
+"n": "old-132987-treasure-parrot.webp",
+"g": "old-132987-treasure-parrot_golden.webp"
+},
+"old|drifting-sacrifice": {
+"dbf": "133098",
+"n": "old-133098-drifting-sacrifice.webp",
+"g": "old-133098-drifting-sacrifice_golden.webp"
+},
+"old|underrot-spawn": {
+"dbf": "133104",
+"n": "old-133104-underrot-spawn.webp",
+"g": "old-133104-underrot-spawn_golden.webp"
+},
+"old|bananarama": {
+"dbf": "59815",
+"n": "old-59815-bananarama.webp"
+},
+"old|goldrinn-the-great-wolf": {
+"dbf": "59955",
+"n": "old-59955-goldrinn-the-great-wolf.webp",
+"g": "old-59955-goldrinn-the-great-wolf_golden.webp"
+},
+"old|monstrous-macaw": {
+"dbf": "62230",
+"n": "old-62230-monstrous-macaw.webp",
+"g": "old-62230-monstrous-macaw_golden.webp"
+},
+"old|gentle-djinni": {
+"dbf": "64062",
+"n": "old-64062-gentle-djinni.webp",
+"g": "old-64062-gentle-djinni_golden.webp"
+},
+"old|mantid-queen": {
+"dbf": "86783",
+"n": "old-86783-mantid-queen.webp",
+"g": "old-86783-mantid-queen_golden.webp"
+},
+"old|nether-drake": {
+"dbf": "92397",
+"n": "old-92397-nether-drake.webp",
+"g": "old-92397-nether-drake_golden.webp"
+},
+"old|sindorei-straight-shot": {
+"dbf": "95286",
+"n": "old-95286-sindorei-straight-shot.webp",
+"g": "old-95286-sindorei-straight-shot_golden.webp"
+},
+"old|annoy-o-module": {
+"dbf": "96812",
+"n": "old-96812-annoy-o-module.webp",
+"g": "old-96812-annoy-o-module_golden.webp"
+},
+"old|peggy-sturdybone": {
+"dbf": "97535",
+"n": "old-97535-peggy-sturdybone.webp",
+"g": "old-97535-peggy-sturdybone_golden.webp"
+},
+"old|tichondrius": {
+"dbf": "99228",
+"n": "old-99228-tichondrius.webp",
+"g": "old-99228-tichondrius_golden.webp"
+}
+}

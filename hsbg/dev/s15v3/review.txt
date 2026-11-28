@@ -1,0 +1,312 @@
+BG20_100                     Razorfen Geomancer       gtext numbers
+      mod: Battlecry: Get 2 Blood Gems.
+      api: Battlecry: Get 4 Blood Gems.
+BG23_017                     Sanguine Champion        text numbers
+      mod: Battlecry and Deathrattle: Your Blood Gems give an extra +2/+1 this game.
+      api: Battlecry and Deathrattle: Your Blood Gems give an extra +1/+1 this game.
+BG23_017                     Sanguine Champion        gtext numbers
+      mod: Battlecry and Deathrattle: Your Blood Gems give an extra +2/+1 this game.
+      api: Battlecry and Deathrattle: Your Blood Gems give an extra +2/+2 this game.
+BG24_018                     Tortollan Blue Shell     gtext numbers
+      mod: If you lost your last combat, this minion sells for 5 Gold.
+      api: If you lost your last combat, this minion sells for 10 Gold.
+BG24_715                     Patient Scout            gtext FILLED
+      mod: When you sell this, Discover a Tier 1 minion. (Improves each turn!)
+      new: When you sell this, Discover two Tier 1 minions. (Improves each turn!)
+BG25_011                     Nerubian Deathswarmer    gtext numbers
+      mod: Battlecry: Your Undead have +1 Attack this game (wherever they are).
+      api: Battlecry: Your Undead have +2 Attack this game (wherever they are).
+BG25_022                     Scarlet Skull            gtext numbers
+      mod: Reborn Deathrattle: Give a friendly Undead +1/+2.
+      api: Reborn Deathrattle: Give a friendly Undead +2/+4.
+BG26_137                     Bream Counter            gtext numbers
+      mod: While this is in your hand, after you play a Murloc, gain +6/+6.
+      api: While this is in your hand, after you play a Murloc, gain +12/+12.
+BG26_146                     Lullabot                 gtext numbers
+      mod: Magnetic At the end of your turn, gain +1 Health.
+      api: Magnetic At the end of your turn, gain +2 Health.
+BG26_147                     Accord-o-Tron            gtext numbers
+      mod: Magnetic At the start of your turn, gain 1 Gold.
+      api: Magnetic At the start of your turn, gain 2 Gold.
+BG26_524                     Malchezaar, Prince of Dance gtext FILLED
+      mod: Two Refreshes each turn cost Health instead of Gold. (2 left!)
+      new: Four Refreshes each turn cost Health instead of Gold. (2 left!)
+BG26_805                     Humming Bird             gtext numbers
+      mod: Start of Combat: For the rest of this combat, your Beasts have +1 Attack.
+      api: Start of Combat: For the rest of this combat, your Beasts have +2 Attack.
+BG26_810                     Gunpowder Courier        gtext FILLED
+      mod: Whenever you spend 5 Gold, give your Pirates +3/+1. (5 Gold left!)
+      new: Whenever you spend 5 Gold, give your Pirates +3/+1 twice. (5 Gold left!)
+BG26_814                     Lovesick Balladist       gtext FILLED
+      mod: Battlecry: Give a Pirate +2 Health. (Improved by each Gold you spent this turn!)
+      new: Battlecry: Give a Pirate +2 Health twice. (Improved by each Gold you spent this turn!)
+BG26_963                     Electric Synthesizer     gtext numbers
+      mod: Battlecry and Start of Combat: Give your other Dragons +1/+1.
+      api: Battlecry and Start of Combat: Give your other Dragons +2/+2.
+BG27_000                     Iron Groundskeeper       gtext numbers
+      mod: Battlecry: Get 2 copies of Fortify.
+      api: Battlecry: Get 4 copies of Fortify.
+BG27_016                     Champion of Sargeras     gtext numbers
+      mod: Battlecry and Deathrattle: Give minions in the Tavern +12/+12 this game.
+      api: Battlecry and Deathrattle: Give minions in the Tavern +24/+24 this game.
+BG27_084                     Sprightly Scarab         gtext numbers
+      mod: Choose One - Give a Beast +1/+1 and Reborn; or +4 Attack and Windfury.
+      api: Choose One - Give a Beast +2/+2 and Reborn; or +8 Attack and Windfury.
+BG29_300                     Very Hungry Winterfinner gtext numbers
+      mod: Taunt Whenever this takes damage, give a minion in your hand +2/+1.
+      api: Taunt Whenever this takes damage, give a minion in your hand +4/+2.
+BG29_611                     Cord Puller              gtext numbers
+      mod: Divine Shield Deathrattle: Summon a 1/1 Microbot.
+      api: Divine Shield Deathrattle: Summon a 2/2 Microbot.
+BG30_123                     Fearless Foodie          gtext numbers
+      mod: Choose One - Your Blood Gems give an extra +1/+1 this game; or Get 4 Blood Gems.
+      api: Choose One - Your Blood Gems give an extra +2/+2 this game; or Get 8 Blood Gems.
+BG31_177                     Mechagnome Interpreter   gtext numbers
+      mod: Whenever you play or Magnetize a Mech, give it +3/+1.
+      api: Whenever you play or Magnetize a Mech, give it +6/+2.
+BG31_330                     Ominous Seer             gtext numbers
+      mod: Battlecry: The next Tavern spell you buy costs (1) less.
+      api: Battlecry: The next Tavern spell you buy costs (2) less.
+BG31_815                     Dune Dweller             gtext (api has blanks)
+      mod: Battlecry: Give Elementals in the Tavern +1/+1 this game.
+      api: Battlecry: Give Elementals in the Tavern + /+ this game twice.
+BG31_816                     Fire Baller              gtext numbers
+      mod: When you sell this, give your minions +1 Attack. Improve your future Ballers.
+      api: When you sell this, give your minions +2 Attack. Improve your future Ballers.
+BG31_835                     Deathly Striker          gtext FILLED
+      mod: Avenge (4): Get a random Undead. Deathrattle: Summon it from your hand for this combat only.
+      new: Avenge (4): Get 2 random Undead. Deathrattle: Summon them from your hand for this combat only.
+BG32_821                     Felfire Conjurer         gtext numbers
+      mod: At the end of your turn, your Tavern spells give an extra +1/+1 this game.
+      api: At the end of your turn, your Tavern spells give an extra +2/+2 this game.
+BG32_860                     Shoalfin Mystic          gtext numbers
+      mod: When you sell this, your Tavern spells give an extra +1/+1 this game.
+      api: When you sell this, your Tavern spells give an extra +2/+2 this game.
+BG32_873                     Ashen Corruptor          gtext numbers
+      mod: After your hero takes damage, rewind it and give minions in the Tavern +1/+2 this turn.
+      api: After your hero takes damage, rewind it and give minions in the Tavern +2/+4 this turn.
+BG33_823                     Sky Admiral Rogers       gtext FILLED
+      mod: After you spend 9 Gold, get a random Bounty. (9 Gold left!)
+      new: After you spend 9 Gold, get two random Bounties. (9 Gold left!)
+BG33_883                     Razorfen Vineweaver      gtext numbers
+      mod: Rally: This plays 4 permanent Blood Gems on itself.
+      api: Rally: This plays 8 permanent Blood Gems on itself.
+BG33_885                     Sanguine Refiner         gtext numbers
+      mod: Rally: Your Blood Gems give an extra +1/+1 this game.
+      api: Rally: Your Blood Gems give an extra +2/+2 this game.
+BG33_924                     Blue Whelp               gtext numbers
+      mod: Rally: Your Tavern spells give an extra +1 Health this game.
+      api: Rally: Your Tavern spells give an extra +2 Health this game.
+BG34_690                     Plaguerunner             gtext numbers
+      mod: Deathrattle: Your Undead have +2 Attack this game, wherever they are. (+4 if triggered outside combat!)
+      api: Deathrattle: Your Undead have +4 Attack this game, wherever they are. (+8 if triggered outside combat!)
+BG34_692                     Forsaken Weaver          gtext numbers
+      mod: After you cast a Tavern spell, your Undead have +3 Attack this game (wherever they are).
+      api: After you cast a Tavern spell, your Undead have +6 Attack this game (wherever they are).
+BG34_858                     Air Revenant             gtext FILLED
+      mod: After you spend 7 Gold, cast Easterly Winds. (7 left!)
+      new: After you spend 7 Gold, cast two Easterly Winds. (7 left!)
+BG36_097                     Mindbender Ghur'sha      gtext numbers
+      mod: Whenever you discard a card, give your other minions +4/+4.
+      api: Whenever you discard a card, give your other minions +8/+8.
+BG36_106                     Cutthroat K'Thir         gtext numbers
+      mod: Whenever you discard a card, give this and your Deity +4/+4.
+      api: Whenever you discard a card, give this and your Deity +8/+8.
+BG36_109                     The Shadow of Doubt      gtext numbers
+      mod: Whenever a card is added to your hand, give your Deity +4/+5.
+      api: Whenever a card is added to your hand, give your Deity +8/+10.
+BG36_110                     Joyous                   gtext numbers
+      mod: Battlecry: Give your Deity +2/+1.
+      api: Battlecry: Give your Deity +4/+2.
+BG36_111                     Sha of Fear              gtext numbers
+      mod: Whenever you cast a Tavern spell, give your minions and Deity +3/+3.
+      api: Whenever you cast a Tavern spell, give your minions and Deity +6/+6.
+BG36_311                     Abyssal Envoy            gtext FILLED
+      mod: Activate (0): Discard a card to get a random Tavern spell.
+      new: Activate (0): Discard a card to get 2 random Tavern spells.
+BG36_312                     Mindbending Recruiter    gtext FILLED
+      mod: Activate (0): Discard a card to get a random Aberration.
+      new: Activate (0): Discard a card to get 2 random Aberrations.
+BG36_704                     Shamanic Tidecaller      gtext numbers
+      mod: Whenever you cast a spell on a Murloc, give Murlocs in your hand and board +3/+4.
+      api: Whenever you cast a spell on a Murloc, give Murlocs in your hand and board +6/+8.
+BGS_008                      Ghastcoiler              gtext numbers
+      mod: Deathrattle: Summon 2 random Deathrattle minions.
+      api: Deathrattle: Summon 4 random Deathrattle minions.
+BGS_041                      Kalecgos, Arcane Aspect  gtext numbers
+      mod: After you trigger a Battlecry, give your Dragons +2/+2.
+      api: After you trigger a Battlecry, give your Dragons +4/+4.
+BG26_159                     Moon-Bacon Jazzer        gtext numbers
+      mod: Battlecry: Your Blood Gems give an extra +1 Health this game.
+      api: Battlecry: Your Blood Gems give an extra +2 Health this game.
+BG26_160                     Prickly Piper            gtext numbers
+      mod: Deathrattle: Your Blood Gems give an extra +1 Attack this game.
+      api: Deathrattle: Your Blood Gems give an extra +2 Attack this game.
+BG26_867                     Three Lil' Quilboar      gtext numbers
+      mod: Deathrattle: This plays 3 Blood Gems on all your Quilboar.
+      api: Deathrattle: This plays 6 Blood Gems on all your Quilboar.
+BG33_884                     Bloodsnout Warlord       gtext numbers
+      mod: Whenever a friendly Rally minion attacks, this plays 3 Blood Gems on all your minions.
+      api: Whenever a friendly Rally minion attacks, this plays 6 Blood Gems on all your minions.
+BG34_175                     Junk Jouster             gtext numbers
+      mod: After you Magnetize a minion, give your minions +5/+5.
+      api: After you Magnetize a minion, give your minions +10/+10.
+BG_CFM_315                   Alleycat                 gtext numbers
+      mod: Battlecry: Summon a 1/1 Cat.
+      api: Battlecry: Summon a 2/2 Cat.
+S15_ambitious_cannoneer      Ambitious Cannoneer      gtext numbers
+      mod: Mission: End your turn with this at 7 Attack or higher to increase your maximum Gold by 1.
+      api: Mission: End your turn with this at 7 Attack or higher to increase your maximum Gold by 2.
+S15_ambitious_recruit        Ambitious Recruit        gtext numbers
+      mod: Battlecry: Give a minion in your hand +6/+6. (Improved by Tavern spells you've cast this turn!)
+      api: Battlecry: Give a minion in your hand +12/+12. (Improved by Tavern spells you've cast this turn!)
+S15_brutal_bristlethorn      Brutal Bristlethorn      gtext FILLED
+      mod: After you spend 5 Gold, gain a random Bonus Keyword until next turn. (5 left!)
+      new: After you spend 5 Gold, gain two random Bonus Keywords until next turn. (5 left!)
+S15_crooked_banker           Crooked Banker           gtext numbers
+      mod: Activate (1): Reduce the cost of cards in the Tavern by (1).
+      api: Activate (1): Reduce the cost of cards in the Tavern by (2).
+S15_crypt_crawler            Crypt Crawler            gtext numbers
+      mod: Mission: Once 18 friendly minions die, your Undead have +10 Attack this game, wherever they are. (18 left!)
+      api: Mission: Once 18 friendly minions die, your Undead have +20 Attack this game, wherever they are. (18 left!)
+S15_dauntless_adventurer     Dauntless Adventurer     gtext numbers
+      mod: Battlecry: This plays 2 Blood Gems on a friendly Quilboar. (Improved by each different Bonus Keyword in your warband!)
+      api: Battlecry: This plays 4 Blood Gems on a friendly Quilboar. (Improved by each different Bonus Keyword in your warband!)
+S15_eclectic_musician        Eclectic Musician        gtext numbers
+      mod: At the end of your turn, give a friendly minion of each type +3/+3 and improve this.
+      api: At the end of your turn, give a friendly minion of each type +6/+6 and improve this.
+S15_elder_moonbeast          Elder Moonbeast          gtext numbers
+      mod: Whenever you cast a spell on this, give your Beasts +2/+2 this game (wherever they are).
+      api: Whenever you cast a spell on this, give your Beasts +4/+4 this game (wherever they are).
+S15_erupting_eyestalk        Erupting Eyestalk        gtext numbers
+      mod: Whenever you summon an Aberration, give this and your Deity +2/+1.
+      api: Whenever you summon an Aberration, give this and your Deity +4/+2.
+S15_faceless_necromancer     Faceless Necromancer     gtext FILLED
+      mod: Reborn. Activate (0): Discard a card to give your left-most Aberration Reborn until next turn.
+      new: Reborn. Activate (0): Discard a card to give your 2 left-most Aberrations Reborn until next turn.
+S15_flying_monkey            Flying Monkey            gtext numbers
+      mod: Deathrattle: Get 2 Tavern Dish Bananas.
+      api: Deathrattle: Get 4 Tavern Dish Bananas.
+S15_hammer_hero              Hammer Hero              gtext numbers
+      mod: After a friendly minion loses Divine Shield, give your minions +1/+1. After you Magnetize, improve this.
+      api: After a friendly minion loses Divine Shield, give your minions +2/+2. After you Magnetize, improve this.
+S15_hostile_haggler          Hostile Haggler          gtext numbers
+      mod: At the start of your turn, reduce the cost of two random cards in the Tavern by (1).
+      api: At the start of your turn, reduce the cost of two random cards in the Tavern by (2).
+S15_light_generator          Light Generator          gtext numbers
+      mod: After a friendly minion loses Divine Shield, your Tavern spells give an extra +1 Attack this game.
+      api: After a friendly minion loses Divine Shield, your Tavern spells give an extra +2 Attack this game.
+S15_pain_promoter            Pain Promoter            gtext numbers
+      mod: Has +1/+2 for each damage your hero has taken this game (wherever this is).
+      api: Has +2/+4 for each damage your hero has taken this game (wherever this is).
+S15_patron_gatherer          Patron Gatherer          gtext numbers
+      mod: Mission: Fill your warband to give your minions +2/+1 permanently.
+      api: Mission: Fill your warband to give your minions +4/+2 permanently.
+S15_ribbiting_magician       Ribbiting Magician       gtext numbers
+      mod: Avenge (4): Your Tavern spells give an extra +1/+2 this game.
+      api: Avenge (4): Your Tavern spells give an extra +2/+4 this game.
+S15_saronite_colossus        Saronite Colossus        gtext numbers
+      mod: Whenever you would summon an excess minion, give your highest-Health minion +10/+10.
+      api: Whenever you would summon an excess minion, give your highest-Health minion +20/+20.
+S15_shackled_shade           Shackled Shade           gtext numbers
+      mod: Whenever a friendly Deathrattle minion dies, your Undead have +2 Attack this game (wherever they are).
+      api: Whenever a friendly Deathrattle minion dies, your Undead have +4 Attack this game (wherever they are).
+S15_shambling_shadowfiend    Shambling Shadowfiend    gtext numbers
+      mod: Activate (0): Discard a card and its neighbors. Gain 1 Gold for each discarded.
+      api: Activate (0): Discard a card and its neighbors. Gain 2 Gold for each discarded.
+S15_tainted_tormentor        Tainted Tormentor        gtext numbers
+      mod: Whenever you summon an Aberration, give it +3 Attack. (Improved by each card you've discarded this game!)
+      api: Whenever you summon an Aberration, give it +6 Attack. (Improved by each card you've discarded this game!)
+S15_temple_keeper            Temple Keeper            text numbers
+      mod: Activate (0): Give another minion 2 random Bonus Keywords until next turn.
+      api: Activate (2): Give another minion random Bonus Keywords until next turn.
+S15_temple_keeper            Temple Keeper            gtext numbers
+      mod: Activate (0): Give another minion 2 random Bonus Keywords until next turn.
+      api: Activate (4): Give another minion random Bonus Keywords until next turn.
+S15_ucha_mighty              U'cha the Mighty         gtext numbers
+      mod: Deathrattle: Summon a 2/2 Monkey. (Improved by each Tavern spell you've cast this game!)
+      api: Deathrattle: Summon a 4/4 Monkey. (Improved by each Tavern spell you've cast this game!)
+S15_vindictive_preacher      Vindictive Preacher      gtext numbers
+      mod: Avenge (3): Give your Deity +7/+7.
+      api: Avenge (3): Give your Deity +14/+14.
+S15_young_mukla              Young Mukla              gtext numbers
+      mod: Battlecry: Get 2 Tavern Dish Bananas.
+      api: Battlecry: Get 4 Tavern Dish Bananas.
+BG34_Giant_583               Timewarped Devourer      gtext FILLED
+      mod: Activate (0): Consume another friendly minion to gain twice its stats and 6 Gold.
+      new: Activate (0): Consume another friendly minion to gain double its stats and 6 Gold.
+S15_tw_avalanche_caller      Timewarped Avalanche Caller gtext FILLED
+      mod: Activate (0): Sell a friendly minion to gain its Bonus Keywords and stats.
+      new: Activate (0): Sell a friendly minion to gain its Bonus Keywords and double its stats.
+S15_tw_fruit_vendor          Timewarped Fruit Vendor  text numbers
+      mod: Activate (0): Get 3 Tavern Dish Bananas.
+      api: Activate (3): Get Tavern Dish Bananas.
+S15_tw_fruit_vendor          Timewarped Fruit Vendor  gtext numbers
+      mod: Activate (0): Get 3 Tavern Dish Bananas.
+      api: Activate (6): Get Tavern Dish Bananas.
+S15_tw_graverobber           Timewarped Graverobber   gtext FILLED
+      mod: Activate (0): Destroy another friendly minion to gain “Deathrattle: Summon that minion” until next turn.
+      new: Activate (0): Destroy another friendly minion to gain "Deathrattle: Summon 2 copies of that minion" until next turn.
+S15_tw_necromancer           Timewarped Necromancer   gtext FILLED
+      mod: Reborn. Activate (0): Discard a card to give your left-most Aberration Reborn.
+      new: Reborn Activate (0): Discard a card to give your 2 left-most Aberrations Reborn.
+S15_tw_picky_eater           Timewarped Picky Eater   gtext FILLED
+      mod: Activate (0): Choose a minion in the Tavern. Consume it to gain its Bonus Keywords and stats.
+      new: Activate (0): Choose a minion in the Tavern. Consume it to gain its Bonus Keywords and double its stats.
+S15_tw_reverber_drake        Timewarped Reverber Drake gtext FILLED
+      mod: Activate (0): Cast Echoing Roar on this and another friendly minion.
+      new: Activate (0): Cast Echoing Roar on this and another friendly minion twice.
+S15_tw_bubblebot             Timewarped Bubblebot     gtext numbers
+      mod: Start of Combat: Give adjacent minions Divine Shield. If any already have it, it takes 2 more hits to break.
+      api: Start of Combat: Give adjacent minions Divine Shield. If any already have it, it takes 3 more hits to break.
+S15_tw_clunker               Timewarped Clunker       gtext numbers
+      mod: Activate (2): Discover 3 Magnetic Mechs.
+      api: Activate (2): Discover 6 Magnetic Mechs.
+S15_tw_concierge             Timewarped Concierge     gtext numbers
+      mod: Tavern spells that give stats cost (1) less.
+      api: Tavern spells that give stats cost (2) less.
+S15_tw_endurer               Timewarped Endurer       gtext numbers
+      mod: After you play a Blood Gem on a minion, give it Resilient until next turn. (3 times per turn.)
+      api: After you play a Blood Gem on a minion, give it Resilient until next turn. (6 times per turn.)
+S15_tw_engineer              Timewarped Engineer      gtext FILLED
+      mod: Activate (3): Trigger all friendly end of turn effects.
+      new: Activate (3): Trigger all friendly end of turn effects twice.
+S15_tw_flat_tusk             Timewarped Flat Tusk     text FILLED
+      mod: Whenever you spend 5 Gold, this casts a Blood Gem on all your Quilboar. (5 left)
+      new: Whenever you spend 5 Gold, this plays a Blood Gem on all your Quilboar. (5 Gold left!)
+S15_tw_flat_tusk             Timewarped Flat Tusk     gtext FILLED
+      mod: Whenever you spend 5 Gold, this casts a Blood Gem on all your Quilboar. (5 left)
+      new: Whenever you spend 5 Gold, this plays two Blood Gems on all your Quilboar. (5 Gold left!)
+S15_tw_mirror_mage           Timewarped Mirror Mage   gtext FILLED
+      mod: Activate (0): Get a plain copy of a random friendly minion (except Timewarped minions).
+      new: Activate (0): Get 2 plain copies of a random friendly minion (except Timewarped minions).
+S15_tw_murozond              Timewarped Murozond      gtext FILLED
+      mod: Activate (0): Discover a 2-Cost card from the Major Timewarp.
+      new: Activate (0): Discover two 2-Cost cards from the Major Timewarp.
+S15_tw_terrorguard           Timewarped Terrorguard   gtext numbers
+      mod: After you cast a Tavern spell, add 2 Fodders to your next Refresh.
+      api: After you cast a Tavern spell, add 4 Fodders to your next Refresh.
+S15_tw_voidpriest            Timewarped Voidpriest    gtext numbers
+      mod: After you discard a card, get a copy of it. (3 times per turn.)
+      api: After you discard a card, get a copy of it. (6 times per turn.)
+BG28_503                     Fortify                  text (api has blanks)
+      mod: Give a minion +3 Health and Taunt.
+      api: Give a minion + Health and Taunt. Give a minion + /+ and Taunt.
+BG33_811                     Healthy Bounty           text (api has blanks)
+      mod: Give four friendly minions +4 Health.
+      api: Give four friendly minions + Health. Give four friendly minions + /+ .
+BG33_812                     Hostile Bounty           text (api has blanks)
+      mod: Give four friendly minions +4 Attack.
+      api: Give four friendly minions + Attack. Give four friendly minions + /+ .
+BG28_838                     Perfect Vision           text numbers
+      mod: Set a minion's stats to 20/20.
+      api: Set a minion's stats to / .
+BG34_272                     Menagerie Tableware      text (api has blanks)
+      mod: 
+      api: Give your minions + /+ . Repeat for each different friendly minion type.
+S15S_tumultuous_growth       Tumultuous Growth        text numbers
+      mod: Choose a minion. Cast 2 random Tavern spells (targeting it if possible).
+      api: Choose a minion. Cast random Tavern spells (targeting it if possible).
+S15S_sanctify                Sanctify                 text (api has blanks)
+      mod: Give your minions with Divine Shield +4 Attack.
+      api: Give your minions with Divine Shield + Attack. Give your minions with Divine Shield + /+ .

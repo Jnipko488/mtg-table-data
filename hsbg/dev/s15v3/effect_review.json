@@ -1,0 +1,793 @@
+[
+ [
+  "BG19_010",
+  "Sewer Rat",
+  "T",
+  "Taunt Deathrattle: Summon a 2/3 Turtle with Taunt.",
+  "Deathrattle: Summon a 2/3 Turtle with Taunt."
+ ],
+ [
+  "BG27_556",
+  "Diremuck Forager",
+  "T",
+  "Start of Combat: When you have space, summon the highest-Attack Murloc from your hand for this combat only.",
+  "Once you have space each combat, summon the highest- Attack Murloc from your hand for this combat only."
+ ],
+ [
+  "BG28_698",
+  "Gem Confiscation",
+  "T",
+  "Play 3 Blood Gems on a friendly minion and steal all Blood Gems from its neighbors.",
+  "This plays 3 Blood Gems on a minion. It steals all Blood Gems from its neighbors."
+ ],
+ [
+  "BG33_826",
+  "Wizened Captain",
+  "G",
+  "Whenever you cast a Tavern spell, give your Pirates +6/+4.",
+  "Whenever you cast a Tavern spell, give your Pirates +3/+2 twice."
+ ],
+ [
+  "BG34_272",
+  "Menagerie Tableware",
+  "T",
+  "",
+  "Give your minions +3/+3. Repeat for each different friendly minion type."
+ ],
+ [
+  "BG34_950",
+  "Stone Age Slab",
+  "G",
+  "Activate (0): Give the next minion you buy this turn +40/+40 and double its stats twice.",
+  "Activate (0): Give the next minion you buy this turn +20/+20 and triple its stats."
+ ],
+ [
+  "BG34_Giant_205",
+  "Timewarped Nalaa",
+  "G",
+  "At the end of your turn, give a friendly minion of each type +6/+6. (Improved by each Tavern spell you've cast this turn!)",
+  "At end of turn, give a friendly minion of each type +6/+6. (Improved by each Tavern spell you've cast this turn!)"
+ ],
+ [
+  "BG34_Giant_205",
+  "Timewarped Nalaa",
+  "T",
+  "At the end of your turn, give a friendly minion of each type +3/+3. (Improved by each Tavern spell you've cast this turn!)",
+  "At end of turn, give a friendly minion of each type +3/+3. (Improved by each Tavern spell you've cast this turn!)"
+ ],
+ [
+  "BG34_Giant_362",
+  "Timewarped Goldrinn",
+  "G",
+  "Deathrattle: Cast Goldrinn's Blessing 4 times.",
+  "Deathrattle: Cast Goldrinn's Blessing four times."
+ ],
+ [
+  "BG34_Giant_583",
+  "Timewarped Devourer",
+  "G",
+  "Activate (0): Consume another friendly minion to gain twice its stats and 6 Gold.",
+  "Activate (0): Consume another friendly minion to gain double its stats and 6 Gold."
+ ],
+ [
+  "BG34_PreMadeChamp_022",
+  "Timewarped Prismscale",
+  "G",
+  "At the end of your turn, cast Azerite Empowerment 4 times.",
+  "At the end of your turn, cast Azerite Empowerment four times."
+ ],
+ [
+  "BG36_100",
+  "Wandering Willbreaker",
+  "T",
+  "When you sell this, get 2 random Tavern spells. When you play one, discard the other.",
+  "When you sell this, get 2 random Tavern spells. When you cast one, discard the other."
+ ],
+ [
+  "BG36_763",
+  "Treasure Parrot",
+  "G",
+  "Mission: Once this deals 35 damage, get 2 Golden Touches. (35 left!)",
+  "Mission: Once this deals 35 damage, get two Golden Touches. (35 left!)"
+ ],
+ [
+  "S15_bloodfin_scholar",
+  "Bloodfin Scholar",
+  "G",
+  "At the end of your turn, cast a copy of the left-most Tavern spell in your hand (targets this if possible).",
+  "At the end of your turn, cast a copy of the left-most Tavern spell in your hand twice (targets this if possible)."
+ ],
+ [
+  "S15_bot_launcher",
+  "Bot Launcher",
+  "G",
+  "Divine Shield. Mission: Once 5 friendly minions lose Divine Shield, get two random Magnetic Mechs.",
+  "Divine Shield. Mission: Once 5 friendly minions lose Divine Shield, get four random Magnetic Mechs. (5 left!)"
+ ],
+ [
+  "S15_bot_launcher",
+  "Bot Launcher",
+  "T",
+  "Divine Shield. Mission: Once 5 friendly minions lose Divine Shield, get two random Magnetic Mechs.",
+  "Divine Shield. Mission: Once 5 friendly minions lose Divine Shield, get two random Magnetic Mechs. (5 left!)"
+ ],
+ [
+  "S15_brutal_bristlethorn",
+  "Brutal Bristlethorn",
+  "G",
+  "After you spend 5 Gold, gain a random Bonus Keyword until next turn. (5 left!)",
+  "After you spend 5 Gold, gain two random Bonus Keywords until next turn. (5 left!)"
+ ],
+ [
+  "S15_crafty_cookfire",
+  "Crafty Cookfire",
+  "G",
+  "Mission: Once friendly minions gain Bonus Keywords 8 times, get an Elemental of Surprise. (8 left!)",
+  "Mission: Once friendly minions gain Bonus Keywords 8 times, get two Elementals of Surprise. (8 left!)"
+ ],
+ [
+  "S15_cunning_chameleon",
+  "Cunning Chameleon",
+  "G",
+  "Activate (2): Discover a Deathrattle minion. Copy its Deathrattle until next turn.",
+  "Activate (2): Discover 2 Deathrattle minions. Copy their Deathrattles until next turn."
+ ],
+ [
+  "S15_defense_mechanism",
+  "Defense Mechanism",
+  "G",
+  "Taunt. Whenever this is attacked, give a different friendly minion Divine Shield.",
+  "Taunt Whenever this is attacked, give 2 different friendly minions Divine Shield."
+ ],
+ [
+  "S15_desert_duelist",
+  "Desert Duelist",
+  "G",
+  "Whenever a friendly minion gains a Bonus Keyword, give your minions +6/+6.",
+  "Whenever a friendly minion gains a Bonus Keyword, give your minions +6/+6 twice."
+ ],
+ [
+  "S15_driftaway_djinni",
+  "Driftaway Djinni",
+  "G",
+  "Whenever a friendly minion gains a Bonus Keyword, gain +3/+4.",
+  "Whenever a friendly minion gains a Bonus Keyword, gain +3/+4 twice."
+ ],
+ [
+  "S15_effusive_dancer",
+  "Effusive Dancer",
+  "G",
+  "Battlecry and Deathrattle: Get a random Elemental Invocation.",
+  "Battlecry and Deathrattle: Get 2 random Elemental Invocations."
+ ],
+ [
+  "S15_faceless_necromancer",
+  "Faceless Necromancer",
+  "G",
+  "Reborn. Activate (0): Discard a card to give your left-most Aberration Reborn until next turn.",
+  "Reborn. Activate (0): Discard a card to give your 2 left-most Aberrations Reborn until next turn."
+ ],
+ [
+  "S15_freedom_fighter",
+  "Freedom Fighter",
+  "G",
+  "Whenever you buy a card that costs (2) or less, give your Pirates +4/+4.",
+  "Whenever you buy a card that costs (2) or less, give your Pirates +4/+4 twice."
+ ],
+ [
+  "S15_future_fighter",
+  "Future Fighter",
+  "G",
+  "At the end of your turn, reduce the cost of the next Battlecry minion you buy by (1).",
+  "At the end of your turn, reduce the cost of the next two Battlecry minions you buy by (1)."
+ ],
+ [
+  "S15_gorloc_gardener",
+  "Gorloc Gardener",
+  "G",
+  "After you play 3 minions, get a random Tier 3 Tavern spell. (3 left!)",
+  "After you play 3 minions, get two random Tier 3 Tavern spells. (3 left!)"
+ ],
+ [
+  "S15_great_direwolf",
+  "Great Direwolf",
+  "G",
+  "Rally: Get a Goldrinn's Blessing.",
+  "Rally: Get 2 Goldrinn's Blessings."
+ ],
+ [
+  "S15_great_wolf_cub",
+  "Great Wolf Cub",
+  "G",
+  "Battlecry: Get a Goldrinn's Blessing.",
+  "Battlecry: Get 2 Goldrinn's Blessings."
+ ],
+ [
+  "S15_greymist_infiltrator",
+  "Greymist Infiltrator",
+  "G",
+  "Mission: Once this takes 20 damage, get a Big Brann Play. (20 left!)",
+  "Mission: Once this takes 20 damage, get two Big Brann Plays. (20 left!)"
+ ],
+ [
+  "S15_imperial",
+  "Imp-erial",
+  "G",
+  "Taunt, Resilient. Mission: Once this is attacked 5 times, get a random Golden Demon. (5 left!)",
+  "Taunt, Resilient Mission: Once this is attacked 5 times, get two random Golden Demons. (5 left!)"
+ ],
+ [
+  "S15_land_upheaver",
+  "Land Upheaver",
+  "G",
+  "Deathrattle: Give your Elementals +2/+2. (Improved by each Elemental you played this game!)",
+  "Deathrattle: Give your Elementals +2/+2 twice. (Improved by each Elemental you played this game!)"
+ ],
+ [
+  "S15_loti_devilsaur",
+  "Loti, Devilsaur Form",
+  "G",
+  "Mission: Once this deals 60 damage, get a random Tier 7 minion. (60 left!)",
+  "Mission: Once this deals 60 damage, get two random Tier 7 minions. (60 left!)"
+ ],
+ [
+  "S15_merciless_warden",
+  "Merciless Warden",
+  "G",
+  "Avenge (4): Deal damage equal to this minion's Attack to the highest-Health enemy minion.",
+  "Avenge (4): Deal damage equal to this minion's Attack to the highest-Health enemy minion, twice."
+ ],
+ [
+  "S15_nonchalant_napper",
+  "Nonchalant Napper",
+  "G",
+  "Resilient. Whenever this is attacked, get a random Tavern spell.",
+  "Resilient Whenever this is attacked, get 2 random Tavern spells."
+ ],
+ [
+  "S15_obsessive_artisan",
+  "Obsessive Artisan",
+  "G",
+  "Mission: Buy 5 cards to Discover a Tier 4 minion. (5 left!)",
+  "Mission: Buy 5 cards to Discover two Tier 4 minions. (5 left!)"
+ ],
+ [
+  "S15_ominous_ooze",
+  "Ominous Ooze",
+  "G",
+  "Battlecry and Deathrattle: Get a Growing Ooze.",
+  "Battlecry and Deathrattle: Get 2 Growing Oozes."
+ ],
+ [
+  "S15_ossifier",
+  "Ossifier",
+  "G",
+  "Whenever you cast a spell on this, summon a 1/1 Skeleton. (3 times per turn.)",
+  "Whenever you cast a spell on this, summon two 1/1 Skeletons. (3 times per turn.)"
+ ],
+ [
+  "S15_patrolling_gargoyle",
+  "Patrolling Gargoyle",
+  "G",
+  "Battlecry: Get an Unholy Ritual.",
+  "Battlecry: Get 2 Unholy Rituals."
+ ],
+ [
+  "S15_prototype_builder",
+  "Prototype Builder",
+  "G",
+  "Once you have space each combat, summon an Ancestral Automaton. Give it this minion's Bonus Keywords.",
+  "Once you have space each combat, summon a Golden Ancestral Automaton. Give it this minion's Bonus Keywords."
+ ],
+ [
+  "S15_ruthless_pursuer",
+  "Ruthless Pursuer",
+  "G",
+  "When you sell this, Refresh the Tavern with two extra Bounties that cost (1).",
+  "When you sell this, Refresh the Tavern with four extra Bounties that cost (1)."
+ ],
+ [
+  "S15_scaretaker",
+  "Scaretaker",
+  "G",
+  "Activate (1): Cast Unholy Ritual on another Undead.",
+  "Activate (1): Cast Unholy Ritual on another Undead twice."
+ ],
+ [
+  "S15_sickly_ooze",
+  "Sickly Ooze",
+  "G",
+  "Rally: Get a Growing Ooze.",
+  "Rally: Get 2 Growing Oozes."
+ ],
+ [
+  "S15_surging_sanctifier",
+  "Surging Sanctifier",
+  "G",
+  "After you cast a spell on this, cast Sanctify.",
+  "After you cast a spell on this, cast Sanctify twice."
+ ],
+ [
+  "S15_tenacious_thornwitch",
+  "Tenacious Thorn-witch",
+  "G",
+  "Mission: Once 8 spells are cast on this, give your Blood Gems +2/+3 this game. (8 left!)",
+  "Mission: Once 8 spells are cast on this, your Blood Gems give an extra +4/+6 this game. (8 left!)"
+ ],
+ [
+  "S15_tenacious_thornwitch",
+  "Tenacious Thorn-witch",
+  "T",
+  "Mission: Once 8 spells are cast on this, give your Blood Gems +2/+3 this game. (8 left!)",
+  "Mission: Once 8 spells are cast on this, your Blood Gems give an extra +2/+3 this game. (8 left!)"
+ ],
+ [
+  "S15_thunder_knight",
+  "Thunder Knight",
+  "G",
+  "When you sell this, get a Command the Elements.",
+  "When you sell this, get 2 copies of Command the Elements."
+ ],
+ [
+  "S15_timeless_mount",
+  "Timeless Mount",
+  "G",
+  "Deathrattle and Rally: Get an Echoing Roar.",
+  "Deathrattle and Rally: Get 2 Echoing Roars."
+ ],
+ [
+  "S15_tsunami_surfer",
+  "Tsunami Surfer",
+  "G",
+  "At the end of your turn, get a random Elemental Invocation.",
+  "At the end of your turn, get 2 random Elemental Invocations."
+ ],
+ [
+  "S15_tw_amalgadon",
+  "Timewarped Amalgadon",
+  "G",
+  "Divine Shield. Taunt. Windfury. Venomous. Deathrattle: Summon two 1/1 Plants.",
+  "Divine Shield, Taunt, Windfury, Venomous Deathrattle: Summon four 1/1 Plants."
+ ],
+ [
+  "S15_tw_amalgam_of_the_deep",
+  "Timewarped Amalgam of the Deep",
+  "G",
+  "Activate (1): Choose another friendly minion. Discover a minion of the same type.",
+  "Activate (1): Choose another friendly minion. Discover 2 minions of the same type."
+ ],
+ [
+  "S15_tw_assistant",
+  "Timewarped Assistant",
+  "G",
+  "Battlecry and Rally: Add a Fodder to your next 3 Refreshes.",
+  "Battlecry and Rally: Add 2 Fodders to your next 3 Refreshes."
+ ],
+ [
+  "S15_tw_avalanche_caller",
+  "Timewarped Avalanche Caller",
+  "G",
+  "Activate (0): Sell a friendly minion to gain its Bonus Keywords and stats.",
+  "Activate (0): Sell a friendly minion to gain its Bonus Keywords and double its stats."
+ ],
+ [
+  "S15_tw_ball_of_minions",
+  "Timewarped Ball of Minions",
+  "G",
+  "Activate (3): Choose a different friendly minion. Give it this minion's stats.",
+  "Activate (3): Give a different friendly minion double this minion's stats."
+ ],
+ [
+  "S15_tw_ball_of_minions",
+  "Timewarped Ball of Minions",
+  "T",
+  "Activate (3): Choose a different friendly minion. Give it this minion's stats.",
+  "Activate (3): Give a different friendly minion this minion's stats."
+ ],
+ [
+  "S15_tw_breakout",
+  "Timewarped Breakout",
+  "G",
+  "Battlecry, Deathrattle, and Rally: Get a Lockbox. If you already have one, it opens 1 turn sooner instead.",
+  "Battlecry, Deathrattle, and Rally: Get a Lockbox. If you already have one, it opens 2 turns sooner instead."
+ ],
+ [
+  "S15_tw_cage_gnawer",
+  "Timewarped Cage Gnawer",
+  "G",
+  "Whenever another friendly Beasts attacks, cast Goldrinn's Blessing.",
+  "Whenever another friendly Beast attacks, cast Goldrinn's Blessing twice."
+ ],
+ [
+  "S15_tw_cage_gnawer",
+  "Timewarped Cage Gnawer",
+  "T",
+  "Whenever another friendly Beasts attacks, cast Goldrinn's Blessing.",
+  "Whenever another friendly Beast attacks, cast Goldrinn's Blessing."
+ ],
+ [
+  "S15_tw_clan_trainer",
+  "Timewarped Clan Trainer",
+  "G",
+  "Activate (2): Double the stats of your two lowest-Attack minions.",
+  "Activate (2): Triple the stats of your two lowest-Attack minions."
+ ],
+ [
+  "S15_tw_cub",
+  "Timewarped Cub",
+  "G",
+  "Deathrattle: Get a Goldrinn's Blessing.",
+  "Deathrattle: Get 2 Goldrinn's Blessings."
+ ],
+ [
+  "S15_tw_deliverer",
+  "Timewarped Deliverer",
+  "G",
+  "Activate (2): Discover a Golden Tier 4 minion.",
+  "Activate (2): Discover two Golden Tier 4 minions."
+ ],
+ [
+  "S15_tw_engineer",
+  "Timewarped Engineer",
+  "G",
+  "Activate (3): Trigger all friendly end of turn effects.",
+  "Activate (3): Trigger all friendly end of turn effects twice."
+ ],
+ [
+  "S15_tw_eye_of_gorath",
+  "Timewarped Eye of Go'rath",
+  "G",
+  "Start of Combat: Gain the stats of your Deity.",
+  "Start of Combat: Gain double the stats of your Deity."
+ ],
+ [
+  "S15_tw_flat_tusk",
+  "Timewarped Flat Tusk",
+  "G",
+  "Whenever you spend 5 Gold, this casts a Blood Gem on all your Quilboar. (5 left)",
+  "Whenever you spend 5 Gold, this plays two Blood Gems on all your Quilboar. (5 Gold left!)"
+ ],
+ [
+  "S15_tw_flat_tusk",
+  "Timewarped Flat Tusk",
+  "T",
+  "Whenever you spend 5 Gold, this casts a Blood Gem on all your Quilboar. (5 left)",
+  "Whenever you spend 5 Gold, this plays a Blood Gem on all your Quilboar. (5 Gold left!)"
+ ],
+ [
+  "S15_tw_future_fighter",
+  "Timewarped Future Fighter",
+  "G",
+  "Battlecry minions cost (1) less.",
+  "Battlecry minions in the Tavern cost (2) less."
+ ],
+ [
+  "S15_tw_future_fighter",
+  "Timewarped Future Fighter",
+  "T",
+  "Battlecry minions cost (1) less.",
+  "Battlecry minions in the Tavern cost (1) less."
+ ],
+ [
+  "S15_tw_graverobber",
+  "Timewarped Graverobber",
+  "G",
+  "Activate (0): Destroy another friendly minion to gain \u201cDeathrattle: Summon that minion\u201d until next turn.",
+  "Activate (0): Destroy another friendly minion to gain \\\"Deathrattle: Summon 2 copies of that minion\\\" until next turn."
+ ],
+ [
+  "S15_tw_hardlight",
+  "Timewarped Hardlight",
+  "G",
+  "Divine Shield. After a friendly Divine Shield prevents damage, gain that much Attack.",
+  "Divine Shield. After a friendly Divine Shield prevents damage, gain twice that much Attack."
+ ],
+ [
+  "S15_tw_holmes",
+  "Timewarped Holmes",
+  "G",
+  "Activate (0): Guess which minion is in your next opponent's warband to get a copy of it.",
+  "Activate (0): Guess which minion is in your next opponent's warband to get 2 copies of it."
+ ],
+ [
+  "S15_tw_huhuran",
+  "Timewarped Huhuran",
+  "G",
+  "Whenever you play a Deathrattle or Rally minion, trigger its Deathrattles and Rallies.",
+  "Whenever you play a Deathrattle or Rally minion, trigger its Deathrattles and Rallies twice."
+ ],
+ [
+  "S15_tw_looter",
+  "Timewarped Looter",
+  "G",
+  "Minions in the Tavern from Tier 2 and below are replaced by Bounties.",
+  "Whenever the Tavern would offer a minion from Tier 3 or below, it offers a Bounty instead."
+ ],
+ [
+  "S15_tw_looter",
+  "Timewarped Looter",
+  "T",
+  "Minions in the Tavern from Tier 2 and below are replaced by Bounties.",
+  "Whenever the Tavern would offer a minion from Tier 2 or below, it offers a Bounty instead."
+ ],
+ [
+  "S15_tw_mecherel",
+  "Timewarped Mecherel",
+  "G",
+  "Divine Shield. After a different friendly minion loses Divine Shield, gain Divine Shield.",
+  "Divine Shield. After another friendly minion loses Divine Shield, gain Divine Shield."
+ ],
+ [
+  "S15_tw_mecherel",
+  "Timewarped Mecherel",
+  "T",
+  "Divine Shield. After a different friendly minion loses Divine Shield, gain Divine Shield.",
+  "Divine Shield. After another friendly minion loses Divine Shield, gain Divine Shield."
+ ],
+ [
+  "S15_tw_mirror_mage",
+  "Timewarped Mirror Mage",
+  "G",
+  "Activate (0): Get a plain copy of a random friendly minion (except Timewarped minions).",
+  "Activate (0): Get 2 plain copies of a random friendly minion (except Timewarped minions)."
+ ],
+ [
+  "S15_tw_morchie",
+  "Timewarped Morchie",
+  "G",
+  "Activate (4): Discover a 2-Cost minion from the Minor Timewarp.",
+  "Activate (4): Discover two 2-Cost minions from the Minor Timewarp."
+ ],
+ [
+  "S15_tw_mount",
+  "Timewarped Mount",
+  "G",
+  "Battlecry, Deathrattle, and Rally: Get a Dragonstorm.",
+  "Battlecry, Deathrattle, and Rally: Get 2 Dragonstorms."
+ ],
+ [
+  "S15_tw_murozond",
+  "Timewarped Murozond",
+  "G",
+  "Activate (0): Discover a 2-Cost card from the Major Timewarp.",
+  "Activate (0): Discover two 2-Cost cards from the Major Timewarp."
+ ],
+ [
+  "S15_tw_muscle_o_tron",
+  "Timewarped Muscle-o-Tron",
+  "G",
+  "Mission: Magnetize 3 Mechs to this to double this minion's stats. (3 left!)",
+  "Mission: Magnetize 3 Mechs to this to triple this minion's stats. (3 left!)"
+ ],
+ [
+  "S15_tw_mycologist",
+  "Timewarped Mycologist",
+  "G",
+  "Activate (1): Discover a Tavern spell and get a 1/1 Murloc to teach that spell.",
+  "Activate (1): Discover a Tavern spell and get a 1/1 Murloc to teach that spell, twice."
+ ],
+ [
+  "S15_tw_necromancer",
+  "Timewarped Necromancer",
+  "G",
+  "Reborn. Activate (0): Discard a card to give your left-most Aberration Reborn.",
+  "Reborn Activate (0): Discard a card to give your 2 left-most Aberrations Reborn."
+ ],
+ [
+  "S15_tw_nether_construct",
+  "Timewarped Nether Construct",
+  "G",
+  "Activate (1): Double the stats of minions in the Tavern.",
+  "Activate (1): Triple the stats of minions in the Tavern."
+ ],
+ [
+  "S15_tw_nightmare",
+  "Timewarped Nightmare",
+  "G",
+  "Deathrattle: Give a different friendly Undead \"Deathrattle: Summon a Timewarped Nightmare.\"",
+  "Deathrattle: Give a different friendly Undead \\\"Deathrattle: Summon a Golden Timewarped Nightmare.\\\""
+ ],
+ [
+  "S15_tw_outpourer",
+  "Timewarped Outpourer",
+  "G",
+  "Whenever you play an Elemental, cast a random Elemental Invocation on it.",
+  "Whenever you play an Elemental, cast 2 random Elemental Invocations on it."
+ ],
+ [
+  "S15_tw_picky_eater",
+  "Timewarped Picky Eater",
+  "G",
+  "Activate (0): Choose a minion in the Tavern. Consume it to gain its Bonus Keywords and stats.",
+  "Activate (0): Choose a minion in the Tavern. Consume it to gain its Bonus Keywords and double its stats."
+ ],
+ [
+  "S15_tw_piggy_bank",
+  "Timewarped Piggy Bank",
+  "T",
+  "Gain 2 Gold. (Upgrades each turn!)",
+  "Gain 2 Gold. (Improves each turn!)"
+ ],
+ [
+  "S15_tw_prophet_of_the_boar",
+  "Timewarped Prophet of the Boar",
+  "G",
+  "Taunt. After you play a Quilboar, get a Blood Gem and play another on this.",
+  "Taunt After you play a Quilboar, get 2 Blood Gems and play 2 more on this."
+ ],
+ [
+  "S15_tw_recyclebot",
+  "Timewarped Recyclebot",
+  "G",
+  "When you sell this, get a Magnetic Satellite with this minion's Bonus Keywords and stats.",
+  "When you sell this, get 2 Magnetic Satellites with this minion's Bonus Keywords and stats."
+ ],
+ [
+  "S15_tw_reflector",
+  "Timewarped Reflector",
+  "G",
+  "After you cast a Tavern spell on a friendly minion, this casts it on the minion to the left of it.",
+  "After you cast a Tavern spell on a friendly minion, this casts it on the minion to the left of it twice."
+ ],
+ [
+  "S15_tw_replicator",
+  "Timewarped Replicator",
+  "G",
+  "Deathrattle: Discard your 2 right-most cards to summon a Timewarped Replicator.",
+  "Deathrattle: Discard your 2 right-most cards to summon a Golden Timewarped Replicator."
+ ],
+ [
+  "S15_tw_reverber_drake",
+  "Timewarped Reverber Drake",
+  "G",
+  "Activate (0): Cast Echoing Roar on this and another friendly minion.",
+  "Activate (0): Cast Echoing Roar on this and another friendly minion twice."
+ ],
+ [
+  "S15_tw_rot",
+  "Timewarped Rot",
+  "G",
+  "After you cast a spell on this, get a Growing Ooze. (2 times per turn.)",
+  "After you cast a spell on this, get 2 Growing Oozes. (2 times per turn.)"
+ ],
+ [
+  "S15_tw_rylak",
+  "Timewarped Rylak",
+  "G",
+  "Taunt. Deathrattle: Trigger adjacent minions Battlecries.",
+  "Taunt Deathrattle: Trigger the Battlecries of adjacent minions twice."
+ ],
+ [
+  "S15_tw_rylak",
+  "Timewarped Rylak",
+  "T",
+  "Taunt. Deathrattle: Trigger adjacent minions Battlecries.",
+  "Taunt Deathrattle: Trigger the Battlecries of adjacent minions."
+ ],
+ [
+  "S15_tw_sanctifier",
+  "Timewarped Sanctifier",
+  "G",
+  "At the end of your turn, cast Sanctify. Repeat for each friendly minion with Divine Shield.",
+  "At the end of your turn, cast Sanctify twice. Repeat for each friendly minion with Divine Shield."
+ ],
+ [
+  "S15_tw_scrapsmith",
+  "Timewarped Scrapsmith",
+  "G",
+  "Battlecry and Deathrattle: Get a Blood Gem that gives a Quilboar Taunt, Divine Shield, or Reborn.",
+  "Battlecry and Deathrattle: Get 2 Blood Gems that give a Quilboar Taunt, Divine Shield, or Reborn."
+ ],
+ [
+  "S15_tw_slinger",
+  "Timewarped Slinger",
+  "G",
+  "Battlecry: Make another Murloc Golden.",
+  "Battlecry: Make two other Murlocs Golden."
+ ],
+ [
+  "S15_tw_soldier",
+  "Timewarped Soldier",
+  "G",
+  "Whenever this gains stats, also give the stats to your Deity.",
+  "Whenever this gains stats, also give double the stats to your Deity."
+ ],
+ [
+  "S15_tw_spawn_of_nzoth",
+  "Timewarped Spawn of N'Zoth",
+  "G",
+  "Deathrattle: Give this minion's maximum stats to your Deity.",
+  "Deathrattle: Give double this minion's maximum stats to your Deity."
+ ],
+ [
+  "S15_tw_sr_scout",
+  "Timewarped Sr. Scout",
+  "G",
+  "When you sell this, Discover a Tier 2 minion with a Dark Gift. (Improves each turn!)",
+  "When you sell this, Discover two Tier 2 minions with Dark Gifts. (Improves each turn!)"
+ ],
+ [
+  "S15_tw_sweet_tooth",
+  "Timewarped Sweet Tooth",
+  "G",
+  "Battlecry and Deathrattle: Get a Corrupted Coin.",
+  "Battlecry and Deathrattle: Get 2 Corrupted Coins."
+ ],
+ [
+  "S15_tw_thunder_knight",
+  "Timewarped Thunder Knight",
+  "G",
+  "Battlecry and Deathrattle: Get a Command the Elements.",
+  "Battlecry and Deathrattle: Get 2 copies of Command the Elements."
+ ],
+ [
+  "S15_tw_tickatus",
+  "Timewarped Tickatus",
+  "G",
+  "Activate (3): Discover a Tier 3 Darkmoon Prize.",
+  "Activate (3): Discover two Tier 3 Darkmoon Prizes."
+ ],
+ [
+  "S15_tw_traverser",
+  "Timewarped Traverser",
+  "G",
+  "At the end of your turn, get a random Chromadrake and trigger its Battlecry.",
+  "At the end of your turn, get 2 random Chromadrakes and trigger their Battlecries."
+ ],
+ [
+  "S15_tw_tumor",
+  "Timewarped Tumor",
+  "G",
+  "Whenever you discard a minion, gain its Bonus Keywords and stats.",
+  "Whenever you discard a minion, gain its Bonus Keywords and double its stats."
+ ],
+ [
+  "S15_tw_wallow",
+  "Timewarped Wallow",
+  "G",
+  "Activate (3): Discover a minion of your most common type from Tier 4 or above with a Dark Gift.",
+  "Activate (3): Discover two minions of your most common type from Tier 4 or above with Dark Gifts."
+ ],
+ [
+  "S15_tw_willbreaker",
+  "Timewarped Willbreaker",
+  "G",
+  "Activate (1): Get 3 random Tavern spells. After you cast one, discard the others.",
+  "Activate (1): Get 6 random Tavern spells. After you cast two, discard the others."
+ ],
+ [
+  "S15_twilight_traverser",
+  "Twilight Traverser",
+  "G",
+  "At the end of your turn, get a random Chromadrake.",
+  "At the end of your turn, get 2 random Chromadrakes."
+ ],
+ [
+  "S15_underrot_infestor",
+  "Underrot Infestor",
+  "G",
+  "Deathrattle: Summon two 1/1 Tentacles. Give them this minion's Attack.",
+  "Deathrattle: Summon four 1/1 Tentacles. Give them this minion's Attack."
+ ],
+ [
+  "S15_voidtouched_geopriestess",
+  "Voidtouched Geopriestess",
+  "G",
+  "Whenever a friendly minion gains a Bonus Keyword, this casts 2 Blood Gems on all your minions.",
+  "Whenever a friendly minion gains a Bonus Keyword, this plays 4 Blood Gems on all your minions."
+ ],
+ [
+  "S15_voidtouched_geopriestess",
+  "Voidtouched Geopriestess",
+  "T",
+  "Whenever a friendly minion gains a Bonus Keyword, this casts 2 Blood Gems on all your minions.",
+  "Whenever a friendly minion gains a Bonus Keyword, this plays 2 Blood Gems on all your minions."
+ ],
+ [
+  "S15_wave_watcher",
+  "Wave Watcher",
+  "G",
+  "At the end of your turn, give your Elementals +3/+3. Repeat for each different Bonus Keyword in your warband.",
+  "At the end of your turn, give your Elementals +3/+3 twice. Repeat for each different Bonus Keyword in your warband."
+ ]
+]

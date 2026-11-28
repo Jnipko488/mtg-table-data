@@ -1,0 +1,64 @@
+PRINT: phase recruit season s15 deity S15_nzoth
+PRINT: CARD BG30_103 Free Travel Winner 2 2 2  false full nil nil | Mission: Once this minion survives combat, get a Triple Reward. || nil
+PRINT: CARD BG22_402 Mantid Queen 6 5 5  false full nil nil | Venomous. Start of Combat: For each of your minion types, gain +5/+5 and a random Bonus Keyword. || nil
+PRINT: CARD BG26_800 Manasaber 1 4 1 BEAST false full nil nil | Deathrattle: Summon two 0/1 Cublings with Taunt. || nil
+PRINT: CARD BGS_078 Monstrous Macaw 3 4 3 BEAST false full nil nil | Rally: Trigger your left-most Deathrattle (except this minion's). || nil
+PRINT: CARD BG32_891 Shadowdancer 4 4 3 DEMON false full nil nil | Taunt Deathrattle: Get a Staff of Enrichment. || nil
+PRINT: CARD BG32_892 Dream Inquisitor 5 5 5 DEMON false full nil nil | Whenever you cast a Tavern spell, deal 1 damage to your hero and give your Demons +1/+1. || nil
+PRINT: CARD BG28_590 Emerald Proto-Whelp 1 0 3 DRAGON false full nil nil | At the end of your turn, gain +1 Attack. || nil
+PRINT: CARD BG31_301 Efficient Engineer 5 5 6 DRAGON false simplified nil nil | Battlecry: Trigger a friendly minion's end of turn effects (except Young Murk-Eye). || nil
+PRINT: CARD BG24_003 Nether Drake 4 4 12 DRAGON false full nil nil | At the end of your turn, give your Dragons +1 Attack and improve this. || nil
+PRINT: CARD BG28_595 Ignition Specialist 5 8 8 DRAGON false full nil nil | At the end of your turn, get 2 random Tavern spells. || At the end of your turn, get 4 random Tavern spells.
+PRINT: CARD BGS_121 Gentle Djinni 5 5 6 ELEMENTAL false full nil nil | Taunt Battlecry and Deathrattle: Get a random Elemental. || Taunt Battlecry and Deathrattle: Get 2 random Elementals.
+PRINT: CARD BG33_809 Divine Sparkbot 4 4 1 MECHANICAL false full nil nil | Taunt, Divine Shield Deathrattle: Get a Sanctify. || nil
+PRINT: CARD BG34_175 Junk Jouster 5 5 5 MECHANICAL false full nil nil | After you Magnetize a minion, give your minions +5/+5. || nil
+PRINT: CARD BG33_893 Primitive Painter 6 3 7 MURLOC false full nil nil | After you play a card from Tier 3 or below, give your Murlocs +3/+3. || After you play a card from Tier 3 or below, give your Murlocs +6/+6.
+PRINT: CARD BG25_032 Peggy Sturdybone 3 2 2 PIRATE false full nil nil | Whenever a card is added to your hand, give another friendly Pirate +2/+1. || nil
+PRINT: CARD BG33_826 Wizened Captain 6 6 6 PIRATE false full nil nil | Whenever you cast a Tavern spell, gain +1/+1. || nil
+PRINT: CARD BG33_884 Bloodsnout Warlord 6 6 6 QUILBOAR false full nil nil | Whenever a friendly Rally minion attacks, this plays 3 Blood Gems on all your minions. || nil
+PRINT: CARD BG30_124 Thundering Abomination 5 2 6 UNDEAD false full nil nil | Whenever you summon a minion in combat, give it +3/+3. If there's no space, gain +3/+3 permanently. || nil
+PRINT: CARD BG30_129 Catacomb Crasher 6 4 10 UNDEAD false full nil nil | Whenever you would summon a minion that doesn't fit in your warband, give your minions +2/+2 permanently. || nil
+PRINT: CARD BG32_237 Intrepid Botanist 3 4 5  false full nil nil | Choose One - Your Tavern spells give an extra +1 Attack this game; or +1 Health. || nil
+PRINT: CARD BG25_016 Sin'dorei Straight Shot 4 3 4  false full nil nil | Divine Shield, Windfury Rally: Remove Reborn and Taunt from the target. || nil
+PRINT: CARD BG36_763 Treasure Parrot 3 5 5 BEAST,PIRATE false full nil nil | Once this deals 35 damage, get a Golden Touch. (35 left!) || nil
+PRINT: CARD BG32_821 Felfire Conjurer 6 8 7 DEMON,DRAGON false full nil nil | At the end of your turn, your Tavern spells give an extra +1/+1 this game. || nil
+PRINT: CARD BG36_098 Zoatroid 1 3 2 ABERRATION false full nil nil | When you sell this, get a 0/2 Tentacle with Taunt. || nil
+PRINT: CARD BG36_116 Underrot Spawn 2 2 2 ABERRATION false full nil nil | Deathrattle: Summon an 0/2 Tentacle with Taunt. Give your minions +1 Attack. || nil
+PRINT: CARD BG36_113 Drifting Sacrifice 3 2 1 ABERRATION false full nil nil | Reborn Deathrattle: Give your Deity +2/+1. || nil
+PRINT: CARD BGFYM_005 Harbinger Aph'lass 5 3 6 ABERRATION false full nil nil | Whenever you discard a card, give your Deity +2/+1 and improve this. || nil
+PRINT: CARD BG35_602 Lurking Leviathan 5 3 8 BEAST false full nil nil | Whenever you summon a Beast, give it +3 Attack and improve this permanently. || nil
+PRINT: CARD BGS_018 Goldrinn, the Great Wolf 6 5 5 BEAST false full nil nil | Deathrattle: Your Beasts have +7/+7 until next turn. || nil
+PRINT: CARD BG36_762 Devilish Distractor 5 5 8 DEMON false full nil nil | Whenever you cast a spell on this, give minions in the Tavern +1/+2 this game. || nil
+PRINT: CARD BG26_523 Tichondrius 6 4 8 DEMON false full nil nil | After your hero takes damage, give your Demons +4/+4. || nil
+PRINT: CARD BG35_814 Scarlet Survivor 1 3 3 DRAGON false full nil nil | Once this reaches 6 Attack, gain Divine Shield. || nil
+PRINT: CARD BG34_950 Stone Age Slab 7 10 10 ELEMENTAL false full nil nil | After you buy a minion, give it +20/+20 and double its stats. (Once per turn.) || nil
+PRINT: CARD BG_BOT_911 Annoy-o-Module 2 2 4 MECHANICAL false full nil nil | Magnetic Divine Shield Taunt || nil
+PRINT: CARD BG36_854 Rescue Bot 4 4 1 MECHANICAL false full nil nil | Taunt Deathrattle: Get a Repair Job. || nil
+PRINT: CARD BG31_149 Bubble Gunner 1 2 2 MURLOC false full nil nil | Battlecry: Gain a random Bonus Keyword. || nil
+PRINT: CARD BG32_860 Shoalfin Mystic 2 3 3 MURLOC false full nil nil | When you sell this, your Tavern spells give an extra +1/+1 this game. || nil
+PRINT: CARD BG31_148 Hackerfin 5 5 3 MURLOC false full nil nil | Battlecry: Give your other minions +3/+2. (Improved by each different Bonus Keyword in your warband!) || nil
+PRINT: CARD BG32_235 Surfing Sylvar 3 2 4 PIRATE false full nil nil | At the end of your turn, give adjacent minions +1 Attack. Repeat for each friendly Golden minion. || nil
+PRINT: CARD BG36_344 Hooktusk, Master Marauder 6 8 8 PIRATE false full nil nil | After you Discover a card, give your Pirates +1/+1. (Improved by Golden minions you played this game!) || nil
+PRINT: CARD BG34_Giant_001 Timewarped Busker 3 4 2 PIRATE false full 1 3 | Battlecry and Deathrattle: Gain 1 Gold next turn. || Battlecry and Deathrattle: Gain 2 Gold next turn.
+PRINT: CARD BG34_Giant_583 Timewarped Devourer 3 5 5 DEMON false full 1 3 | At the start of your turn, consume the Demon to the right to gain its stats and 3 Gold. || At the start of your turn, consume the Demon to the right to gain twice its stats and 6 Gold.
+PRINT: CARD BG34_Giant_305 Timewarped Geomancer 3 2 9 QUILBOAR false full 2 3 | Avenge (5): Get a Blood Gem. Your Blood Gems give an extra +1/+1 this game. || Avenge (5): Get a Blood Gem. Your Blood Gems give an extra +2/+2 this game.
+PRINT: CARD BG34_Giant_581 Timewarped Hyena 3 3 5 BEAST false full 1 3 | Whenever a friendly Beast dies, gain +2/+2 permanently. || Whenever a friendly Beast dies, gain +4/+4 permanently.
+PRINT: CARD BG34_Giant_066 Timewarped Lubber 3 5 7 ELEMENTAL,PIRATE false full 1 3 | The Tavern always offers 1 extra Tavern spell. Your Tavern spells give an extra +1/+1. || The Tavern always offers 2 extra Tavern spells. Your Tavern spells give an extra +2/+2.
+PRINT: CARD BG34_Giant_300 Timewarped Rewinder 3 5 4 DEMON false full 1 3 | After your hero takes damage, rewind it and give your Demons +1 Health. || After your hero takes damage, rewind it and give your Demons +2 Health.
+PRINT: CARD BG34_Giant_202 Timewarped Saurolisk 3 4 4 BEAST false full 1 3 | After you trigger a Deathrattle, gain +3/+2 permanently. || After you trigger a Deathrattle, gain +6/+4 permanently.
+PRINT: CARD BG34_Giant_209 Timewarped Sensei 3 6 6 MECHANICAL false full 1 3 | At the end of your turn, give adjacent Mechs +3/+3. || At the end of your turn, give adjacent Mechs +6/+6.
+PRINT: CARD BG34_Giant_604 Timewarped Tipper 3 6 8  false full 1 3 | If you have any unspent Gold at the end of your turn, increase your maximum Gold by 1. || If you have any unspent Gold at the end of your turn, increase your maximum Gold by 2.
+PRINT: CARD BG34_Giant_064 Timewarped Whelp Smuggler 3 3 8  false full 2 3 | Whenever a friendly minion gains Attack, give it +3 Health. || Whenever a friendly minion gains Attack, give it +6 Health.
+PRINT: CARD BG34_PreMadeChamp_078 Timewarped Bandit 5 7 13 QUILBOAR false full 1 5 | At the start of your turn, discard a spell for this to play 4 Blood Gems on all your minions. || At the start of your turn, discard a spell for this to play 8 Blood Gems on all your minions.
+PRINT: CARD BG34_PreMadeChamp_076 Timewarped Bloodbinder 5 12 8 QUILBOAR false full 1 5 | At the start of your turn, get 5 Blood Gems. They also count as Tavern spells. || At the start of your turn, get 10 Blood Gems. They also count as Tavern spells.
+PRINT: CARD BG34_Giant_618 Timewarped Caretaker 5 5 5 UNDEAD false full 2 5 | Deathrattle: Summon five 1/1 Skeletons. Any that don't fit give your Undead +1 Attack this game (wherever they are). || Deathrattle: Summon ten 1/1 Skeletons. Any that don't fit give your Undead +1 Attack this game (wherever they are).
+PRINT: CARD BG34_Giant_680 Timewarped Collector 5 12 12 PIRATE false full 1 5 | Also damages adjacent minions. Rally: If you control 4 Golden minions, gain Divine Shield. || Also damages adjacent minions. Rally: If you control 4 Golden minions, gain Divine Shield.
+PRINT: CARD BG34_Giant_362 Timewarped Goldrinn 5 6 6 BEAST false full 2 5 | Deathrattle: Your Beasts have +4/+4 this game (wherever they are). || Deathrattle: Your Beasts have +8/+8 this game (wherever they are).
+PRINT: CARD BG34_PreMadeChamp_013 Timewarped Imp-filtrator 5 13 7 DEMON false full 2 5 | After you spend 8 Gold, give minions in the Tavern +3/+3 this game. (8 Gold left!) || After you spend 8 Gold, give minions in the Tavern +6/+6 this game. (8 Gold left!)
+PRINT: CARD BG34_Giant_608 Timewarped Lil' Quilboar 5 5 5 QUILBOAR false full 2 5 | Reborn Deathrattle: This plays 3 Blood Gems on all your Quilboar. || Reborn Deathrattle: This plays 6 Blood Gems on all your Quilboar.
+PRINT: CARD BG34_Giant_205 Timewarped Nalaa 5 12 12  false full 2 5 | Whenever you cast a spell, give a friendly minion of each type +4/+3. || Whenever you cast a spell, give a friendly minion of each type +8/+6.
+PRINT: CARD BG34_Giant_032 Timewarped Nomi 5 10 10  false full 2 5 | After you play an Elemental, give minions in the Tavern +4/+3 this game. || After you play an Elemental, give minions in the Tavern +8/+6 this game.
+PRINT: CARD BG34_Giant_319 Timewarped Painter 5 4 9 MURLOC false full 2 5 | At the end of your turn, give adjacent minions +3/+2. After you play a card from Tier 3 or below, improve this. || At the end of your turn, give adjacent minions +6/+4. After you play a card from Tier 3 or below, improve this.
+PRINT: CARD BG34_PreMadeChamp_022 Timewarped Prismscale 5 8 12 DRAGON false full 1 5 | Avenge (2): Get an Azerite Empowerment. || Avenge (2): Get 2 Azerite Empowerments.
+PRINT: TW BG34_HeroPowerSpell_006 2 Power of George
+PRINT: TW BG34_HeroPowerSpell_015 2 Power of Guff

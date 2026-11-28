@@ -1,0 +1,1620 @@
+37.2 Season 15: Warped Empire — Season 15 — Hearthstone Battlegrounds
+37.2 Season 15: Warped Empire — Season 15 — Hearthstone Battlegrounds
+Battlegrounds Season 15 brings back the Timewarped Tavern with three new keywords, two new heroes and 77 new cards — 66 minions, 9 Tavern spells, a new Deity and a token — while Trinkets and Dark Gifts rotate out. Live with Patch 37.2 on December 1.
+Get ready for Season 15 of Battlegrounds: Warped Empire! This new Battlegrounds season launches December 1 with three new keywords, two new heroes, the return of the Timewarped Tavern, and new cards for all Minion types.
+Complete Hearthstone Battlegrounds Season 15 patch notes for update 37.2. This Season 15 update includes 516 card changes across 27 categories: 146 removed, 171 returning, 79 changed, 162 new cards.
+Hearthstone Battlegrounds Season 15 brings major changes to the tavern including new minions and balance updates. Browse all Season 15 card changes below.
+Leaving Mechanics (3)
+Trinkets rotate out of Battlegrounds as the Timewarped Tavern returns.
+Dark Gifts rotate out of Battlegrounds.
+Stealth leaves the pool of Bonus Keywords for the time being, making room for Resilient.
+Hero Updates (4)
+BananaramaText: At the start of your turn, get 2 Bananas and give everyone else one. → At the start of each turn, get 2 Tavern Dish Bananas and give everyone else one.
+Zerek, Master Cloner: Timewarp restriction removed.
+Sindragosa and Millhouse Manastorm: Now banned from Pirate lobbies.
+Murozond, Unbounded and Morchie: No longer banned from Aberration lobbies.
+New Heroes (4)
+For the first two weeks after the patch goes live, both new heroes are offered in every game.
+Vanessa the Ringleader
+Strategic EdgeDiscover a Tier 1 minion. (Improved by each minion you've bought this turn!)
+Eternus
+Dawn of the InfiniteSkip your first turn to visit the Major Timewarp instead. Lock cards you buy until you spend 45 Gold. (45 left!)
+Functionality Update (13)
+Diremuck Forager — Tier 3 (Murloc) — 4/5Text: Start of Combat: When you have space, summon the highest-Attack Murloc from your hand for this combat only. → Once you have space each combat, summon the highest-Attack Murloc from your hand for this combat only.
+Sharptooth Snapper — Tier 2 (Beast) — 3/3Text: When you have space in combat, summon a 3/1 Beast. It attacks immediately. → Once you have space each combat, summon a 3/1 Beast. It attacks immediately.
+Automaton Portrait (Mech)Text: Start of Combat: When you have space, summon an Ancestral Automaton. → Once you have space each combat, summon an Ancestral Automaton.
+Boom Controller (Mech)Text: When you have space, summon an exact copy of your first Mech that died each combat. → Once you have space, summon an exact copy of your first Mech that died each combat.
+Crocheted Sungill (Murloc)Text: Start of Combat: Give the highest-Health minion from your hand +4/+4. When you have space, summon it for this combat only. → Start of Combat: Give the highest-Health minion from your hand +4/+4. Once you have space, summon it for this combat only.
+Twin Sky Lanterns (Undead, Murloc)Text: When you have space, summon a copy of the first minion you summon each combat. → Once you have space, summon a copy of the first minion you summon each combat.
+Twin Sky Lanterns (Undead, Murloc)Text: When you have space, summon 2 copies of the first minion you summon each combat. → Once you have space, summon 2 copies of the first minion you summon each combat.
+Frostwolf FervorText: When you have space in combat, summon a copy of your highest-Attack minion. (Unlocks on Turn 7.) → Once you have space each combat, summon a copy of your highest-Attack minion. (Unlocks on Turn 7.)
+Lock and LoadText: Remove a minion in the Tavern. When you have space next combat, fire it at a random enemy minion. → Remove a minion in the Tavern. Once you have space next combat, fire it at a random enemy minion.
+Rapid ReanimationText: Choose a friendly minion. Start of Combat: Destroy it. When you have space, resummon an exact copy. → Choose a friendly minion. Start of Combat: Destroy it. Once you have space, resummon an exact copy.
+Stormpike StrengthText: When you have space in combat, summon a copy of your highest-Health minion. (Unlocks on Turn 7.) → Once you have space each combat, summon a copy of your highest-Health minion. (Unlocks on Turn 7.)
+TentacularText: When you have space in combat, summon a 2/2 Tentacle with Taunt. (Gains +1/+1 after you sell a minion!) → Once you have space each combat, summon a 2/2 Tentacle with Taunt. (Gains +1/+1 after you sell a minion!)
+Cards with "When you have space in combat" effects now trigger only after all Start of Combat effects resolve. Their text has been updated to reflect this.
+Affected cards:
+Removed Minions (113)
+Fetid Corroder — Tier 3 (Aberration) — 3/3Battlecry: Get a Sludge Corrosion.
+Unwilling Slacker — Tier 3 (Aberration) — 3/2Deathrattle: Get a random 1-Cost Tavern spell.
+Vicious Mindslasher — Tier 3 (Aberration) — 1/2Whenever you cast a Tavern spell, give this and your Deity +1/+2.
+Nightmare Corroder — Tier 4 (Aberration) — 4/5At the end of your turn, get a Sludge Corrosion.
+Parasitic Fleshling — Tier 4 (Aberration) — 4/6At the end of your turn, give your left-most minion +2/+2. (Improved by each card you've discarded this game!)
+De-volition-ist — Tier 5 (Aberration) — 4/8After this attacks, deal damage equal to this minion's Attack to the highest- Health enemy minion.
+Faceless Converter — Tier 5 (Aberration) — 5/5Deathrattle: Give your Deity +2/+1. (Improved by each Tavern spell you've cast this game!)
+Mysterious K'Thir — Tier 5 (Aberration) — 7/7At the end of your turn, discard your 3 left-most Tavern spells. Gain +7/+7 for each discarded.
+N'raqi Frostcaller — Tier 5 (Aberration) — 6/3Activate (0): Discard a card for your Tavern spells to give an extra +1/+1 this game.
+N'raqi Sapper — Tier 5 (Aberration) — 6/3Battlecry and Deathrattle: Get an Energizing Chamber.
+Dark Puppeteer — Tier 6 (Aberration) — 8/4Deathrattle: Your Tavern spells give an extra +4 Health this game.
+Buzzing Vermin — Tier 1 (Beast) — 1/1Taunt Deathrattle: Summon a 2/2 Beetle.
+Flittering Bat — Tier 1 (Beast) — 1/4Rally: Summon a 1/1 Beast.
+Forest Rover — Tier 2 (Beast) — 1/1Battlecry: Your Beetles have +2/+1 this game. Deathrattle: Summon a 2/2 Beetle.
+Lurking Lionfish — Tier 2 (Beast) — 3/4Activate (2): Choose a card in the Tavern. Replace it with a Fishbait for your left-most Beast to attack.
+Tasty Lobster — Tier 3 (Beast) — 2/1Deathrattle: Give a random friendly Beast +2/+1. Improve your future Tasty Lobsters.
+Wolf Pup — Tier 3 (Beast) — 3/6Rally: Give your other minions +4/+1.
+Cage Gnawer — Tier 4 (Beast) — 2/7Whenever a friendly Beast attacks, give your Beasts +2/+1.
+Hoarding Hyena — Tier 4 (Beast) — 4/6Rally: Summon a Tasty Lobster.
+Snarky Shark — Tier 5 (Beast) — 4/5When you sell this, Refresh the Tavern with a Fishbait. Your left-most Beast attacks it.
+Turquoise Skitterer — Tier 5 (Beast) — 5/5Deathrattle: Your Beetles have +5/+5 this game. Summon a 2/2 Beetle.
+Deathstrider — Tier 6 (Beast) — 10/11After a friendly Rally minion attacks, trigger your left-most Deathrattle.
+Ravaging Scorpid — Tier 6 (Beast) — 6/7After a friendly minion attacks, your Beetles have +4/+4 this game. Deathrattle: Summon a 2/2 Beetle.
+Mind Muck — Tier 2 (Demon) — 3/2Battlecry: Choose a friendly Demon. It consumes a minion in the Tavern to gain its stats.
+Devout Hellcaller — Tier 3 (Demon) — 4/4After another friendly Demon deals damage, gain +2/+2 permanently.
+Sacrificial Wrathguard — Tier 4 (Demon) — 6/3Deathrattle: Give minions in the Tavern +2/+1 this game. Activate (1): Improve this.
+Soulkeeping Jailer — Tier 4 (Demon) — 3/5Activate (2): Your Demons each consume a random minion in the Tavern to gain its stats.
+Deft Deserter — Tier 5 (Demon) — 8/8Activate (1): Give all minions in the Tavern +8/+8 and Taunt, Divine Shield, or Windfury.
+Felboar — Tier 5 (Demon, Quilboar) — 2/6After you cast 4 spells, consume a minion in the Tavern to gain its stats. (4 left!)
+Insatiable Ur'zul — Tier 5 (Demon) — 4/6Taunt. After you play a Demon, consume a random minion in the Tavern to gain its stats.
+Eredar Escapist — Tier 6 (Demon) — 5/10After your hero takes 5 damage, get a copy of Corrupted Cupcakes. (5 left!)
+Glim Guardian — Tier 1 (Dragon) — 1/4Rally: Gain +2 Attack.
+Bronze Warden — Tier 2 (Dragon) — 2/1Divine Shield Reborn
+Hired Mount — Tier 3 (Dragon) — 3/5Activate (2): Get a random Chromadrake.
+Roaring Recruiter — Tier 3 (Dragon) — 2/8Whenever another friendly Dragon attacks, give it +3/+1.
+Bronze Timewalker — Tier 4 (Dragon) — 4/5Rally: Get a random Chromadrake.
+Sky-hatch Runaway — Tier 4 (Dragon) — 4/7Activate (1): Trigger a friendly minion's Rally.
+Hopebringer — Tier 5 (Dragon) — 4/3Start of Combat: Give your minions +4/+3. (Permanently improves after a friendly minion loses Divine Shield!)
+Crimson Vindicator — Tier 6 (Dragon) — 9/7Divine Shield. Windfury. Rally: Cast Mighty Dragonbreath.
+Heroic Broodmother — Tier 6 (Dragon) — 7/7Rally: Gain Divine Shield. Start of Combat: Attack immediately.
+Air Baller — Tier 4 (Elemental) — 6/6When you sell this, give your minions +2/+2. Improve your future Ballers.
+Ichoron the Protector — Tier 4 (Elemental) — 3/1Divine Shield Whenever you play an Elemental, give it Divine Shield until next turn.
+Leyline Surfacer — Tier 4 (Elemental) — 4/6Battlecry and Deathrattle: Get an Arcane Absorption.
+Living Prison — Tier 4 (Elemental) — 4/5Activate (1): Gain the stats of the next minion you buy this turn.
+Refreshing Anomaly — Tier 4 (Elemental) — 4/5Battlecry: Gain 2 free Refreshes.
+Firelands Fugitive — Tier 5 (Elemental) — 5/7Battlecry: Get a Conflagration.
+Elemental of Surprise — Tier 6 (Elemental) — 8/8Divine Shield This minion can triple with any Elemental.
+Ultraviolet Ascendant — Tier 6 (Elemental) — 8/8Start of Combat: Give your other Elementals +4/+4. (Improves after you play an Elemental!)
+Blue Volumizer — Tier 2 (Mech) — 1/3Magnetic. The first time this is played or Magnetized, your Volumizers have +3 Health this game (wherever they are).
+Green Volumizer — Tier 2 (Mech) — 3/3Magnetic. The first time this is played or Magnetized, your Volumizers have +1/+1 this game (wherever they are).
+Red Volumizer — Tier 2 (Mech) — 3/1Magnetic. The first time this is played or Magnetized, your Volumizers have +3 Attack this game (wherever they are).
+Auto Accelerator — Tier 3 (Mech) — 3/3Battlecry: Get a random Magnetic Volumizer.
+Relentless Deflector — Tier 3 (Mech) — 5/4Has Taunt while this has Divine Shield. Avenge (3): Gain Divine Shield.
+Drone Duplicator — Tier 4 (Mech) — 5/2Divine Shield. Activate (1): The next Magnetization to this minion this turn happens an extra time.
+Gearfin — Tier 4 (Mech, Murloc) — 6/5At the end of your turn, get two 1-Cost Tavern spells.
+Glambot — Tier 4 (Mech) — 5/5Whenever you cast a spell on a Mech, Magnetize a 5/5 Satellite to it.
+Charging Czarina — Tier 5 (Mech) — 4/1Divine Shield Whenever you cast a Tavern spell, give your minions with Divine Shield +4 Attack.
+Resourceful Robot — Tier 5 (Mech) — 4/8At the end of your turn, Magnetize a random Volumizer to this. Get a copy of it.
+Spark Snapper — Tier 5 (Mech) — 8/8Whenever you play a Mech, Magnetize a 2/2 Satellite to it and improve this.
+Auto Reveille — Tier 6 (Mech) — 4/8After you buy 3 cards, Magnetize a random Volumizer to this and get a copy of it. (3 left!)
+Falling Sky Golem — Tier 6 (Mech) — 4/2Divine Shield. Has +4/+2 for each Deathrattle you've triggered this game (wherever this is).
+Utility Drone — Tier 6 (Mech) — 4/5At the end of your turn, give your minions +4/+5 for each Magnetization they have.
+Murcules — Tier 2 (Murloc) — 5/3Whenever this kills a minion, give a minion in your hand +3/+3.
+Kelp Keeper — Tier 4 (Murloc) — 5/5Activate (1): Trigger a friendly minion's Battlecry.
+Twilight Tidehunter — Tier 4 (Murloc) — 3/7Whenever you cast a spell on this, give the left-most minion in your hand +9/+9.
+Bile Spitter — Tier 5 (Murloc) — 1/10Venomous Rally: Give another friendly Murloc Venomous.
+Sewer Escapee — Tier 5 (Murloc) — 7/7Activate (1): Give another Murloc +7/+7 and a random Bonus Keyword.
+Magicfin Mycologist — Tier 6 (Murloc) — 4/8Once per turn, after you buy a Tavern spell, get a 1/1 Murloc and teach it that spell. (1 left!)
+Southsea Busker — Tier 1 (Pirate) — 3/1Battlecry: Gain 1 Gold next turn.
+Clever Castaway — Tier 2 (Pirate) — 2/3Activate (2): Discover a Tavern spell.
+Azsharan Cutlassier — Tier 3 (Pirate) — 6/4Battlecry: Your Tavern spells give an extra +1 Attack this game.
+Greedy Conniver — Tier 3 (Pirate) — 7/7If this is Golden when you sell it, Discover a Tier 7 minion.
+Maritime Extortionist — Tier 4 (Pirate) — 7/7Has +7/+7 for each Golden minion you've played this game (wherever this is).
+Elite Navigator — Tier 5 (Pirate) — 5/5Battlecry: Make a friendly Pirate from Tier 4 or below Golden.
+Enterprising Escapee — Tier 5 (Pirate) — 7/5After you spend 5 Gold, get a Lockbox. If you already have one, it opens 1 turn sooner instead. (5 Gold left!)
+Ship Master Eudora — Tier 5 (Pirate) — 10/3Deathrattle: Give your minions +8/+8. Golden ones keep it permanently.
+Silent Deliverer — Tier 6 (Pirate) — 7/7Battlecry: Get a random Golden minion from Tier 4. It doesn't give a Triple Reward.
+Crater Miner — Tier 2 (Quilboar) — 2/2Choose One - Get 2 Blood Gems; or Get a Gem Day.
+Prodigious Tusker — Tier 2 (Quilboar) — 2/5Whenever another friendly minion attacks, this plays a Blood Gem on it.
+Gem Rat — Tier 3 (Quilboar) — 4/4At the end of your turn, get a Gem Day.
+Sly Infiltrator — Tier 3 (Quilboar) — 4/5Choose One - Gain 2 free Refreshes; or Get 3 Blood Gems.
+Thorned Trailblazer — Tier 3 (Quilboar) — 4/5One Choose One card each turn has both effects combined. (1 left!)
+Trench Fighter — Tier 3 (Quilboar) — 3/3At the end of your turn, get a Gem Confiscation.
+Bramble Tunneler — Tier 4 (Quilboar) — 3/6Rally: Get a random Choose One card.
+Snare Trapper — Tier 4 (Quilboar) — 4/4Choose One - Get a random Quilboar; or Increase your maximum Gold by 1.
+Hot-Air Surveyor — Tier 5 (Quilboar) — 3/7Blood Gems played from your hand cast an extra time.
+Turbo Hogrider — Tier 6 (Quilboar) — 6/8After you play a Choose One card, this plays 2 Blood Gems on all your Quilboar.
+Veteran Brigand — Tier 6 (Quilboar) — 8/8Choose One - This plays 3 Blood Gems on all your minions; or cast Blood Gem Barrage 3 times.
+Victorious Geomant — Tier 6 (Quilboar) — 10/10Activate (2): Get 6 Blood Gems. Cast any that don't fit on your left-most minion.
+Eternal Knight — Tier 2 (Undead) — 4/2Has +4/+2 for each friendly Eternal Knight that died this game (wherever this is).
+Cadaver Caretaker — Tier 3 (Undead) — 3/3Deathrattle: Summon three 1/1 Skeletons.
+Dead Bellringer — Tier 4 (Undead) — 3/6Activate (1): Give a different friendly Undead Reborn. Then destroy it to gain +4/+4.
+Friendly Geist — Tier 4 (Undead) — 6/3Deathrattle: Your Tavern spells give an extra +1 Attack this game.
+Barrier Banshee — Tier 5 (Undead) — 8/8After a friendly minion is Reborn, gain Divine Shield and +8/+8.
+Drustfallen Butcher — Tier 5 (Undead) — 2/7Avenge (4): Get a Butchering.
+Eternal Summoner — Tier 5 (Undead) — 8/1Reborn. Deathrattle: Summon 1 Eternal Knight.
+Eternal Tycoon — Tier 5 (Undead) — 4/8Avenge (5): Summon an Eternal Knight. It attacks immediately.
+Lichling Hoarder — Tier 5 (Undead) — 6/9Avenge (3): Get a plain copy of a minion that started in your warband this combat.
+Snazzy Phantom — Tier 6 (Undead) — 6/8After a friendly minion is Reborn, give stats equal to its Attack to your right-most Undead.
+Dark Paradox — Tier 1 (All) — 1/1This has a different Dark Gift, stats, and Tier each game!
+Dark Paradox — Tier 2 (All) — 6/2Whenever you play a card, gain +2 Health.
+Dark Paradox — Tier 3 (All) — 4/4Has +4/+4 for each Battlecry you've triggered this game (wherever this is).
+Dark Paradox — Tier 4 (All) — 2/6Rally: Get a random minion of your most common type.
+Dark Paradox — Tier 5 (All) — 8/4Divine Shield This minion's Divine Shield takes 3 hits to break.
+Nightmare Par-tea Guest — Tier 5 (All) — 3/3Battlecry and Deathrattle: Get a Misplaced Tea Set.
+Dark Paradox — Tier 6 (All) — 10/2Deathrattle: Summon a Golem with this minion's stats.
+Suspicious Prisonguard — Tier 1 — 3/3Activate (1): Give another minion +3/+3.
+Fruit Vendor — Tier 3 — 3/6Activate (1): Get 2 Tavern Dish Bananas.
+Holy Vanguard — Tier 4 — 10/10Divine Shield Has +30/+30 if you have 15 or less Health.
+Humon'gozz — Tier 4 — 5/5Divine Shield Your Tavern spells give an extra +1/+2.
+Cataclysmic Harbinger — Tier 5 — 6/10At the end of your turn, get a copy of the last Tavern spell you cast.
+Nadina the Red — Tier 6 — 8/4Deathrattle: Give 3 friendly Dragons Divine Shield.
+Tyrael — Tier 6 — 10/10Activate (1): Set another minion's stats to 50/50.
+Changed Minions (24)
+C'Thun — Tier 1 (Aberration) — 1/1Text: Deity. After this awakens, give this minion's stats split amongst your other minions. → Deity (4). After this awakens, give this minion's stats split amongst your other minions.
+Y'Shaarj — Tier 1 (Aberration) — 1/1Text: Deity. Deathrattle: Summon your first 2 Aberrations that died this combat with their maximum stats (except Deities). → Deity (4). Deathrattle: Summon your first 2 Aberrations that died this combat with their max stats (except Deities).
+Harbinger Aph'lass — Tier 5 (Aberration) — 3/6Text: Whenever you discard a card, give your Deity +2/+1 and improve this. → Whenever you discard a card, give your Deity +1/+1 and improve this.
+Drifting Sacrifice — Tier 3 (Aberration) — 2/1Text: Reborn Deathrattle: Give your Deity +2/+1. → Taunt, Reborn Deathrattle: Give your Deity +2/+1.
+Underrot Spawn — Tier 2 (Aberration) — 2/2Text: Deathrattle: Summon an 0/2 Tentacle with Taunt. Give your minions +1 Attack. → Deathrattle: Summon a 1/1 Tentacle. Give your minions +1 Attack.
+Zoatroid — Tier 1 (Aberration) — 3/2Text: When you sell this, get a 0/2 Tentacle with Taunt. → When you sell this, get a 1/1 Tentacle.
+Wandering Willbreaker — Tier 2 (Aberration) — 1/3Text: When you sell this, get 2 random Tavern spells. When you play one, discard the other. → When you sell this, get 2 random Tavern spells. When you cast one, discard the other.
+Goldrinn, the Great Wolf — Tier 6 (Beast) — 5/5Tier: 5 → 6
+Attack: 7 → 5
+Health: 7 → 5
+Text: Deathrattle: Your Beasts have +7/+7 until next turn. → Deathrattle: Your Beasts have +5/+5 this game (wherever they are).
+Lurking Leviathan — Tier 5 (Beast) — 3/8Health: 9 → 8
+Text: Whenever you summon a Beast, give it +3 Attack and improve this permanently. → Whenever you summon a Beast, give it +2 Attack and improve this permanently.
+Treasure Parrot — Tier 3 (Beast, Pirate) — 5/5Text: Once this deals 35 damage, get a Golden Touch. (35 left!) → Mission: Once this deals 35 damage, get a Golden Touch. (35 left!)
+Hooktusk, Master Marauder — Tier 6 (Pirate) — 8/8Attack: 5 → 8
+Health: 5 → 8
+Text: After you Discover a card, give your Pirates +1/+1. (Improved by Golden minions you played this game!) → After you Discover a card, give your other Pirates +2/+2. (Improved by Golden minions you played this game!)
+Surfing Sylvar — Tier 3 (Pirate) — 2/4Tier: 2 → 3
+Attack: 1 → 2
+Health: 2 → 4
+Text: At the end of your turn, give adjacent minions +1 Attack. Repeat for each friendly Golden minion. → At the end of your turn, give adjacent minions +2 Attack. Repeat for each friendly Golden minion.
+Hackerfin — Tier 5 (Murloc) — 5/3Text: Battlecry: Give your other minions +3/+2. (Improved by each different Bonus Keyword in your warband!) → Battlecry: Give your other minions +3/+2. Repeat for each different Bonus Keyword in your warband.
+Shoalfin Mystic — Tier 2 (Murloc) — 3/3Tier: 3 → 2
+Attack: 4 → 3
+Health: 4 → 3
+Bubble Gunner — Tier 1 (Murloc) — 2/2Health: 3 → 2
+Rescue Bot — Tier 4 (Mech) — 4/1Tier: 3 → 4
+Attack: 2 → 4
+Text: Taunt Deathrattle: Get a Repair Job. → Taunt Battlecry and Deathrattle: Get a Repair Job.
+Annoy-o-Module — Tier 2 (Mech) — 2/4Tier: 3 → 2
+Stone Age Slab — Tier 7 (Elemental) — 10/10Text: After you buy a minion, give it +20/+20 and double its stats. (Once per turn.) → Activate (0): Give the next minion you buy this turn +20/+20 and double its stats.
+Scarlet Survivor — Tier 1 (Dragon) — 3/3Text: Once this reaches 6 Attack, gain Divine Shield. → Mission: Once this reaches 6 Attack, gain Divine Shield permanently.
+Felfire Conjurer — Tier 6 (Demon, Dragon) — 8/7Tier: 5 → 6
+Attack: 6 → 8
+Health: 5 → 7
+Tichondrius — Tier 6 (Demon) — 4/8Tier: 5 → 6
+Health: 4 → 8
+Text: After your hero takes damage, give your Demons +4/+4. → After your hero takes damage, give your Demons +2/+2. At the end of your turn, improve this.
+Devilish Distractor — Tier 5 (Demon) — 5/8Attack: 4 → 5
+Health: 7 → 8
+Text: Whenever you cast a spell on this, give minions in the Tavern +1/+2 this game. → Whenever you cast a spell on this, give minions in the Tavern +1/+1 this game.
+Intrepid Botanist — Tier 3 — 4/5Tier: 2 → 3
+Attack: 3 → 4
+Health: 4 → 5
+Text: Choose One - Your Tavern spells give an extra +1 Attack this game; or +1 Health. → Choose One - Your Tavern spells give an extra +2 Attack this game; or +2 Health.
+Sin'dorei Straight Shot — Tier 4 — 3/4Text: Divine Shield, Windfury Rally: Remove Reborn and Taunt from the target. → Divine Shield, Windfury Rally: Remove all Bonus Keywords from the target.
+Returning Minions (42)
+Alleycat — Tier 1 (Beast) — 1/1Battlecry: Summon a 1/1 Cat.
+Manasaber — Tier 1 (Beast) — 4/1Deathrattle: Summon two 0/1 Cublings with Taunt.
+Emerald Proto-Whelp — Tier 1 (Dragon) — 0/3Health: 4 → 3
+Text: At the end of your turn, gain +1 Attack. → At the end of your turn, gain +1/+1.
+Sewer Rat — Tier 2 (Beast) — 3/2Deathrattle: Summon a 2/3 Turtle with Taunt.
+Ancestral Automaton — Tier 2 (Mech) — 3/4Has +3/+2 for each other Ancestral Automaton you've summoned this game (wherever this is).
+Bristleback Bully — Tier 2 (Quilboar) — 3/2Taunt Deathrattle: Get a Blood Gem that also gives a Quilboar Taunt.
+Moon-Bacon Jazzer — Tier 2 (Quilboar) — 2/3Battlecry: Your Blood Gems give an extra +1 Health this game.
+Free Travel Winner — Tier 2 — 2/2Text: At the start of your turn, if this minion survived last combat, remove this and get a Triple Reward. → Mission: Once this minion survives combat, get a Triple Reward.
+Monstrous Macaw — Tier 3 (Beast) — 4/3Tier: 4 → 3
+Attack: 5 → 4
+Health: 4 → 3
+Reverber Drake — Tier 3 (Dragon) — 2/2Battlecry: Cast Echoing Roar on a friendly Dragon.
+Deflect-o-Bot — Tier 3 (Mech) — 3/2Divine Shield Whenever you summon a Mech during combat, gain +2 Attack and Divine Shield.
+Peggy Sturdybone — Tier 3 (Pirate) — 2/2Health: 1 → 2
+Text: Whenever a card is added to your hand, give another friendly Pirate +2/+1. → Whenever a card is added to your hand, give another friendly Pirate +2/+2.
+Prickly Piper — Tier 3 (Quilboar) — 5/1Deathrattle: Your Blood Gems give an extra +1 Attack this game.
+Shadowdancer — Tier 4 (Demon) — 4/3Tier: 5 → 4
+Attack: 5 → 4
+Auto Assembler — Tier 4 (Mech) — 2/2Magnetic Deathrattle: Summon an Ancestral Automaton.
+Clunker Junker — Tier 4 (Mech) — 3/4Battlecry: Choose a friendly Mech. Discover a Mech to Magnetize to it.
+Divine Sparkbot — Tier 4 (Mech) — 4/1Tier: 5 → 4
+Health: 2 → 1
+Apprentice of Sefin — Tier 4 (Murloc) — 4/4At the end of your turn, gain +2/+2 and a random Bonus Keyword.
+Deepwater Chieftain — Tier 4 (Murloc) — 3/2Battlecry and Deathrattle: Get a Deepwater Clan.
+Redtusk Thornraiser — Tier 4 (Quilboar) — 3/7At the end of your turn, get a Blood Gem that also gives a Quilboar Reborn.
+Reef Explorer — Tier 4 — 3/3Battlecry: Discover a minion of a type you don't control.
+Dream Inquisitor — Tier 5 (Demon) — 5/5Tier: 6 → 5
+Attack: 6 → 5
+Health: 6 → 5
+Void Pup Trainer — Tier 5 (Demon) — 7/7Battlecry: Give minions in the Tavern from Tier 3 and below +3/+3 this game.
+Efficient Engineer — Tier 5 (Dragon) — 5/6Tier: 4 → 5
+Text: Battlecry: Trigger a friendly minion's end of turn effects (except Young Murk-Eye). → Activate (1): Trigger another friendly minion's end of turn effects.
+Ignition Specialist — Tier 5 (Dragon) — 8/8Tier: 6 → 5
+Nether Drake — Tier 5 (Dragon) — 4/12Health: 8 → 12
+Text: At the end of your turn, give your Dragons +1 Attack and improve this. → At the end of your turn, give your Dragons +2/+2 and improve this.
+Gentle Djinni — Tier 5 (Elemental) — 5/6Tier: 6 → 5
+Text: Taunt Battlecry and Deathrattle: Get a random Elemental. → Taunt Deathrattle: Get a random Elemental.
+Junk Jouster — Tier 5 (Mech) — 5/5Tier: 6 → 5
+Attack: 8 → 5
+Health: 7 → 5
+Scrap Scraper — Tier 5 (Mech) — 6/5Deathrattle: Get a random Magnetic Mech.
+Kangor's Apprentice — Tier 5 — 3/6Deathrattle: Summon plain copies of your first 2 Mechs that died this combat.
+Three Lil' Quilboar — Tier 5 (Quilboar) — 3/3Deathrattle: This plays 3 Blood Gems on all your Quilboar.
+Hog Watcher — Tier 5 — 5/5Battlecry: Get a Blood Gem that also gives a Quilboar Divine Shield.
+Thundering Abomination — Tier 5 (Undead) — 2/6Tier: 4 → 5
+Text: Whenever you summon a minion in combat, give it +3/+3. If there's no space, gain +3/+3 permanently. → Whenever you summon an Undead, gain +2/+2 permanently. (+6/+6 if it doesn't fit!)
+Wintergrasp Ghoul — Tier 5 (Undead) — 5/3Deathrattle: Get a Tomb Turning.
+Batty Terrorguard — Tier 6 (Demon) — 6/2After you cast a Tavern spell, another friendly Demon consumes a minion in the Tavern to gain its stats.
+Fire-forged Evoker — Tier 6 (Dragon) — 8/6Start of Combat: Give your Dragons +2/+2. Improves permanently after you cast a Tavern spell.
+Primitive Painter — Tier 6 (Murloc) — 3/7Health: 8 → 7
+Text: After you play a card from Tier 3 or below, give your Murlocs +3/+3. → After you play a card from Tier 3 or below, give your Murlocs +4/+4.
+Wizened Captain — Tier 6 (Pirate) — 6/6Tier: 2 → 6
+Attack: 2 → 6
+Health: 3 → 6
+Text: Whenever you cast a Tavern spell, gain +1/+1. → Whenever you cast a Tavern spell, give your Pirates +3/+2.
+Bloodsnout Warlord — Tier 6 (Quilboar) — 5/5Text: Whenever a friendly Quilboar attacks, this plays 2 Blood Gems on all your minions. → Whenever a friendly Rally minion attacks, this plays 3 Blood Gems on all your minions.
+Earthsong Shaman — Tier 6 (Quilboar) — 4/5Windfury. At the end of your turn, this plays a Blood Gem on your minions. Repeat for each Bonus Keyword this has.
+Catacomb Crasher — Tier 6 (Undead) — 4/10Tier: 5 → 6
+Text: Whenever you would summon a minion that doesn't fit in your warband, give your minions +2/+2 permanently. → Whenever you would summon an excess minion, give your minions +2/+2 permanently.
+Mantid Queen — Tier 6 — 5/5Text: Venomous. Start of Combat: For each of your minion types gain +5/+5, Windfury, Reborn, or Taunt. → Venomous. Start of Combat: For each of your minion types, gain +5/+5 and a random Bonus Keyword.
+New Aberration Minions (13)
+Growing Ooze — Tier 1 (Aberration) — 2/1If you discard this, give your minions and Deity +2/+1. Improve future Growing Oozes. (Can't be tripled.)
+Sickly Ooze — Tier 3 (Aberration) — 2/4Rally: Get a Growing Ooze.
+Ominous Ooze — Tier 5 (Aberration) — 5/3Battlecry and Deathrattle: Get a Growing Ooze.
+Faceless Necromancer — Tier 3 (Aberration) — 5/1Reborn Activate (0): Discard a card to give your left-most Aberration Reborn until next turn.
+Shambling Shadowfiend — Tier 5 (Aberration) — 4/8Activate (0): Discard a card and its neighbors. Gain 1 Gold for each discarded.
+Tainted Tormentor — Tier 5 (Aberration) — 4/9Whenever you summon an Aberration, give it +3 Attack. (Improved by each card you've discarded this game!)
+N'Zoth — Tier 1 (Aberration) — 1/1Deity (3), Taunt. Deathrattle: Return to sleep. Reawakens after 3 friendly Aberrations die (except Deities).
+Erupting Eyestalk — Tier 3 (Aberration) — 1/6Whenever you summon an Aberration, give this and your Deity +2/+1.
+Underrot Infestor — Tier 4 (Aberration) — 6/4Deathrattle: Summon two 1/1 Tentacles. Give them this minion's Attack.
+Vindictive Preacher — Tier 4 (Aberration) — 2/7Avenge (3): Give your Deity +7/+7.
+Merciless Warden — Tier 6 (Aberration) — 5/11Avenge (4): Deal damage equal to this minion's Attack to the highest-Health enemy minion.
+Growing Ooze is made to be discarded: when you do, your minions and your Deity get +2/+1, and future Growing Oozes improve by the same amount.
+Aberrations may also become the new Undead, with a Deity-and-Avenge build and a Tier 4 minion that looks exceptionally strong on paper. We'll see how it plays out.
+New Beast Cards (12)
+Great Wolf Cub — Tier 3 (Beast) — 4/5Battlecry: Get a Goldrinn's Blessing.
+Great Direwolf — Tier 4 (Beast) — 6/6Rally: Get a Goldrinn's Blessing.
+Young Mukla — Tier 2 (Beast) — 1/1Battlecry: Get 2 Tavern Dish Bananas.
+Flying Monkey — Tier 3 (Beast) — 4/4Deathrattle: Get 2 Tavern Dish Bananas.
+Cunning Chameleon — Tier 4 (Beast) — 9/3Activate (2): Discover a Deathrattle minion. Copy its Deathrattle until next turn.
+U'cha the Mighty — Tier 4 (Beast) — 4/4Deathrattle: Summon a 2/2 Monkey. (Improved by each Tavern spell you've cast this game!)
+Loti, Devilsaur Form — Tier 5 (Beast) — 10/10Mission: Once this deals 60 damage, get a random Tier 7 minion. (60 left!)
+Ribbiting Magician — Tier 5 (Beast) — 4/8Avenge (4): Your Tavern spells give an extra +1/+2 this game.
+Elder Moonbeast — Tier 6 (Beast) — 9/9Whenever you cast a spell on this, give your Beasts +2/+2 this game (wherever they are).
+Goldrinn's Blessing — Tier 4Your Beasts have +1/+1 this game (wherever they are).
+Goldrinn's Blessing is a new Tavern spell: your Beasts have +1/+1 for the rest of the game, wherever they are. Goldrinn, the Great Wolf now gives its bonus the same way.
+Beasts also lean on Tavern spells this season, starting with a steady supply of Tavern Dish Bananas.
+New Demon Minions (4)
+Hardy Felhound — Tier 2 (Demon) — 1/4Resilient
+Imp-erial — Tier 3 (Demon) — 4/6Taunt, Resilient Mission: Once this is attacked 5 times, get a random Golden Demon. (5 left!)
+Pain Promoter — Tier 4 (Demon) — 6/3Has +1/+2 for each damage your hero has taken this game (wherever this is).
+Nonchalant Napper — Tier 5 (Demon) — 6/5Resilient Whenever this is attacked, get a random Tavern spell.
+New Dragon Cards (6)
+Timeless Mount — Tier 4 (Dragon) — 4/6Deathrattle and Rally: Get an Echoing Roar.
+Scaled Sovereign — Tier 6 (Dragon) — 5/7Activate (2): Cast Dragonstorm. After you play a Dragon, refresh this.
+Twilight Traverser — Tier 4 (Dragon) — 3/5At the end of your turn, get a random Chromadrake.
+Future Fighter — Tier 2 (Dragon) — 2/2At the end of your turn, reduce the cost of the next Battlecry minion you buy by (1).
+Dragonstorm — Tier 6Give your Dragons "At the end of your turn, gain +2/+2."
+Dragons go back to growing at the end of every turn, as they did a few seasons ago: Echoing Roar returns with Reverber Drake, the new Dragonstorm does the same for all your Dragons at once, and a reworked Efficient Engineer triggers those effects again each turn.
+New Elemental Cards (14)
+Tsunami Surfer — Tier 3 (Elemental) — 3/3At the end of your turn, get a random Elemental Invocation.
+Effusive Dancer — Tier 4 (Elemental) — 4/4Battlecry and Deathrattle: Get a random Elemental Invocation.
+Thunder Knight — Tier 5 (Elemental) — 5/5When you sell this, get a Command the Elements.
+Driftaway Djinni — Tier 3 (Elemental) — 6/5Whenever a friendly minion gains a Bonus Keyword, gain +3/+4.
+Crafty Cookfire — Tier 4 (Elemental) — 7/7Mission: Once friendly minions gain Bonus Keywords 8 times, get an Elemental of Surprise. (8 left!)
+Wave Watcher — Tier 5 (Elemental) — 4/8At the end of your turn, give your Elementals +3/+3. Repeat for each different Bonus Keyword in your warband.
+Desert Duelist — Tier 6 (Elemental) — 6/6Whenever a friendly minion gains a Bonus Keyword, give your minions +6/+6.
+Land Upheaver — Tier 6 (Elemental) — 8/3Deathrattle: Give your Elementals +2/+2. (Improved by each Elemental you played this game!)
+Invocation of Earth — Tier 2Give a minion +3/+3. If it's an Elemental, also give it Taunt until next turn.
+Invocation of Fire — Tier 3Give a minion +4/+4. If it's an Elemental, also give it Reborn until next turn.
+Invocation of Air — Tier 4Give a minion +5/+5. If it's an Elemental, also give it Windfury until next turn.
+Invocation of Water — Tier 5Give a minion +6/+6. If it's an Elemental, also give it Divine Shield until next turn.
+Command the Elements — Tier 5Get all 4 Elemental Invocations.
+Elemental Invocation is a new set of four Tavern spells. Each gives a minion stats, and an Elemental also gets a Bonus Keyword until next turn: Invocation of Earth gives Taunt, Invocation of Fire gives Reborn, Invocation of Air gives Windfury and Invocation of Water gives Divine Shield.
+New Mech Minions (7)
+Bot Launcher — Tier 3 (Mech) — 3/1Divine Shield. Mission: Once 5 friendly minions lose Divine Shield, get two random Magnetic Mechs. (5 left!)
+Prototype Builder — Tier 3 (Mech) — 1/1Once you have space each combat, summon an Ancestral Automaton. Give it this minion's Bonus Keywords.
+Hammer Hero — Tier 4 (Mech) — 4/4After a friendly minion loses Divine Shield, give your minions +1/+1. After you Magnetize, improve this.
+Defense Mechanism — Tier 5 (Mech) — 3/10Taunt Whenever this is attacked, give a different friendly minion Divine Shield.
+Light Generator — Tier 6 (Mech) — 6/6After a friendly minion loses Divine Shield, your Tavern spells give an extra +1 Attack this game.
+Surging Sanctifier — Tier 6 (Mech) — 4/8After you cast a spell on this, cast Sanctify.
+The Divine Shield–loss build moves from Dragons to Mechs: new Divine Shield cards and Magnetic minions (watch out for what they do with Polarizing Beatboxer), backed by returning support such as Divine Sparkbot and Sanctify.
+New Murloc Minions (6)
+Greymist Infiltrator — Tier 3 (Murloc) — 4/6Mission: Once this takes 20 damage, get a Big Brann Play. (20 left!)
+Squirky — Tier 3 (Murloc) — 4/3Activate (0): Choose a Tavern spell in your hand that gives stats. It gives an extra +3/+3.
+Ambitious Recruit — Tier 4 (Murloc) — 6/6Battlecry: Give a minion in your hand +6/+6. (Improved by Tavern spells you've cast this turn!)
+Bloodfin Scholar — Tier 5 (Murloc) — 6/8At the end of your turn, cast a copy of the left-most Tavern spell in your hand (targets this if possible).
+Gorloc Gardener — Tier 5 (Murloc) — 4/6After you play 3 minions, get a random Tier 3 Tavern spell. (3 left!)
+Murlocs now work with the Tavern spells in your hand: they make a spell stronger and cast copies of it while you keep the original, so the plan is to find a good spell early and keep buffing it for the rest of the game. They also get new Battlecry support and a Tier 3 Murloc with the new Mission keyword that looks strong enough to become a strategy of its own.
+New Pirate Minions (7)
+Cut-rate Crewman — Tier 1 (Pirate) — 2/2Taunt This costs (2).
+Ambitious Cannoneer — Tier 2 (Pirate) — 1/7Mission: End your turn with this at 7 Attack or higher to increase your maximum Gold by 1.
+Hostile Haggler — Tier 2 (Pirate) — 3/4At the start of your turn, reduce the cost of two random cards in the Tavern by (1).
+Ruthless Pursuer — Tier 3 (Pirate) — 4/3When you sell this, Refresh the Tavern with two extra Bounties that cost (1).
+Crooked Banker — Tier 4 (Pirate) — 5/6Activate (1): Reduce the cost of cards in the Tavern by (1).
+Freedom Fighter — Tier 5 (Pirate) — 6/6Whenever you buy a card that costs (2) or less, give your Pirates +4/+4.
+Pirates are gold-focused once again and make the Tavern cheaper: they reward you for every card you buy for 2 Gold or less, and their early Missions cast Strike Oil simply for making your board stronger. One Battlegrounds streamer in particular will be pleased.
+New Quilboar Minions (5)
+Tenacious Thorn-witch — Tier 3 (Quilboar) — 3/3Mission: Once 8 spells are cast on this, your Blood Gems give an extra +2/+3 this game. (8 left!)
+Brutal Bristlethorn — Tier 4 (Quilboar) — 4/7After you spend 5 Gold, gain a random Bonus Keyword until next turn. (5 left!)
+Dauntless Adventurer — Tier 5 (Quilboar) — 4/4Battlecry: This plays 2 Blood Gems on a friendly Quilboar. (Improved by each different Bonus Keyword in your warband!)
+Voidtouched Geopriestess — Tier 5 (Quilboar) — 5/7Whenever a friendly minion gains a Bonus Keyword, this plays 2 Blood Gems on all your minions.
+Quilboar return to Blood Gems that also grant keywords (Bristleback Bully, Redtusk Thornraiser and Hog Watcher), with new cards that put those keywords to work.
+New Undead Cards (9)
+Patrolling Gargoyle — Tier 2 (Undead) — 3/3Battlecry: Get an Unholy Ritual.
+Crypt Crawler — Tier 3 (Undead) — 5/6Mission: Once 18 friendly minions die, your Undead have +10 Attack this game, wherever they are. (18 left!)
+Graveyard Skulker — Tier 3 (Undead) — 5/5Activate (0): Destroy another friendly Undead to gain 2 Gold.
+Ossifier — Tier 4 (Undead) — 4/4Whenever you cast a spell on this, summon a 1/1 Skeleton. (3 times per turn.)
+Saronite Colossus — Tier 4 (Undead) — 4/6Whenever you would summon an excess minion, give your highest-Health minion +10/+10.
+Scaretaker — Tier 4 (Undead) — 5/4Activate (1): Cast Unholy Ritual on another Undead.
+Shackled Shade — Tier 5 (Undead) — 4/8Whenever a friendly Deathrattle minion dies, your Undead have +2 Attack this game (wherever they are).
+Unholy Ritual — Tier 3Give an Undead "Deathrattle: Summon two 1/1 Skeletons."
+Undead get new support for destroying their own board with 1/1 tokens: summoning them in the Tavern with the new Tier 4 Ossifier for quick triples (a nice fit with Quilboar), then destroying those Skeletons.
+They also go back to playing board Overfill, with Catacomb Crasher and Thundering Abomination returning and the new Saronite Colossus supporting the archetype.
+New Neutral Cards (6)
+Patron Gatherer — Tier 1 — 2/3Mission: Fill your warband to give your minions +2/+1 permanently.
+Obsessive Artisan — Tier 2 — 4/4Mission: Buy 5 cards to Discover a Tier 4 minion. (5 left!)
+Temple Keeper — Tier 4 — 3/5Activate (0): Give another minion 2 random Bonus Keywords until next turn.
+Eclectic Musician — Tier 5 — 6/6At the end of your turn, give a friendly minion of each type +3/+3 and improve this.
+Tumultuous Growth — Tier 4Choose a minion. Cast 2 random Tavern spells (targeting it if possible).
+Finally, among the new non-Timewarped cards, the neutrals get a refresh: Patron Gatherer, who is bound to have a memorable summon sound; a support neutral for staying on Tavern Tier 2 a little longer; and another neutral that looks extremely strong, Temple Keeper.
+Removed Spells (9)
+Alliance Flag — Tier 1Choose One - Give a minion +3/+1; or +1/+3.
+Blood Gem Barrage — Tier 4After the Tavern is Refreshed this game, give its minions +2/+2 worth of Blood Gems.
+Boon of Beetles — Tier 4When you have space in combat, summon two 2/2 Beetles and give them Taunt. (2 left!)
+Boundless Potential — Tier 4Choose One - Discover a minion of your Tier; or a Tavern spell of your Tier.
+Mighty Dragonbreath — Tier 4Give your minions +3/+2. Repeat for your Dragons. Repeat for your minions with Divine Shield.
+Sludge Corrosion — Tier 4Give your minions +1/+1. If you discard this, cast it twice.
+Butchering — Tier 5Destroy a friendly Undead. Your Undead have +8 Attack this game (wherever they are).
+Energizing Chamber — Tier 5Give your Deity +7/+7. If you discard this, cast it twice.
+Fandral's Fortune — Tier 6Discover a Choose One card. It has both effects combined.
+Returning Spells (4)
+Pointy Arrow — Tier 1Give a minion +4 Attack.
+Echoing Roar — Tier 3Cost: 3 → 2
+Text: Give a friendly minion "At the end of your turn, gain +2/+2." → Give a friendly minion "At the end of your turn, gain +3/+3."
+Deepwater Clan — Tier 4Give a minion +2/+2. Give your Murlocs +2/+2.
+Sanctify — Tier 4Tier: 5 → 4
+Text: Give your minions with Divine Shield +6 Attack. → Give your minions with Divine Shield +4 Attack.
+Removed Minor Timewarp Cards (8)
+Timewarped Sporebat — Tier 3 (Beast) — 9/2Taunt Deathrattle: Get a random Tavern spell that costs (2) or more.
+Timewarped Dragonling — Tier 3 (Dragon) — 3/3Start of Combat: Give this minion and its neighbors stats equal to your Tier.
+Timewarped Red Whelp — Tier 3 (Dragon) — 4/6Start of Combat: Deal 3 damage to two random enemy minions. (Improves after you play a Dragon!)
+Timewarped Cyclone — Tier 3 (Elemental) — 6/1Divine Shield Windfury Reborn
+Timewarped Embalmer — Tier 3 (Undead) — 10/10One minion you summon each turn gains Reborn. (1 left!)
+Power of Flurgl — Tier 3Casts When Bought Make 'Gone Fishing' your second Hero Power.
+Timewarped Apples — Tier 3After the Tavern is Refreshed this game, cast Them Apples.
+Timewarped Ring — Tier 3Get a Shiny Ring. Repeat at the start of each turn.
+Returning Minor Timewarp Cards (61)
+Timewarped Alleycat — Tier 3 (Beast) — 7/7At the end of your turn, summon a Tabbycat with this minion's stats.
+Timewarped Boar — Tier 3 (Beast) — 1/1Whenever every third friendly Timewarped Boar dies, get a random Golden Beast. (0 left!)
+Timewarped Hyena — Tier 3 (Beast) — 3/5Text: Whenever a friendly Beast dies, gain +2/+2 permanently. → Whenever a friendly Beast dies, gain +2/+3 permanently.
+Timewarped Nellie's Ship — Tier 3 (Beast, Pirate) — 2/6At the start of each turn, Discover a Pirate to crew the ship. Deathrattle: Summon and get that Pirate.
+Timewarped Saurolisk — Tier 3 (Beast) — 4/3Health: 4 → 3
+Text: After you trigger a Deathrattle, gain +3/+2 permanently. → After you trigger a Deathrattle, gain +4/+3 permanently.
+Timewarped Devourer — Tier 3 (Demon) — 5/5Text: At the start of your turn, consume the Demon to the right to gain its stats and 3 Gold. → Activate (0): Consume another friendly minion to gain its stats and 3 Gold.
+Timewarped Kil'rek — Tier 3 (Demon) — 4/7Taunt Deathrattle: Get a random Demon.
+Timewarped Rewinder — Tier 3 (Demon) — 5/6Health: 4 → 6
+Text: After your hero takes damage, rewind it and give your Demons +1 Health. → After your hero takes damage, rewind it and give your Demons +2 Health.
+Timewarped Shadowdancer — Tier 3 (Demon) — 6/5Taunt At the end of your turn, cast Staff of Enrichment.
+Timewarped Greenskeeper — Tier 3 (Dragon) — 5/9Rally: Trigger your right-most Battlecry and Deathrattle.
+Timewarped Vaelastrasz — Tier 3 (Dragon) — 6/6Rally: Get a random Dragon.
+Timewarped Whelp Smuggler — Tier 3 (Dragon) — 3/8Minion Types: none → Dragon
+Timewarped Lubber — Tier 3 (Elemental, Pirate) — 5/7Text: The Tavern always offers 1 extra Tavern spell. Your Tavern spells give an extra +1/+1. → The Tavern always offers 1 extra Tavern spell. Your Tavern spells give an extra +2/+2.
+Timewarped Ragnaros — Tier 3 (Elemental) — 8/8Start of Combat: Deal this minion's Attack to the highest-Health enemy minion.
+Timewarped Sellemental — Tier 3 (Elemental) — 8/8At the end of your turn, get a Sellemental.
+Timewarped Snow Elemental — Tier 3 (Elemental) — 6/5The Tavern offers an extra Frozen Elemental whenever it is Refreshed.
+Timewarped Annoy-o-Tron — Tier 3 (Mech) — 6/6Taunt Divine Shield Reborn
+Timewarped Copter — Tier 3 (Mech) — 4/6Divine Shield Avenge (3): Get a random Mech.
+Timewarped Mothership — Tier 3 (Mech) — 5/7Avenge (4): Get a random Protoss minion.
+Timewarped Sensei — Tier 3 (Mech) — 6/6Cost: 1 → 2
+Text: At the end of your turn, give adjacent Mechs +3/+3. → At the end of your turn, cast Repair Job on adjacent Mechs.
+Timewarped Acolyte — Tier 3 (Murloc) — 4/6At the start of your turn, spin the Wheel of Yogg-Saron.
+Timewarped Bassgill — Tier 3 (Murloc) — 7/4Deathrattle: Summon the highest-Health minion from your hand and give it Divine Shield for this combat only.
+Timewarped Murcules — Tier 3 (Murloc) — 10/5Divine Shield Whenever this kills a minion, give the left-most minion in your hand +4/+4.
+Timewarped Scourfin — Tier 3 (Murloc) — 7/7Taunt. Deathrattle: Give a random minion in your hand +7/+7 and summon it for this combat only.
+Timewarped Skipper — Tier 3 (Murloc) — 5/6After you sell a Tier 2 minion, get a random Tier 1 minion.
+Timewarped Busker — Tier 3 (Pirate) — 6/4Attack: 4 → 6
+Health: 2 → 4
+Timewarped Pagle — Tier 3 (Pirate) — 8/6Once per combat, when this attacks and kills a minion, get a Triple Reward.
+Timewarped Sailor — Tier 3 (Pirate) — 5/4Divine Shield The Tavern offers an extra Pirate whenever it is Refreshed.
+Timewarped Geomancer — Tier 3 (Quilboar) — 2/9Avenge (5): Get a Blood Gem. Your Blood Gems give an extra +1/+1 this game.
+Timewarped Jazzer — Tier 3 (Quilboar) — 5/3Deathrattle: Your Blood Gems give an extra +2 Health this game.
+Timewarped Piper — Tier 3 (Quilboar) — 2/8Whenever this takes damage, your Blood Gems give an extra +1 Attack this game. (3 times per combat.)
+Timewarped Deathswarmer — Tier 3 (Undead) — 1/9Whenever this takes damage, your Undead have +1 Attack this game (wherever they are).
+Timewarped Festergut — Tier 3 (Undead) — 7/3Deathrattle: Summon and get a random Undead Creation.
+Timewarped Pillager — Tier 3 (Undead) — 4/3Taunt, Reborn Deathrattle: Get a Tavern Coin.
+Timewarped Recycler — Tier 3 (Undead) — 2/7Avenge (4): Increase your maximum Gold by (1).
+Timewarped Chimera — Tier 3 (All) — 1/8Whenever this takes damage, give a friendly minion of each type +2/+1 permanently.
+Timewarped Botani — Tier 3 — 8/6At the end of your turn, get a random minion of your Tier.
+Timewarped Elise — Tier 3 — 6/7After you Refresh 5 times, make the highest-Tier minion in the Tavern Golden. (5 left!)
+Timewarped Henchman — Tier 3 — 5/7After you kill a second minion each combat, get a plain copy of it.
+Timewarped Lei — Tier 3 — 3/5At the start of your turn, get the Buddy of your Hero Power.
+Timewarped Tipper — Tier 3 — 6/8Text: If you have any unspent Gold at the end of your turn, increase your maximum Gold by 1. → Activate (1): Increase your maximum Gold by 1.
+Timewarped Traveler — Tier 3 — 4/8Avenge (4): Get a random 1-Cost card from the Minor Timewarp.
+Timewarped Winner — Tier 3 — 6/6Stealth At the start of your turn, if this minion survived last combat, get a Triple Reward.
+Timewarped Zerus — Tier 3 — 6/6Once per turn, choose from 2 Minor Timewarped minions to transform into. Keep this minion's stats.
+Power of Al'Akir — Tier 3Casts When Bought Make 'Swatting Insects' your second Hero Power.
+Power of Elise — Tier 3Casts When Bought Make 'Lead Explorer' your second Hero Power.
+Power of George — Tier 3Cost: 2 → 1
+Power of Guff — Tier 3Cost: 2 → 1
+Power of Shudderwock — Tier 3Casts When Bought Make 'Snicker-Snack' your second Hero Power.
+Power of Sylvanas — Tier 3Casts When Bought Make 'Reclaimed Souls' your second Hero Power.
+Power of Teron — Tier 3Casts When Bought Make 'Rapid Reanimation' your second Hero Power.
+Power of the Lich King — Tier 3Casts When Bought Make 'Reborn Rites' your second Hero Power.
+Power of Zephrys — Tier 3Casts When Bought Make 'Three Wishes' your second Hero Power.
+Timewarped Beanstalk — Tier 3Discover a 1-Cost card from the Major Timewarp. Lock it in your hand for 1 turn.
+Timewarped Big Winner! — Tier 3Discover a Tier 3 Darkmoon Prize. Repeat at the start of every three turns.
+Timewarped Evolving Tavern — Tier 3Get an Evolving Tavern. Repeat at the start of each turn.
+Timewarped Investment — Tier 3Casts When Bought. Gain 1 extra Chronum at your next Timewarp.
+Timewarped Lasso — Tier 3Get an Enchanted Lasso. Repeat at the start of each turn.
+Timewarped New Recruit — Tier 3Give minions in the Tavern +2/+2 this game. The Tavern always has 7 cards this game.
+Timewarped Scroll — Tier 3Each turn this is in your hand, transform into a random 2-Cost card from the Minor Timewarp.
+Timewarped Trainee — Tier 3Get a random minion each from Tiers 1, 2, and 3.
+New Minor Timewarp Cards (37)
+Timewarped Duke — Tier 3 (Aberration) — 4/4Has +4/+4 for each card you've discarded this game (wherever this is).
+Timewarped Necromancer — Tier 3 (Aberration) — 4/2Reborn Activate (0): Discard a card to give your left-most Aberration Reborn.
+Timewarped Rot — Tier 3 (Aberration) — 5/6After you cast a spell on this, get a Growing Ooze. (2 times per turn.)
+Timewarped Soldier — Tier 3 (Aberration) — 4/6Whenever this gains stats, also give the stats to your Deity.
+Timewarped Tumor — Tier 3 (Aberration) — 2/8Whenever you discard a minion, gain its Bonus Keywords and stats.
+Timewarped Willbreaker — Tier 3 (Aberration) — 3/5Activate (1): Get 3 random Tavern spells. After you cast one, discard the others.
+Timewarped Cub — Tier 3 (Beast) — 8/5Deathrattle: Get a Goldrinn's Blessing.
+Timewarped Fruit Vendor — Tier 3 (Beast) — 6/6Activate (0): Get 3 Tavern Dish Bananas.
+Timewarped Rylak — Tier 3 (Beast) — 6/4Taunt Deathrattle: Trigger the Battlecries of adjacent minions.
+Timewarped Assistant — Tier 3 (Demon) — 5/6Battlecry and Rally: Add a Fodder to your next 3 Refreshes.
+Timewarped Picky Eater — Tier 3 (Demon) — 3/3Activate (0): Choose a minion in the Tavern. Consume it to gain its Bonus Keywords and stats.
+Timewarped Reverber Drake — Tier 3 (Dragon) — 4/4Activate (0): Cast Echoing Roar on this and another friendly minion.
+Timewarped Traverser — Tier 3 (Dragon) — 6/8At the end of your turn, get a random Chromadrake and trigger its Battlecry.
+Timewarped Avalanche Caller — Tier 3 (Elemental) — 4/6Activate (0): Sell a friendly minion to gain its Bonus Keywords and stats.
+Timewarped Outpourer — Tier 3 (Elemental) — 6/6Whenever you play an Elemental, cast a random Elemental Invocation on it.
+Timewarped Muscle-o-Tron — Tier 3 (Mech) — 4/4Mission: Magnetize 3 Mechs to this to double this minion's stats. (3 left!)
+Timewarped Recyclebot — Tier 3 (Mech) — 8/10When you sell this, get a Magnetic Satellite with this minion's Bonus Keywords and stats.
+Timewarped Contortionist — Tier 3 (Murloc) — 3/5Rally: Your Tavern spells give an extra +1/+1 this game.
+Timewarped Holmes — Tier 3 (Murloc) — 4/4Activate (0): Guess which minion is in your next opponent's warband to get a copy of it.
+Timewarped Mycologist — Tier 3 (Murloc) — 5/7Activate (1): Discover a Tavern spell and get a 1/1 Murloc to teach that spell.
+Timewarped Breakout — Tier 3 (Pirate) — 5/4Battlecry, Deathrattle, and Rally: Get a Lockbox. If you already have one, it opens 1 turn sooner instead.
+Timewarped Cutlassier — Tier 3 (Pirate) — 6/5Mission: Add 15 cards to your hand for your Tavern spells to give an extra +5/+5 this game. (15 left!)
+Timewarped Prophet of the Boar — Tier 3 (Quilboar) — 4/8Taunt After you play a Quilboar, get a Blood Gem and play another on this.
+Timewarped Scrapsmith — Tier 3 (Quilboar) — 7/3Battlecry and Deathrattle: Get a Blood Gem that gives a Quilboar Taunt, Divine Shield, or Reborn.
+Timewarped Graverobber — Tier 3 — 4/6Activate (0): Destroy another friendly minion to gain "Deathrattle: Summon that minion" until next turn.
+Timewarped Amalgam of the Deep — Tier 3 (All) — 5/6Activate (1): Choose another friendly minion. Discover a minion of the same type.
+Timewarped Clan Trainer — Tier 3 — 4/4Activate (2): Double the stats of your two lowest-Attack minions.
+Timewarped Morchie — Tier 3 — 3/6Activate (4): Discover a 2-Cost minion from the Minor Timewarp.
+Timewarped Reflector — Tier 3 — 7/7After you cast a Tavern spell on a friendly minion, this casts it on the minion to the left of it.
+Timewarped Sr. Scout — Tier 3 — 7/7When you sell this, Discover a Tier 2 minion with a Dark Gift. (Improves each turn!)
+Power of Buttons — Tier 3Casts When Bought Make 'Growing Collection' your second Hero Power.
+Power of Clocksworth — Tier 3Casts When Bought Make 'Double Time' your second Hero Power.
+Power of Murozond — Tier 3Casts When Bought Make 'Alternate Timeline' your second Hero Power.
+Power of Snake Eyes — Tier 3Casts When Bought Make 'Lucky Roll' your second Hero Power.
+Power of Zerek — Tier 3Casts When Bought Make 'Cloning Gallery' your second Hero Power.
+Timewarped Piggy Bank — Tier 3Gain 2 Gold. (Improves each turn!)
+Timewarped Telescope — Tier 3Discover a minion of your most common type with a Dark Gift.
+Removed Major Timewarp Cards (16)
+Timewarped Nine Frogs — Tier 5 (Beast) — 12/12After you buy a minion, get a random Tavern spell from the same Tier. (9 left!)
+Timewarped Calligrapher — Tier 5 (Demon) — 12/14Battlecry, Deathrattle, and Rally: Get a random Tavern spell.
+Timewarped Icky Imp — Tier 5 (Demon) — 12/12Deathrattle: Summon 2 Imps with this minion's maximum stats.
+Timewarped Duskmaw — Tier 5 (Dragon) — 6/14Avenge (1): Give your Dragons +6/+4.
+Timewarped Hooktail — Tier 5 (Dragon, Pirate) — 6/12Whenever you cast a Tavern spell, give your minions +2/+2.
+Timewarped Promo-Drake — Tier 5 (Dragon) — 6/6Start of Combat: Give your minions +5/+5. At the end of your turn, improve this.
+Timewarped Ichoron — Tier 5 (Elemental) — 7/4Divine Shield Whenever you play a minion, give it Divine Shield.
+Timewarped Stone Drake — Tier 5 (Elemental, Dragon) — 6/6Start of Combat: Gain the stats of all the minions you sold this turn. (0/0)
+Timewarped Swirler — Tier 5 (Elemental) — 9/9Your Elementals give an extra +3/+3 this game.
+Timewarped Whirl-O-Tron — Tier 5 (Mech) — 7/5Start of Combat: Copy your two left-most Deathrattles (except other Whirl-O-Trons).
+Timewarped Deadstomper — Tier 5 (Undead, Beast) — 6/12After you summon a minion, give your minions +4 Attack permanently.
+Timewarped Geist — Tier 5 (Undead) — 10/6Deathrattle: Your Tavern spells give an extra +2/+2 this game.
+Timewarped Radio Star — Tier 5 (Undead) — 1/1Deathrattle: Get a copy of the enemy minion that killed this with full Health and enchantments.
+Timewarped Lucky Egg — Tier 5 — 2/2In two turns, choose from three Golden Tier 7 minions to transform into. (2 turns left!)
+Timewarped Cloning Device — Tier 5Choose a friendly minion. Summon an exact copy of it.
+Timewarped Conch — Tier 5Choose a friendly Murloc. Summon an exact copy of it.
+Returning Major Timewarp Cards (64)
+Timewarped Chameleon — Tier 5 (Beast) — 6/15Start of Combat: Transform into a copy of the minion to the left of this.
+Timewarped Goldrinn — Tier 5 (Beast) — 12/12Cost: 2 → 1
+Attack: 6 → 12
+Health: 6 → 12
+Text: Deathrattle: Your Beasts have +4/+4 this game (wherever they are). → Deathrattle: Cast Goldrinn's Blessing twice.
+Timewarped Hawkstrider — Tier 5 (Beast) — 8/4Start of Combat: Trigger all friendly Deathrattles.
+Timewarped Jungle King — Tier 5 (Beast) — 8/12Stealth After you summon a Beast, give it +4/+3. Improves after you cast a spell.
+Timewarped Tamuzo — Tier 5 (Beast) — 5/5After you summon a minion in combat, double its stats.
+Timewarped Archimonde — Tier 5 (Demon) — 5/5After your hero takes damage, rewind it and reduce the Cost of your next Tavern spell by (1).
+Timewarped Imp-filtrator — Tier 5 (Demon) — 13/7Text: After you spend 8 Gold, give minions in the Tavern +3/+3 this game. (8 Gold left!) → After you spend 7 Gold, give minions in the Tavern +3/+3 this game. (7 Gold left!)
+Timewarped Kil'jaeden — Tier 5 (Demon) — 7/7The Tavern offers two extra Demons with +7/+7 whenever it is Refreshed. (Upgrades each turn!)
+Timewarped Overfiend — Tier 5 (Demon) — 7/13After you buy a card, give your Demons +4/+4.
+Timewarped Shivarra — Tier 5 (Demon) — 4/2Whenever a minion is consumed, this gains its stats.
+Timewarped Centurion — Tier 5 (Dragon) — 8/8After you cast a Tavern spell, get an extra copy of it. (3 times per turn.)
+Timewarped Poet — Tier 5 (Dragon) — 6/7Divine Shield All your Dragons keep Bonus Keywords and stats gained in combat.
+Timewarped Prismscale — Tier 5 (Dragon) — 8/12Text: Avenge (2): Get an Azerite Empowerment. → At the end of your turn, cast Azerite Empowerment twice.
+Timewarped Behemoth — Tier 5 (Elemental) — 9/11Taunt After you buy an Elemental, gain its stats.
+Timewarped Molten Rock — Tier 5 (Elemental) — 7/7After you play an Elemental, gain +1/+1 and improve this.
+Timewarped Nomi — Tier 5 (Elemental) — 10/10Text: After you play an Elemental, give minions in the Tavern +4/+3 this game. → After you play an Elemental, give minions in the Tavern +5/+5 this game.
+Minion Types: none → Elemental
+Timewarped Sea Glass — Tier 5 (Elemental) — 10/8Divine Shield Rally: Double this minion's stats. (2 times per combat.)
+Timewarped Stormcloud — Tier 5 (Elemental) — 11/9Deathrattle and Avenge (3): Get a Tavern Tempest.
+Timewarped Substrate — Tier 5 (Elemental) — 8/8Divine Shield At the end of your turn, get a Temperature Shift.
+Timewarped Summoner — Tier 5 (Elemental, Naga) — 6/9Spellcraft: Choose a minion. Transform all minions in the Tavern into ones of its type, keeping Tiers.
+Timewarped Trumpeter — Tier 5 (Elemental) — 7/8After you sell 5 Elementals, get a random Elemental. (5 left!)
+Timewarped Immortal — Tier 5 (Mech) — 8/8Start of Combat: Gain the stats of adjacent minions.
+Timewarped Interpreter — Tier 5 (Mech) — 6/8Whenever you play or Magnetize a Mech, give your Mechs +3/+3.
+Timewarped Wargear — Tier 5 (Mech) — 5/5Magnetic After you Magnetize this, double the target's stats.
+Timewarped Astrogill — Tier 5 (Murloc) — 5/5While this is in your hand, after a different friendly Murloc gains stats, gain +3/+2.
+Timewarped Mrrrglr — Tier 5 (Murloc) — 8/8Start of Combat: Give adjacent Murlocs the stats of all the minions in your hand.
+Timewarped Murk-Eye — Tier 5 (Murloc) — 12/5At the end of your turn, trigger all friendly Battlecries.
+Timewarped Murky — Tier 5 (Murloc) — 5/5At the end of your turn, gain +2/+2. (Improved by each Battlecry you've triggered this game!)
+Timewarped Mystic — Tier 5 (Murloc) — 6/6After you sell 3 Murlocs, your Tavern spells give an extra +2/+1 this game. (3 left!)
+Timewarped Painter — Tier 5 (Murloc) — 4/9Text: At the end of your turn, give adjacent minions +3/+2. After you play a card from Tier 3 or below, improve this. → At the end of your turn, give your minions +1/+1. After you play a card from Tier 3 or below, improve this.
+Timewarped Squallfin — Tier 5 (Murloc) — 6/14After you play a Murloc, give minions in your hand and board +2/+2.
+Timewarped Glowscale — Tier 5 (Naga) — 6/12Taunt Spellcraft: Give a minion Divine Shield.
+Timewarped Collector — Tier 5 (Pirate) — 12/12Text: Also damages adjacent minions. Rally: If you control 4 Golden minions, gain Divine Shield. → Also damages adjacent minions. Rally: If you control another Golden minion, gain Divine Shield.
+Timewarped Peggy — Tier 5 (Pirate) — 9/5Whenever a card is added to your hand, give your Pirates +1/+1.
+Timewarped Plunderer — Tier 5 (Pirate) — 15/5Deathrattle: Increase your maximum Gold by 2.
+Timewarped Raider — Tier 5 (Pirate) — 14/6After you play a card from Tier 4 or above, give your Pirates +3/+2.
+Timewarped Tide Razor — Tier 5 — 12/8Deathrattle: Summon and get 4 random Pirates.
+Timewarped Bandit — Tier 5 (Quilboar) — 7/13Text: At the start of your turn, discard a spell for this to play 4 Blood Gems on all your minions. → Activate (0): Discard a card for this to play 4 Blood Gems on all your minions.
+Timewarped Bloodbinder — Tier 5 (Quilboar) — 12/8Text: At the start of your turn, get 5 Blood Gems. They also count as Tavern spells. → Activate (0): Get 5 Blood Gems. They also count as Tavern spells.
+Timewarped Bonker — Tier 5 (Quilboar) — 7/14Windfury Rally: This plays 2 permanent Blood Gems on all your other minions.
+Timewarped Gemsplitter — Tier 5 (Quilboar) — 5/10Divine Shield. After a friendly minion loses Divine Shield, your Blood Gems give an extra +1 Attack this game.
+Timewarped Lil' Quilboar — Tier 5 (Quilboar) — 5/5Cost: 2 → 1
+Timewarped Anub'arak — Tier 5 (Undead) — 12/8After you play an Undead, your Undead have an extra +3 Attack this game.
+Timewarped Caretaker — Tier 5 (Undead) — 5/5Cost: 2 → 1
+Timewarped Ghoul-acabra — Tier 5 (Undead, Beast) — 6/15After you trigger a Deathrattle, give your minions +3/+2 permanently.
+Timewarped Hag — Tier 5 (Undead) — 6/8Start of Combat: Give the Undead to the right Reborn and "This is Reborn with full Health and enchantments".
+Timewarped Warghoul — Tier 5 (Undead) — 9/3Taunt. Deathrattle: Trigger an adjacent minion's Deathrattle (except Timewarped Warghoul).
+Timewarped Mythrax — Tier 5 (All) — 8/9Start of Combat: Gain the stats of 3 friendly minions of different types (except Timewarped Mythrax).
+Timewarped Nalaa — Tier 5 (All) — 13/13Attack: 12 → 13
+Health: 12 → 13
+Text: Whenever you cast a spell, give a friendly minion of each type +4/+3. → At end of turn, give a friendly minion of each type +3/+3. (Improved by each Tavern spell you've cast this turn!)
+Minion Types: none → All
+Timewarped Scout — Tier 5 — 7/7When you sell this, get 1 random minion from Tier 7. (Improves each turn!)
+Timewarped Armor Stash — Tier 5Casts When Bought Gain 10 Armor.
+Timewarped B.A.N.A.N.A.S. — Tier 5Fill your hand with Tavern Dish Bananas. Your Tavern spells give an extra +3/+3 this game.
+Timewarped Chef's Choice — Tier 5Choose a minion. Get a random minion of the same type from Tiers 4, 5, and 6.
+Timewarped Corpse — Tier 5Discover a Deathrattle minion from Tier 5 or higher. Give it Reborn.
+Timewarped Evolution — Tier 5Choose a minion. Discover a Tier 6 minion to transform it into. Set its stats to 30/30.
+Timewarped Goldenizer — Tier 5Choose a minion. Make it Golden.
+Timewarped Master Thief — Tier 5Discover a minion from your warband last game! It keeps its stats and Bonus Keywords.
+Timewarped On the House — Tier 5Discover 3 minions from your Tier.
+Timewarped Rat in a Cage — Tier 5Give a minion +2/+2, then double its stats.
+Timewarped Revelation — Tier 5Discover a 1-Cost and 2-Cost minion from the Minor Timewarp.
+Timewarped Ritual — Tier 5Discover two Tier 7 minions.
+Timewarped Secrecy — Tier 5Discover a Golden Tier 7 minion.
+Timewarped Strike Oil — Tier 5Increase your maximum Gold by 4. Gain 4 Gold.
+Timewarped Thief — Tier 5Discover a minion from your warband last game! Set its stats to 20/20.
+New Major Timewarp Cards (44)
+Timewarped Converter — Tier 5 (Aberration) — 7/5Deathrattle: Give your Deity +4/+4. (Improved by each card you've discarded this game!)
+Timewarped Eye of Go'rath — Tier 5 (Aberration) — 1/1Start of Combat: Gain the stats of your Deity.
+Timewarped K'Thir — Tier 5 (Aberration) — 6/7Activate (0): Discard all cards in your hand. Give your minions +5/+5 for each discarded.
+Timewarped Replicator — Tier 5 (Aberration) — 12/4Deathrattle: Discard your 2 right-most cards to summon a Timewarped Replicator.
+Timewarped Spawn of N'Zoth — Tier 5 (Aberration) — 7/7Deathrattle: Give this minion's maximum stats to your Deity.
+Timewarped Sweet Tooth — Tier 5 (Aberration) — 8/3Battlecry and Deathrattle: Get a Corrupted Coin.
+Timewarped Voidpriest — Tier 5 (Aberration) — 4/8After you discard a card, get a copy of it. (3 times per turn.)
+Timewarped Cage Gnawer — Tier 5 (Beast) — 4/12Whenever another friendly Beast attacks, cast Goldrinn's Blessing.
+Timewarped Sabercat — Tier 5 (Beast) — 10/6Whenever a friendly Deathrattle minion dies, your Tavern spells give an extra +1 Attack this game.
+Timewarped Mosher — Tier 5 (Demon) — 10/11Resilient Activate (1): Give another Demon +15 Health and Resilient.
+Timewarped Terrorguard — Tier 5 (Demon) — 7/8After you cast a Tavern spell, add 2 Fodders to your next Refresh.
+Timewarped Tickatus — Tier 5 (Demon, Aberration) — 6/8Activate (3): Discover a Tier 3 Darkmoon Prize.
+Timewarped Engineer — Tier 5 (Dragon) — 8/10Activate (3): Trigger all friendly end of turn effects.
+Timewarped Future Fighter — Tier 5 (Dragon) — 6/6Battlecry minions in the Tavern cost (1) less.
+Timewarped Mount — Tier 5 (Dragon) — 5/7Battlecry, Deathrattle, and Rally: Get a Dragonstorm.
+Timewarped Murozond — Tier 5 (Dragon) — 8/8Activate (0): Discover a 2-Cost card from the Major Timewarp.
+Timewarped Nether Construct — Tier 5 (Elemental, Demon) — 8/8Activate (1): Double the stats of minions in the Tavern.
+Timewarped Thunder Knight — Tier 5 (Elemental) — 5/5Battlecry and Deathrattle: Get a Command the Elements.
+Timewarped Bronze Gatekeeper — Tier 5 (Mech) — 1/20Magnetic Resilient
+Timewarped Bubblebot — Tier 5 (Mech) — 3/8Start of Combat: Give adjacent minions Divine Shield. If any already have it, it takes 2 more hits to break.
+Timewarped Clunker — Tier 5 (Mech) — 6/8Activate (2): Discover 3 Magnetic Mechs.
+Timewarped Hardlight — Tier 5 (Mech) — 7/7Divine Shield. After a friendly Divine Shield prevents damage, gain that much Attack.
+Timewarped Mecherel — Tier 5 (Mech, Murloc) — 12/5Divine Shield. After another friendly minion loses Divine Shield, gain Divine Shield.
+Timewarped Sanctifier — Tier 5 (Mech) — 7/4At the end of your turn, cast Sanctify. Repeat for each friendly minion with Divine Shield.
+Timewarped Slinger — Tier 5 (Murloc) — 5/5Battlecry: Make another Murloc Golden.
+Timewarped Concierge — Tier 5 (Pirate) — 5/7Tavern spells that give stats cost (1) less.
+Timewarped Deliverer — Tier 5 (Pirate) — 4/9Activate (2): Discover a Golden Tier 4 minion.
+Timewarped Looter — Tier 5 (Pirate) — 6/10Whenever the Tavern would offer a minion from Tier 2 or below, it offers a Bounty instead.
+Timewarped Endurer — Tier 5 (Quilboar) — 5/9After you play a Blood Gem on a minion, give it Resilient until next turn. (3 times per turn.)
+Timewarped Flat Tusk — Tier 5 (Quilboar) — 9/6Whenever you spend 5 Gold, this plays a Blood Gem on all your Quilboar. (5 Gold left!)
+Timewarped Gem Smuggler — Tier 5 (Quilboar) — 6/6Battlecry and Activate (0): This plays 2 Blood Gems on all your other minions.
+Timewarped Huhuran — Tier 5 (Undead, Beast) — 8/9Whenever you play a Deathrattle or Rally minion, trigger its Deathrattles and Rallies.
+Timewarped Nightmare — Tier 5 (Undead) — 8/5Deathrattle: Give a different friendly Undead "Deathrattle: Summon a Timewarped Nightmare."
+Timewarped Sergeant — Tier 5 (Undead) — 8/5Deathrattle: Give your other minions +3 Health. (Improves permanently after this gains Attack!)
+Timewarped Amalgadon — Tier 5 (All) — 8/8Divine Shield, Taunt, Windfury, Venomous Deathrattle: Summon two 1/1 Plants.
+Timewarped Ball of Minions — Tier 5 (All) — 10/10Activate (3): Give a different friendly minion this minion's stats.
+Timewarped Phalanx — Tier 5 (All) — 5/5Deathrattle: Give a friendly minion of each type +2/+2 permanently. Improves after you play a minion with no type.
+Timewarped Tour Group — Tier 5 (All) — 6/7Whenever you play a card, give friendly minions of its Tier or higher +2/+2.
+Timewarped Mirror Mage — Tier 5 — 9/9Activate (0): Get a plain copy of a random friendly minion (except Timewarped minions).
+Timewarped Wallow — Tier 5 — 10/10Activate (3): Discover a minion of your most common type from Tier 4 or above with a Dark Gift.
+Timewarped Fuel — Tier 5Discover two Tier 6 minions with Dark Gifts.
+Timewarped Rite of Atrocity — Tier 5Choose a minion to get a plain copy of. Then choose a Dark Gift to give it.
+Timewarped Story — Tier 5Give a minion every Bonus Keyword.
+Timewarped Wisdomball — Tier 5Your Refreshes this turn will occasionally be helpful.
+Dev Insights (16)
+Well met!
+With Battlegrounds Season 15, Warped Empire, there are a lot of changes coming to the Tavern. We’re bringing back the Timewarped Tavern system (with 70+ new cards!), adding three new Keywords, and welcoming two new Heroes to the existing roster.
+Today, we wanted to take some time to talk about the design thinking behind these additions, starting with a returning favorite, the Timewarped Tavern.
+This is the first time we’re returning the Timewarped Tavern since it was originally introduced way back in Season 12. The feedback last time was overall very positive, so we didn’t make any significant changes to how the system functions. You’ll still be offered a selection of Timewarped cards on Turns 6 and 9 to buy using Chronum, and those offerings will be based on what you’ve been playing that game. Rather than spending our time redesigning the core functionality of the system, we instead focused on expanding and further curating the pool of Timewarped cards.
+We first took a pass at all existing Timewarped cards to decide which felt right to return. The majority of cards we chose not to return were cut for one of the two following reasons. The first reason is pick rate. In general, we want players to be offered cards they are excited to play with. However, some cards were being passed over a bit too often, which usually indicates that players don't find them fun or powerful enough. For some of those cards, such as Timewarped Sensei, Timewarped Lubber, or Timewarped Goldrinn, we found ways to buff them and keep them in the pool. But for others, such as Timewarped Ring, Timewarped Dragonling, and Timewarped Deadstomper, we chose to cut them instead to make space for new cards. — Timewarped Sensei, Timewarped Lubber, Timewarped Goldrinn, Timewarped Ring, Timewarped Dragonling, Timewarped Deadstomper
+The other reason is unintended interactions. Some cards, such as Timewarped Embalmer, Timewarped Conch, and Timewarped Whirl-O-Tron, could create unfun or unfair board states when combined in specific ways. So, we chose to remove those cards to make the game more enjoyable for everyone. — Timewarped Embalmer, Timewarped Conch, Timewarped Whirl-O-Tron
+After reviewing the existing cards, we found about 120 that we felt were worth bringing back. We then set a goal for how many new cards we wanted to create. As a rough target, we wanted to have around 5 new/returning Minor Timewarped cards and around 7 new/returning Major Timewarped cards in the pool for each minion type. This should give players enough variety that they don't see the same cards from game to game without making the pool so large that it becomes unreasonable to wrap your head around. We also wanted to have as many neutral Timewarped cards as possible, as those cards appear more frequently than typed cards, so you need a lot of them to avoid seeing the same ones all the time.
+Quite a few of the new Timewarped cards, such as Timewarped Fruit Vendor, Timewarped Morchie, and Timewarped Tickatus, take advantage of the Activate Keyword we introduced last season. Some older cards, such as Timewarped Devourer, Timewarped Tipper, and Timewarped Bloodbinder, were updated to use Activate to make them smoother to play with. We also managed to sneak in a few Timewarped cards that use Dark Gifts, such as Timewarped Telescope and Timewarped Wallow. We also added a new very rare 3-Chronum card, Timewarped Murozond, if you can find a way to get them. — Timewarped Fruit Vendor, Timewarped Morchie, Timewarped Tickatus, Timewarped Devourer, Timewarped Tipper, Timewarped Bloodbinder, Timewarped Telescope, Timewarped Wallow, Timewarped Murozond
+Season 15 introduces three new Keywords: Resilient, Mission, and Elemental Invocation.
+The first new Keyword is Resilient. Resilient minions take half damage when attacked. This damage is rounded up, so it would take 5 damage when hit by a 9-Attack minion. Keep in mind that damage while attacking is not reduced, so you'll want to keep Resilient minions on the right side of your board so they don't attack too early.
+We had a few goals when designing Resilient:
+1. We wanted it to be simple and easy to understand;
+2. We wanted it to feel useful on any minion;
+3. We wanted it to add texture during combat;
+4. We wanted it to be an evergreen keyword we could use in future sets; and
+5. We wanted it to be something we could add to the Bonus Keyword pool.
+On that last point, we've felt for a while that Stealth has been a bit awkward as part of the Bonus Keyword pool. Often, Stealth doesn't feel like a particularly powerful keyword and can sometime be undesired (such as on Taunt minions). However, when applied to very specific minions (like Titus Rivendare) or applied across your whole board, it can feel incredibly frustrating to face. For this reason, we decided to swap it out and replace it with Resilient to help make Bonus Keywords feel consistently useful.
+In general, we expect Resilient to be a fairly rare Keyword, closer to the prevalence of Windfury or Venomous rather than Taunt or Reborn. Most of the Resilient minions in this patch are Demons, but we expect to spread the keyword around in future updates based on community feedback. — Hardy Felhound, Imp-erial, Nonchalant Napper
+Our next new Keyword is Mission. Missions are basically like minion Quests – complete a specific goal for a one-time reward. You have to have the minion in play in order to complete its Mission, and each Mission can only be completed once. However, if you manage to triple a Mission minion, the Mission will reset and can be completed again! Don't worry though; if you only made partial progress on a Mission minion that triples, it'll keep that progress.
+We tried making lots of different Mission cards during development and found that they were the most fun during the early-mid game when your board isn't fully locked in yet. We also wanted to avoid having too many Missions that could be completed as soon as you buy them, as then they just feel like awkward Battlecry minions.
+Since Mission cards can only be completed once, it gave us space to make more powerful effects than what you'd typically see at that point of the game if they were repeatable (such as Obsessive Artisan or Greymist Infiltrator). Some older minions, such as Free Travel Winner, Treasure Parrot, and Scarlet Survivor, were updated to use the new Mission Keyword as their old effects were essentially already Missions. — Scarlet Survivor, Patron Gatherer, Obsessive Artisan, Free Travel Winner, Ambitious Cannoneer, Treasure Parrot, Tenacious Thorn-witch, Crypt Crawler, Greymist Infiltrator, Crafty Cookfire, Loti, Devilsaur Form
+Our last Keyword, Elemental Invocation, is similar to some of our other type-specific Keywords like Bounty or Chromadrake. It grants you one of four different Elemental Invocations that give stats and a temporary Bonus Keyword to an Elemental. We had a bit of a theme around Bonus Keywords this set, in particular in Murlocs, Quilboar, and Elementals, as well as the new Resilient Keyword. We originally tried having Resilient as one of the possible Bonus Keywords off of Elemental Invocations, but it was a bit much to have that much Resilience. — Effusive Dancer, Tsunami Surfer, Invocation of Earth, Invocation of Fire, Invocation of Air, Invocation of Water
+We're also making a change to Deity that gives us more flexibility when balancing individual Deities in the future. The updated keyword is:
+Deity (x) - After X friendly Aberrations die each combat, awaken a X/Y [Deity name]
+Previously, all Deities were summoned after 4 Aberrations died. This feels reasonable for both of our existing Deities, C'Thun and Y'Shaarj. But for our new Deity, N'Zoth, 4 deaths felt too slow given how many times N'Zoth can be resummoned. By making the number of deaths variable between Deities, we have more flexibility to balance each of them. It also gives potential design space to make Deities in the future that summon after only 1 or 2 deaths or summon after 5 or more deaths. — C'Thun, Y'Shaarj, N'Zoth
+Season 15 also introduces two new Heroes, Eternus and Vanessa, the Ringleader, each with their own approach to the game.
+Typically whenever we make a new or returning system, we like to make heroes that can use that system in unique ways. We have lots of Heroes like this, such as Marin, Morchie, and Sire, and they are typically some of our most popular Heroes. For Eternus, we wanted to make a new Timewarped Hero that played a little different than Morchie/Murozond. We took inspiration from Thorim and decided to give you your Timewarped cards right at the start of the game so that you can plan your strategy early. We tried a few different unlock conditions for the Timewarped cards, but we liked the gameplay of spending gold because there's a predictable range for when it can be completed while still providing opportunity for skill expression. — Eternus, Dawn of the Infinite
+Vanessa’s design took a different approach, as her Hero Power doesn't relate to any of our systems. Instead, we wanted her to feel like a flexible combo Hero. We wanted players to be able to make small turns where they can get an early Tier 3 or 4 minion, while also providing opportunity for a big popoff turn where you get an early Tier 6. In the late game, when you have more gold at your disposal, players can then use it to dig for specific minions on specific Tiers depending on what they need. — Vanessa the Ringleader, Strategic Edge
+The above is just some of the thinking behind the changes coming with Battlegrounds Season 15, and we’re looking forward to seeing what you will do with the returning Timewarped Tavern, the new Keywords, and Eternus and Vanessa once 37.2 arrives.
+See you in the Tavern!
+Originally posted by the Hearthstone team on Reddit.
+BG Database
+CurCurrentLegLegacy
+Patch Notes
+Stats
+Articles
+Viewers vs StreamersMy experienceSelection 1Selection 2Board pool
+The Current Meta: What to Prepare for at Tournaments
+All articles
+Plugins
+Battlegrounds ToolkitReplay WatcherDeck InspectorFriend Search
+Daily Sound Quiz
+PatchPatch Notes
+Support usEN
+English(enUS)
+Deutsch(deDE)Español (EU)(esES)
+Español (AL)(esMX)Français(frFR)Italiano(itIT)日本語(jaJP)
+한국어(koKR)Polski(plPL)
+Português(ptBR)ไทย(thTH)Українська
+简体中文(zhCN)
+繁體中文(zhTW)
+Cards
+Patch Notes
+Stats
+Articles
+Plugins
+Daily Sound QuizEmotes
+API
+Support us
+About
+Privacy
+Terms
+/
+EN
+Dark theme
+Language
+English(enUS)
+Deutsch(deDE)Español (EU)(esES)
+Español (AL)(esMX)Français(frFR)Italiano(itIT)日本語(jaJP)
+한국어(koKR)Polski(plPL)
+Português(ptBR)ไทย(thTH)Українська
+简体中文(zhCN)
+繁體中文(zhTW)
+Database
+Patch Notes
+Articles
+BG Sounds
+Other
+Stats
+PluginsEmotes
+API
+Support us
+About
+Privacy
+Terms
+37.2 Season 15: Warped Empire
+Season 15
+Published November 23, 2026
+Battlegrounds Season 15 brings back the Timewarped Tavern with three new keywords, two new heroes and 77 new cards — 66 minions, 9 Tavern spells, a new Deity and a token — while Trinkets and Dark Gifts rotate out. Live with Patch 37.2 on December 1.
+Dev Insights
+Get ready for Season 15 of Battlegrounds: Warped Empire! This new Battlegrounds season launches December 1 with three new keywords, two new heroes, the return of the Timewarped Tavern, and new cards for all Minion types.
+Well met!
+With Battlegrounds Season 15, Warped Empire, there are a lot of changes coming to the Tavern. We’re bringing back the Timewarped Tavern system (with 70+ new cards!), adding three new Keywords, and welcoming two new Heroes to the existing roster.
+Today, we wanted to take some time to talk about the design thinking behind these additions, starting with a returning favorite, the Timewarped Tavern.
+The Timewarped Tavern Returns
+This is the first time we’re returning the Timewarped Tavern since it was originally introduced way back in Season 12. The feedback last time was overall very positive, so we didn’t make any significant changes to how the system functions. You’ll still be offered a selection of Timewarped cards on Turns 6 and 9 to buy using Chronum, and those offerings will be based on what you’ve been playing that game. Rather than spending our time redesigning the core functionality of the system, we instead focused on expanding and further curating the pool of Timewarped cards.
+We first took a pass at all existing Timewarped cards to decide which felt right to return. The majority of cards we chose not to return were cut for one of the two following reasons. The first reason is pick rate. In general, we want players to be offered cards they are excited to play with. However, some cards were being passed over a bit too often, which usually indicates that players don't find them fun or powerful enough. For some of those cards, such as Timewarped Sensei, Timewarped Lubber, or Timewarped Goldrinn, we found ways to buff them and keep them in the pool. But for others, such as Timewarped Ring, Timewarped Dragonling, and Timewarped Deadstomper, we chose to cut them instead to make space for new cards.
+The other reason is unintended interactions. Some cards, such as Timewarped Embalmer, Timewarped Conch, and Timewarped Whirl-O-Tron, could create unfun or unfair board states when combined in specific ways. So, we chose to remove those cards to make the game more enjoyable for everyone.
+After reviewing the existing cards, we found about 120 that we felt were worth bringing back. We then set a goal for how many new cards we wanted to create. As a rough target, we wanted to have around 5 new/returning Minor Timewarped cards and around 7 new/returning Major Timewarped cards in the pool for each minion type. This should give players enough variety that they don't see the same cards from game to game without making the pool so large that it becomes unreasonable to wrap your head around. We also wanted to have as many neutral Timewarped cards as possible, as those cards appear more frequently than typed cards, so you need a lot of them to avoid seeing the same ones all the time.
+Quite a few of the new Timewarped cards, such as Timewarped Fruit Vendor, Timewarped Morchie, and Timewarped Tickatus, take advantage of the Activate Keyword we introduced last season. Some older cards, such as Timewarped Devourer, Timewarped Tipper, and Timewarped Bloodbinder, were updated to use Activate to make them smoother to play with. We also managed to sneak in a few Timewarped cards that use Dark Gifts, such as Timewarped Telescope and Timewarped Wallow. We also added a new very rare 3-Chronum card, Timewarped Murozond, if you can find a way to get them.
+New Keywords
+Season 15 introduces three new Keywords: Resilient, Mission, and Elemental Invocation.
+Resilient
+The first new Keyword is Resilient. Resilient minions take half damage when attacked. This damage is rounded up, so it would take 5 damage when hit by a 9-Attack minion. Keep in mind that damage while attacking is not reduced, so you'll want to keep Resilient minions on the right side of your board so they don't attack too early.
+We had a few goals when designing Resilient:
+1. We wanted it to be simple and easy to understand;
+2. We wanted it to feel useful on any minion;
+3. We wanted it to add texture during combat;
+4. We wanted it to be an evergreen keyword we could use in future sets; and
+5. We wanted it to be something we could add to the Bonus Keyword pool.
+On that last point, we've felt for a while that Stealth has been a bit awkward as part of the Bonus Keyword pool. Often, Stealth doesn't feel like a particularly powerful keyword and can sometime be undesired (such as on Taunt minions). However, when applied to very specific minions (like Titus Rivendare) or applied across your whole board, it can feel incredibly frustrating to face. For this reason, we decided to swap it out and replace it with Resilient to help make Bonus Keywords feel consistently useful.
+In general, we expect Resilient to be a fairly rare Keyword, closer to the prevalence of Windfury or Venomous rather than Taunt or Reborn. Most of the Resilient minions in this patch are Demons, but we expect to spread the keyword around in future updates based on community feedback.
+Mission
+Our next new Keyword is Mission. Missions are basically like minion Quests – complete a specific goal for a one-time reward. You have to have the minion in play in order to complete its Mission, and each Mission can only be completed once. However, if you manage to triple a Mission minion, the Mission will reset and can be completed again! Don't worry though; if you only made partial progress on a Mission minion that triples, it'll keep that progress.
+We tried making lots of different Mission cards during development and found that they were the most fun during the early-mid game when your board isn't fully locked in yet. We also wanted to avoid having too many Missions that could be completed as soon as you buy them, as then they just feel like awkward Battlecry minions.
+Since Mission cards can only be completed once, it gave us space to make more powerful effects than what you'd typically see at that point of the game if they were repeatable (such as Obsessive Artisan or Greymist Infiltrator). Some older minions, such as Free Travel Winner, Treasure Parrot, and Scarlet Survivor, were updated to use the new Mission Keyword as their old effects were essentially already Missions.
+Elemental Invocation
+Our last Keyword, Elemental Invocation, is similar to some of our other type-specific Keywords like Bounty or Chromadrake. It grants you one of four different Elemental Invocations that give stats and a temporary Bonus Keyword to an Elemental. We had a bit of a theme around Bonus Keywords this set, in particular in Murlocs, Quilboar, and Elementals, as well as the new Resilient Keyword. We originally tried having Resilient as one of the possible Bonus Keywords off of Elemental Invocations, but it was a bit much to have that much Resilience.
+Updated Keyword – Deity
+We're also making a change to Deity that gives us more flexibility when balancing individual Deities in the future. The updated keyword is:
+Deity (x) - After X friendly Aberrations die each combat, awaken a X/Y [Deity name]
+Previously, all Deities were summoned after 4 Aberrations died. This feels reasonable for both of our existing Deities, C'Thun and Y'Shaarj. But for our new Deity, N'Zoth, 4 deaths felt too slow given how many times N'Zoth can be resummoned. By making the number of deaths variable between Deities, we have more flexibility to balance each of them. It also gives potential design space to make Deities in the future that summon after only 1 or 2 deaths or summon after 5 or more deaths.
+New Heroes: Designing Eternus and Vanessa
+Season 15 also introduces two new Heroes, Eternus and Vanessa, the Ringleader, each with their own approach to the game.
+Eternus
+Typically whenever we make a new or returning system, we like to make heroes that can use that system in unique ways. We have lots of Heroes like this, such as Marin, Morchie, and Sire, and they are typically some of our most popular Heroes. For Eternus, we wanted to make a new Timewarped Hero that played a little different than Morchie/Murozond. We took inspiration from Thorim and decided to give you your Timewarped cards right at the start of the game so that you can plan your strategy early. We tried a few different unlock conditions for the Timewarped cards, but we liked the gameplay of spending gold because there's a predictable range for when it can be completed while still providing opportunity for skill expression.
+Vanessa the Ringleader
+Vanessa’s design took a different approach, as her Hero Power doesn't relate to any of our systems. Instead, we wanted her to feel like a flexible combo Hero. We wanted players to be able to make small turns where they can get an early Tier 3 or 4 minion, while also providing opportunity for a big popoff turn where you get an early Tier 6. In the late game, when you have more gold at your disposal, players can then use it to dig for specific minions on specific Tiers depending on what they need.
+The above is just some of the thinking behind the changes coming with Battlegrounds Season 15, and we’re looking forward to seeing what you will do with the returning Timewarped Tavern, the new Keywords, and Eternus and Vanessa once 37.2 arrives.
+See you in the Tavern!
+Originally posted by the Hearthstone team on Reddit.
+Battlegrounds Early Access Challenge
+Tue, Nov 24, 9:00 AM PSTWed, Nov 25, 9:00 AM PST
+Shadybunny hosts the Battlegrounds Early Access Challenge in place of the usual Theorycrafting stream: 16 of the top Battlegrounds players get Season 15 a week early and put their skills to the test.
+Host
+Shadybunny
+Players
+JeefRDUSuperJJAwedragonSlydersOliechMathraisMAMaverickDogDogWobbleweezyRechotDibsLikesCoffeeZorgoSevelGotorkunXiaoliao
+Watch on the official Hearthstone Twitch channel or on a participating player's channel to earn Twitch Drops: one drop for every hour you watch, up to two a day. Each drop gives 2 Battlegrounds Tokens, so you can earn 4 a day and 8 across both days.
+Watch on Twitch
+Some changes have a ? mark next to them: hover or tap it for a short explanation.
+Leaving Mechanics
+Trinkets rotate out of Battlegrounds as the Timewarped Tavern returns.
+Dark Gifts rotate out of Battlegrounds.
+Stealth leaves the pool of Bonus Keywords for the time being, making room for Resilient.
+Hero Updates
+Zerek, Master Cloner: Timewarp restriction removed.
+Sindragosa and Millhouse Manastorm: Now banned from Pirate lobbies.
+Murozond, Unbounded and Morchie: No longer banned from Aberration lobbies.
+Before
+Reworded
+After
+New Heroes
+For the first two weeks after the patch goes live, both new heroes are offered in every game.
+New
+New
+New
+New
+Vanessa the Ringleader
+New
+New
+Eternus
+New
+New
+Functionality Update
+Cards with "When you have space in combat" effects now trigger only after all Start of Combat effects resolve. Their text has been updated to reflect this.
+Affected cards: Diremuck Forager, Sharptooth Snapper, Automaton Portrait, Boom Controller, Crocheted Sungill, Twin Sky Lanterns, Twin Sky Lanterns, Frostwolf Fervor, Lock and Load, Rapid Reanimation, Stormpike Strength, Tentacular
+Removed Cards
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Changed Cards
+Before
+Deity. → Deity (4).
+After
+Before
+Deity. → Deity (4).
+After
+Before
+Deity +2/+1 → +1/+1
+After
+Before
++Taunt
+After
+Before
+Text changed
+After
+Before
+Text changed
+After
+Before
+play → castNot in the official notes?
+After
+Before
+Tier 5→6ATK 7→5HP 7→5Text changed
+After
+Before
+HP 9→8+3 → +2 Attack
+After
+Before
++Mission
+After
+Before
+ATK 5→8HP 5→8Text changed
+After
+Before
+Tier 2→3ATK 1→2HP 2→4+1 → +2 Attack
+After
+Before
+(Improved by → Repeat for
+After
+Before
+Tier 3→2ATK 4→3HP 4→3
+After
+Before
+HP 3→2
+After
+Before
+Tier 3→4ATK 2→4+Battlecry and
+After
+Before
+Tier 3→2
+After
+Before
+Mechanic changed
+After
+Before
++Mission
+After
+Before
+Tier 5→6ATK 6→8HP 5→7
+After
+Before
+Tier 5→6HP 4→8Text changed
+After
+Before
+ATK 4→5HP 7→8Tavern +1/+2 → +1/+1
+After
+Before
+Tier 2→3ATK 3→4HP 4→5extra +1 → +2
+After
+Before
+Text changed
+After
+Returning Cards
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Before
+HP 4→3+1 Attack. → +1/+1.
+After
+Before
+Mechanic changed
+After
+Before
+Tier 4→3ATK 5→4HP 4→3
+After
+Before
+HP 1→2Pirate +2/+1. → +2/+2.
+After
+Before
+Tier 5→4ATK 5→4
+After
+Before
+Tier 5→4HP 2→1
+After
+Before
+Tier 6→5ATK 6→5HP 6→5
+After
+Before
+Tier 4→5Mechanic changed
+After
+Before
+Tier 6→5
+After
+Before
+HP 8→12+1 Attack → +2/+2
+After
+Before
+Tier 6→5−Battlecry and
+After
+Before
+Tier 6→5ATK 8→5HP 7→5
+After
+Before
+Tier 4→5Text changed
+After
+Before
+HP 8→7Murlocs +3/+3. → +4/+4.
+After
+Before
+Tier 2→6ATK 2→6HP 3→6Text changed
+After
+Before
+Text changed
+After
+Before
+Tier 5→6Reworded
+After
+Before
+Text changed
+After
+New Aberration Minions
+Growing Ooze is made to be discarded: when you do, your minions and your Deity get +2/+1, and future Growing Oozes improve by the same amount.
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+Aberrations may also become the new Undead, with a Deity-and-Avenge build and a Tier 4 minion that looks exceptionally strong on paper. We'll see how it plays out.
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New Beast Cards
+Goldrinn's Blessing is a new Tavern spell: your Beasts have +1/+1 for the rest of the game, wherever they are. Goldrinn, the Great Wolf now gives its bonus the same way.
+New
+New
+New
+New
+New
+New
+Beasts also lean on Tavern spells this season, starting with a steady supply of Tavern Dish Bananas.
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New Demon Minions
+New
+New
+New
+New
+New
+New
+New
+New
+New Dragon Cards
+Dragons go back to growing at the end of every turn, as they did a few seasons ago: Echoing Roar returns with Reverber Drake, the new Dragonstorm does the same for all your Dragons at once, and a reworked Efficient Engineer triggers those effects again each turn.
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New Elemental Cards
+Elemental Invocation is a new set of four Tavern spells. Each gives a minion stats, and an Elemental also gets a Bonus Keyword until next turn: Invocation of Earth gives Taunt, Invocation of Fire gives Reborn, Invocation of Air gives Windfury and Invocation of Water gives Divine Shield.
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New Mech Minions
+The Divine Shield–loss build moves from Dragons to Mechs: new Divine Shield cards and Magnetic minions (watch out for what they do with Polarizing Beatboxer), backed by returning support such as Divine Sparkbot and Sanctify.
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New Murloc Minions
+Murlocs now work with the Tavern spells in your hand: they make a spell stronger and cast copies of it while you keep the original, so the plan is to find a good spell early and keep buffing it for the rest of the game. They also get new Battlecry support and a Tier 3 Murloc with the new Mission keyword that looks strong enough to become a strategy of its own.
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New Pirate Minions
+Pirates are gold-focused once again and make the Tavern cheaper: they reward you for every card you buy for 2 Gold or less, and their early Missions cast Strike Oil simply for making your board stronger. One Battlegrounds streamer in particular will be pleased.
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New Quilboar Minions
+Quilboar return to Blood Gems that also grant keywords (Bristleback Bully, Redtusk Thornraiser and Hog Watcher), with new cards that put those keywords to work.
+New
+New
+New
+New
+New
+New
+New
+New
+New Undead Cards
+Undead get new support for destroying their own board with 1/1 tokens: summoning them in the Tavern with the new Tier 4 Ossifier for quick triples (a nice fit with Quilboar), then destroying those Skeletons.
+They also go back to playing board Overfill, with Catacomb Crasher and Thundering Abomination returning and the new Saronite Colossus supporting the archetype.
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New Neutral Cards
+Finally, among the new non-Timewarped cards, the neutrals get a refresh: Patron Gatherer, who is bound to have a memorable summon sound; a support neutral for staying on Tavern Tier 2 a little longer; and another neutral that looks extremely strong, Temple Keeper.
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+Removed Spells
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Returning Spells
+Returning
+Returning
+Before
+Cost 3→2gain +2/+2." → +3/+3."
+After
+Before
+Tier 5→4+6 → +4 Attack
+After
+Removed Minor Timewarp Cards
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Returning Minor Timewarp Cards
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Before
+gain +2/+2 → +2/+3
+After
+Before
+HP 4→3gain +3/+2 → +4/+3
+After
+Before
+Mechanic changed
+After
+Before
+HP 4→6+1 → +2 Health
+After
+Before
+Added Dragon
+After
+Before
+extra +1/+1. → +2/+2.
+After
+Before
+Cost 1→2give → cast Repair Job on
+After
+Before
+ATK 4→6HP 2→4
+After
+Before
+Mechanic changed
+After
+Before
+Cost 2→1
+After
+Before
+Cost 2→1
+After
+New Minor Timewarp Cards
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+Removed Major Timewarp Cards
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Removed
+Returning Major Timewarp Cards
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Returning
+Before
+Cost 2→1ATK 6→12HP 6→12Text changed
+After
+Before
+spend 8 → 7
+After
+Before
+Mechanic changed
+After
+Before
+Tavern +4/+3 → +5/+5Added Elemental
+After
+Before
+Text changed
+After
+Before
+Text changed
+After
+Before
+Mechanic changed
+After
+Before
+Mechanic changed
+After
+Before
+Cost 2→1
+After
+Before
+Cost 2→1
+After
+Before
+ATK 12→13HP 12→13Mechanic changedAdded All
+After
+New Major Timewarp Cards
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+New
+Battlegrounds Early Access Challenge
+Before Season 15 launched, Shadybunny hosted the Battlegrounds Early Access Challenge, where 16 of the top Battlegrounds players took on the new season a week early.
+ShadybunnyJeefRDUSuperJJAwedragonSlydersOliechMathraisMAMaverickDogDogWobbleweezyRechotDibsLikesCoffeeZorgoSevelGotorkunXiaoliao
+Staying (217)

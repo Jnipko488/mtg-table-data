@@ -1,0 +1,1546 @@
+{
+ "pointy-arrow": {
+  "ids": [
+   "EBG_Spell_014"
+  ],
+  "files": [
+   "new-100596-pointy-arrow.webp"
+  ]
+ },
+ "echoing-roar": {
+  "ids": [
+   "S15S_echoing_roar"
+  ],
+  "files": [
+   "new-104440-echoing-roar.webp"
+  ]
+ },
+ "emerald-proto-whelp": {
+  "ids": [
+   "BG28_590"
+  ],
+  "files": [
+   "new-105523-emerald-proto-whelp.webp"
+  ]
+ },
+ "ignition-specialist": {
+  "ids": [
+   "BG28_595"
+  ],
+  "files": [
+   "new-105852-ignition-specialist.webp"
+  ]
+ },
+ "ancestral-automaton": {
+  "ids": [
+   "BG_TTN_401"
+  ],
+  "files": [
+   "new-108432-ancestral-automaton.webp"
+  ]
+ },
+ "free-travel-winner": {
+  "ids": [
+   "BG30_103"
+  ],
+  "files": [
+   "new-113128-free-travel-winner.webp"
+  ]
+ },
+ "thundering-abomination": {
+  "ids": [
+   "BG30_124"
+  ],
+  "files": [
+   "new-113156-thundering-abomination.webp"
+  ]
+ },
+ "clunker-junker": {
+  "ids": [
+   "BG29_503"
+  ],
+  "files": [
+   "new-113766-clunker-junker.webp"
+  ]
+ },
+ "catacomb-crasher": {
+  "ids": [
+   "BG30_129"
+  ],
+  "files": [
+   "new-114379-catacomb-crasher.webp"
+  ]
+ },
+ "three-lil-quilboar": {
+  "ids": [
+   "BG26_867"
+  ],
+  "files": [
+   "new-114486-three-lil-quilboar.webp"
+  ]
+ },
+ "hackerfin": {
+  "ids": [
+   "BG31_148"
+  ],
+  "files": [
+   "new-115848-hackerfin.webp"
+  ]
+ },
+ "reverber-drake": {
+  "ids": [
+   "BG31_300"
+  ],
+  "files": [
+   "new-116023-reverber-drake.webp"
+  ]
+ },
+ "efficient-engineer": {
+  "ids": [
+   "BG31_301"
+  ],
+  "files": [
+   "new-116025-efficient-engineer.webp"
+  ]
+ },
+ "bubble-gunner": {
+  "ids": [
+   "BG31_149"
+  ],
+  "files": [
+   "new-116178-bubble-gunner.webp"
+  ]
+ },
+ "batty-terrorguard": {
+  "ids": [
+   "BG31_871"
+  ],
+  "files": [
+   "new-116697-batty-terrorguard.webp"
+  ]
+ },
+ "surfing-sylvar": {
+  "ids": [
+   "BG32_235"
+  ],
+  "files": [
+   "new-119994-surfing-sylvar.webp"
+  ]
+ },
+ "auto-assembler": {
+  "ids": [
+   "BG32_172"
+  ],
+  "files": [
+   "new-120025-auto-assembler.webp"
+  ]
+ },
+ "shoalfin-mystic": {
+  "ids": [
+   "BG32_860"
+  ],
+  "files": [
+   "new-120215-shoalfin-mystic.webp"
+  ]
+ },
+ "intrepid-botanist": {
+  "ids": [
+   "BG32_237"
+  ],
+  "files": [
+   "new-120223-intrepid-botanist.webp"
+  ]
+ },
+ "felfire-conjurer": {
+  "ids": [
+   "BG32_821"
+  ],
+  "files": [
+   "new-120299-felfire-conjurer.webp"
+  ]
+ },
+ "fire-forged-evoker": {
+  "ids": [
+   "BG32_822"
+  ],
+  "files": [
+   "new-120301-fire-forged-evoker.webp"
+  ]
+ },
+ "shadowdancer": {
+  "ids": [
+   "BG32_891"
+  ],
+  "files": [
+   "new-120662-shadowdancer.webp"
+  ]
+ },
+ "dream-inquisitor": {
+  "ids": [
+   "BG32_892"
+  ],
+  "files": [
+   "new-120664-dream-inquisitor.webp"
+  ]
+ },
+ "apprentice-of-sefin": {
+  "ids": [
+   "BG32_332"
+  ],
+  "files": [
+   "new-120681-apprentice-of-sefin.webp"
+  ]
+ },
+ "primitive-painter": {
+  "ids": [
+   "BG33_893"
+  ],
+  "files": [
+   "new-122281-primitive-painter.webp"
+  ]
+ },
+ "bloodsnout-warlord": {
+  "ids": [
+   "BG33_884"
+  ],
+  "files": [
+   "new-122564-bloodsnout-warlord.webp"
+  ]
+ },
+ "hog-watcher": {
+  "ids": [
+   "BG33_888"
+  ],
+  "files": [
+   "new-122737-hog-watcher.webp"
+  ]
+ },
+ "sanctify": {
+  "ids": [
+   "S15S_sanctify"
+  ],
+  "files": [
+   "new-122899-sanctify.webp"
+  ]
+ },
+ "wizened-captain": {
+  "ids": [
+   "BG33_826"
+  ],
+  "files": [
+   "new-122921-wizened-captain.webp"
+  ]
+ },
+ "divine-sparkbot": {
+  "ids": [
+   "BG33_809"
+  ],
+  "files": [
+   "new-123644-divine-sparkbot.webp"
+  ]
+ },
+ "timewarped-evolving-tavern": {
+  "ids": [
+   "BG34_Treasure_900"
+  ],
+  "files": [
+   "new-126154-timewarped-evolving-tavern.webp"
+  ]
+ },
+ "timewarped-master-thief": {
+  "ids": [
+   "BG34_Treasure_902"
+  ],
+  "files": [
+   "new-126156-timewarped-master-thief.webp"
+  ]
+ },
+ "timewarped-on-the-house": {
+  "ids": [
+   "BG34_Treasure_903"
+  ],
+  "files": [
+   "new-126157-timewarped-on-the-house.webp"
+  ]
+ },
+ "timewarped-rat-in-a-cage": {
+  "ids": [
+   "BG34_Treasure_905"
+  ],
+  "files": [
+   "new-126159-timewarped-rat-in-a-cage.webp"
+  ]
+ },
+ "timewarped-bananas": {
+  "ids": [
+   "BG34_Treasure_912"
+  ],
+  "files": [
+   "new-126165-timewarped-bananas.webp"
+  ]
+ },
+ "timewarped-busker": {
+  "ids": [
+   "BG34_Giant_001"
+  ],
+  "files": [
+   "new-126235-timewarped-busker.webp"
+  ]
+ },
+ "power-of-alakir": {
+  "ids": [
+   "BG34_HeroPowerSpell_003"
+  ],
+  "files": [
+   "new-126237-power-of-alakir.webp"
+  ]
+ },
+ "timewarped-annoy-o-tron": {
+  "ids": [
+   "BG34_Giant_007"
+  ],
+  "files": [
+   "new-126239-timewarped-annoy-o-tron.webp"
+  ]
+ },
+ "timewarped-new-recruit": {
+  "ids": [
+   "BG34_Treasure_917"
+  ],
+  "files": [
+   "new-126262-timewarped-new-recruit.webp"
+  ]
+ },
+ "power-of-elise": {
+  "ids": [
+   "BG34_HeroPowerSpell_005"
+  ],
+  "files": [
+   "new-126266-power-of-elise.webp"
+  ]
+ },
+ "power-of-george": {
+  "ids": [
+   "BG34_HeroPowerSpell_006"
+  ],
+  "files": [
+   "new-126267-power-of-george.webp"
+  ]
+ },
+ "power-of-shudderwock": {
+  "ids": [
+   "BG34_HeroPowerSpell_008"
+  ],
+  "files": [
+   "new-126269-power-of-shudderwock.webp"
+  ]
+ },
+ "power-of-teron": {
+  "ids": [
+   "BG34_HeroPowerSpell_009"
+  ],
+  "files": [
+   "new-126270-power-of-teron.webp"
+  ]
+ },
+ "power-of-the-lich-king": {
+  "ids": [
+   "BG34_HeroPowerSpell_010"
+  ],
+  "files": [
+   "new-126271-power-of-the-lich-king.webp"
+  ]
+ },
+ "power-of-zephrys": {
+  "ids": [
+   "BG34_HeroPowerSpell_012"
+  ],
+  "files": [
+   "new-126273-power-of-zephrys.webp"
+  ]
+ },
+ "power-of-guff": {
+  "ids": [
+   "BG34_HeroPowerSpell_015"
+  ],
+  "files": [
+   "new-126276-power-of-guff.webp"
+  ]
+ },
+ "timewarped-molten-rock": {
+  "ids": [
+   "BG34_Giant_006"
+  ],
+  "files": [
+   "new-126285-timewarped-molten-rock.webp"
+  ]
+ },
+ "timewarped-alleycat": {
+  "ids": [
+   "BG34_Giant_009"
+  ],
+  "files": [
+   "new-126343-timewarped-alleycat.webp"
+  ]
+ },
+ "timewarped-scourfin": {
+  "ids": [
+   "BG34_Giant_017"
+  ],
+  "files": [
+   "new-126351-timewarped-scourfin.webp"
+  ]
+ },
+ "timewarped-strike-oil": {
+  "ids": [
+   "BG34_Treasure_932"
+  ],
+  "files": [
+   "new-126397-timewarped-strike-oil.webp"
+  ]
+ },
+ "timewarped-evolution": {
+  "ids": [
+   "BG34_Treasure_933"
+  ],
+  "files": [
+   "new-126398-timewarped-evolution.webp"
+  ]
+ },
+ "timewarped-armor-stash": {
+  "ids": [
+   "BG34_Treasure_934"
+  ],
+  "files": [
+   "new-126399-timewarped-armor-stash.webp"
+  ]
+ },
+ "timewarped-corpse": {
+  "ids": [
+   "BG34_Treasure_937"
+  ],
+  "files": [
+   "new-126401-timewarped-corpse.webp"
+  ]
+ },
+ "timewarped-chefs-choice": {
+  "ids": [
+   "BG34_Treasure_940"
+  ],
+  "files": [
+   "new-126404-timewarped-chefs-choice.webp"
+  ]
+ },
+ "timewarped-nomi": {
+  "ids": [
+   "BG34_Giant_032"
+  ],
+  "files": [
+   "new-126514-timewarped-nomi.webp"
+  ]
+ },
+ "timewarped-glowscale": {
+  "ids": [
+   "BG34_Giant_035"
+  ],
+  "files": [
+   "new-126517-timewarped-glowscale.webp"
+  ]
+ },
+ "timewarped-elise": {
+  "ids": [
+   "BG34_Giant_038"
+  ],
+  "files": [
+   "new-126521-timewarped-elise.webp"
+  ]
+ },
+ "timewarped-winner": {
+  "ids": [
+   "BG34_Giant_039"
+  ],
+  "files": [
+   "new-126522-timewarped-winner.webp"
+  ]
+ },
+ "timewarped-greenskeeper": {
+  "ids": [
+   "BG34_Giant_041"
+  ],
+  "files": [
+   "new-126524-timewarped-greenskeeper.webp"
+  ]
+ },
+ "timewarped-chameleon": {
+  "ids": [
+   "BG34_Giant_042"
+  ],
+  "files": [
+   "new-126525-timewarped-chameleon.webp"
+  ]
+ },
+ "timewarped-jungle-king": {
+  "ids": [
+   "BG34_PreMadeChamp_004"
+  ],
+  "files": [
+   "new-126548-timewarped-jungle-king.webp"
+  ]
+ },
+ "timewarped-overfiend": {
+  "ids": [
+   "BG34_PreMadeChamp_011"
+  ],
+  "files": [
+   "new-126558-timewarped-overfiend.webp"
+  ]
+ },
+ "timewarped-imp-filtrator": {
+  "ids": [
+   "BG34_PreMadeChamp_013"
+  ],
+  "files": [
+   "new-126560-timewarped-imp-filtrator.webp"
+  ]
+ },
+ "timewarped-prismscale": {
+  "ids": [
+   "BG34_PreMadeChamp_022"
+  ],
+  "files": [
+   "new-126565-timewarped-prismscale.webp"
+  ]
+ },
+ "timewarped-stormcloud": {
+  "ids": [
+   "BG34_PreMadeChamp_031"
+  ],
+  "files": [
+   "new-126568-timewarped-stormcloud.webp"
+  ]
+ },
+ "timewarped-squallfin": {
+  "ids": [
+   "BG34_PreMadeChamp_049"
+  ],
+  "files": [
+   "new-126574-timewarped-squallfin.webp"
+  ]
+ },
+ "timewarped-raider": {
+  "ids": [
+   "BG34_PreMadeChamp_065"
+  ],
+  "files": [
+   "new-126578-timewarped-raider.webp"
+  ]
+ },
+ "timewarped-plunderer": {
+  "ids": [
+   "BG34_PreMadeChamp_067"
+  ],
+  "files": [
+   "new-126580-timewarped-plunderer.webp"
+  ]
+ },
+ "timewarped-bloodbinder": {
+  "ids": [
+   "BG34_PreMadeChamp_076"
+  ],
+  "files": [
+   "new-126583-timewarped-bloodbinder.webp"
+  ]
+ },
+ "timewarped-anubarak": {
+  "ids": [
+   "BG34_PreMadeChamp_083"
+  ],
+  "files": [
+   "new-126584-timewarped-anubarak.webp"
+  ]
+ },
+ "timewarped-whelp-smuggler": {
+  "ids": [
+   "BG34_Giant_064"
+  ],
+  "files": [
+   "new-126754-timewarped-whelp-smuggler.webp"
+  ]
+ },
+ "timewarped-lubber": {
+  "ids": [
+   "BG34_Giant_066"
+  ],
+  "files": [
+   "new-126756-timewarped-lubber.webp"
+  ]
+ },
+ "timewarped-sellemental": {
+  "ids": [
+   "BG34_Giant_067"
+  ],
+  "files": [
+   "new-126757-timewarped-sellemental.webp"
+  ]
+ },
+ "timewarped-deathswarmer": {
+  "ids": [
+   "BG34_Giant_081"
+  ],
+  "files": [
+   "new-126761-timewarped-deathswarmer.webp"
+  ]
+ },
+ "timewarped-recycler": {
+  "ids": [
+   "BG34_Giant_082"
+  ],
+  "files": [
+   "new-126762-timewarped-recycler.webp"
+  ]
+ },
+ "junk-jouster": {
+  "ids": [
+   "BG34_175"
+  ],
+  "files": [
+   "new-126830-junk-jouster.webp"
+  ]
+ },
+ "wintergrasp-ghoul": {
+  "ids": [
+   "BG34_694"
+  ],
+  "files": [
+   "new-126955-wintergrasp-ghoul.webp"
+  ]
+ },
+ "stone-age-slab": {
+  "ids": [
+   "BG34_950"
+  ],
+  "files": [
+   "new-126959-stone-age-slab.webp"
+  ]
+ },
+ "timewarped-bonker": {
+  "ids": [
+   "BG34_Giant_102"
+  ],
+  "files": [
+   "new-126974-timewarped-bonker.webp"
+  ]
+ },
+ "timewarped-piper": {
+  "ids": [
+   "BG34_Giant_069"
+  ],
+  "files": [
+   "new-127096-timewarped-piper.webp"
+  ]
+ },
+ "timewarped-boar": {
+  "ids": [
+   "BG34_Giant_201"
+  ],
+  "files": [
+   "new-127097-timewarped-boar.webp"
+  ]
+ },
+ "timewarped-saurolisk": {
+  "ids": [
+   "BG34_Giant_202"
+  ],
+  "files": [
+   "new-127126-timewarped-saurolisk.webp"
+  ]
+ },
+ "timewarped-bassgill": {
+  "ids": [
+   "BG34_Giant_071"
+  ],
+  "files": [
+   "new-127128-timewarped-bassgill.webp"
+  ]
+ },
+ "timewarped-skipper": {
+  "ids": [
+   "BG34_Giant_072"
+  ],
+  "files": [
+   "new-127129-timewarped-skipper.webp"
+  ]
+ },
+ "timewarped-pillager": {
+  "ids": [
+   "BG34_Giant_204"
+  ],
+  "files": [
+   "new-127132-timewarped-pillager.webp"
+  ]
+ },
+ "timewarped-sea-glass": {
+  "ids": [
+   "BG34_Giant_110"
+  ],
+  "files": [
+   "new-127167-timewarped-sea-glass.webp"
+  ]
+ },
+ "timewarped-nalaa": {
+  "ids": [
+   "BG34_Giant_205"
+  ],
+  "files": [
+   "new-127168-timewarped-nalaa.webp"
+  ]
+ },
+ "timewarped-murky": {
+  "ids": [
+   "BG34_Giant_206"
+  ],
+  "files": [
+   "new-127180-timewarped-murky.webp"
+  ]
+ },
+ "timewarped-murcules": {
+  "ids": [
+   "BG34_Giant_207"
+  ],
+  "files": [
+   "new-127181-timewarped-murcules.webp"
+  ]
+ },
+ "timewarped-pagle": {
+  "ids": [
+   "BG34_Giant_208"
+  ],
+  "files": [
+   "new-127182-timewarped-pagle.webp"
+  ]
+ },
+ "timewarped-sensei": {
+  "ids": [
+   "BG34_Giant_209"
+  ],
+  "files": [
+   "new-127245-timewarped-sensei.webp"
+  ]
+ },
+ "timewarped-ragnaros": {
+  "ids": [
+   "BG34_Giant_580"
+  ],
+  "files": [
+   "new-127246-timewarped-ragnaros.webp"
+  ]
+ },
+ "timewarped-centurion": {
+  "ids": [
+   "BG34_PreMadeChamp_200"
+  ],
+  "files": [
+   "new-127293-timewarped-centurion.webp"
+  ]
+ },
+ "timewarped-investment": {
+  "ids": [
+   "BG34_Treasure_300"
+  ],
+  "files": [
+   "new-127323-timewarped-investment.webp"
+  ]
+ },
+ "timewarped-beanstalk": {
+  "ids": [
+   "BG34_Treasure_301"
+  ],
+  "files": [
+   "new-127324-timewarped-beanstalk.webp"
+  ]
+ },
+ "power-of-sylvanas": {
+  "ids": [
+   "BG34_HeroPowerSpell_017"
+  ],
+  "files": [
+   "new-127401-power-of-sylvanas.webp"
+  ]
+ },
+ "timewarped-geomancer": {
+  "ids": [
+   "BG34_Giant_305"
+  ],
+  "files": [
+   "new-127430-timewarped-geomancer.webp"
+  ]
+ },
+ "timewarped-jazzer": {
+  "ids": [
+   "BG34_Giant_306"
+  ],
+  "files": [
+   "new-127431-timewarped-jazzer.webp"
+  ]
+ },
+ "timewarped-poet": {
+  "ids": [
+   "BG34_Giant_314"
+  ],
+  "files": [
+   "new-127441-timewarped-poet.webp"
+  ]
+ },
+ "timewarped-warghoul": {
+  "ids": [
+   "BG34_Giant_331"
+  ],
+  "files": [
+   "new-127443-timewarped-warghoul.webp"
+  ]
+ },
+ "timewarped-mrrrglr": {
+  "ids": [
+   "BG34_Giant_321"
+  ],
+  "files": [
+   "new-127498-timewarped-mrrrglr.webp"
+  ]
+ },
+ "timewarped-peggy": {
+  "ids": [
+   "BG34_Giant_327"
+  ],
+  "files": [
+   "new-127508-timewarped-peggy.webp"
+  ]
+ },
+ "timewarped-scout": {
+  "ids": [
+   "BG34_Giant_333"
+  ],
+  "files": [
+   "new-127510-timewarped-scout.webp"
+  ]
+ },
+ "timewarped-copter": {
+  "ids": [
+   "BG34_Giant_302"
+  ],
+  "files": [
+   "new-127517-timewarped-copter.webp"
+  ]
+ },
+ "timewarped-rewinder": {
+  "ids": [
+   "BG34_Giant_300"
+  ],
+  "files": [
+   "new-127539-timewarped-rewinder.webp"
+  ]
+ },
+ "timewarped-nellies-ship": {
+  "ids": [
+   "BG34_Giant_074t"
+  ],
+  "files": [
+   "new-127556-timewarped-nellies-ship.webp"
+  ]
+ },
+ "timewarped-shivarra": {
+  "ids": [
+   "BG34_Giant_311"
+  ],
+  "files": [
+   "new-127567-timewarped-shivarra.webp"
+  ]
+ },
+ "timewarped-tide-razor": {
+  "ids": [
+   "BG34_Giant_328"
+  ],
+  "files": [
+   "new-127568-timewarped-tide-razor.webp"
+  ]
+ },
+ "timewarped-substrate": {
+  "ids": [
+   "BG34_PreMadeChamp_032"
+  ],
+  "files": [
+   "new-127647-timewarped-substrate.webp"
+  ]
+ },
+ "timewarped-revelation": {
+  "ids": [
+   "BG34_Treasure_953"
+  ],
+  "files": [
+   "new-127709-timewarped-revelation.webp"
+  ]
+ },
+ "timewarped-behemoth": {
+  "ids": [
+   "BG34_Giant_777"
+  ],
+  "files": [
+   "new-127710-timewarped-behemoth.webp"
+  ]
+ },
+ "timewarped-hyena": {
+  "ids": [
+   "BG34_Giant_581"
+  ],
+  "files": [
+   "new-127714-timewarped-hyena.webp"
+  ]
+ },
+ "timewarped-devourer": {
+  "ids": [
+   "BG34_Giant_583"
+  ],
+  "files": [
+   "new-127721-timewarped-devourer.webp"
+  ]
+ },
+ "timewarped-kilrek": {
+  "ids": [
+   "BG34_Giant_584"
+  ],
+  "files": [
+   "new-127723-timewarped-kilrek.webp"
+  ]
+ },
+ "timewarped-vaelastrasz": {
+  "ids": [
+   "BG34_Giant_585"
+  ],
+  "files": [
+   "new-127725-timewarped-vaelastrasz.webp"
+  ]
+ },
+ "timewarped-snow-elemental": {
+  "ids": [
+   "BG34_Giant_586"
+  ],
+  "files": [
+   "new-127727-timewarped-snow-elemental.webp"
+  ]
+ },
+ "timewarped-sailor": {
+  "ids": [
+   "BG34_Giant_589"
+  ],
+  "files": [
+   "new-127733-timewarped-sailor.webp"
+  ]
+ },
+ "timewarped-festergut": {
+  "ids": [
+   "BG34_Giant_590"
+  ],
+  "files": [
+   "new-127735-timewarped-festergut.webp"
+  ]
+ },
+ "timewarped-interpreter": {
+  "ids": [
+   "BG34_Giant_120"
+  ],
+  "files": [
+   "new-127739-timewarped-interpreter.webp"
+  ]
+ },
+ "timewarped-acolyte": {
+  "ids": [
+   "BG34_Giant_591"
+  ],
+  "files": [
+   "new-127761-timewarped-acolyte.webp"
+  ]
+ },
+ "timewarped-henchman": {
+  "ids": [
+   "BG34_Giant_593"
+  ],
+  "files": [
+   "new-127765-timewarped-henchman.webp"
+  ]
+ },
+ "timewarped-botani": {
+  "ids": [
+   "BG34_Giant_594"
+  ],
+  "files": [
+   "new-127767-timewarped-botani.webp"
+  ]
+ },
+ "timewarped-tamuzo": {
+  "ids": [
+   "BG34_Giant_595"
+  ],
+  "files": [
+   "new-127769-timewarped-tamuzo.webp"
+  ]
+ },
+ "timewarped-archimonde": {
+  "ids": [
+   "BG34_Giant_596"
+  ],
+  "files": [
+   "new-127771-timewarped-archimonde.webp"
+  ]
+ },
+ "timewarped-immortal": {
+  "ids": [
+   "BG34_Giant_597"
+  ],
+  "files": [
+   "new-127773-timewarped-immortal.webp"
+  ]
+ },
+ "timewarped-ritual": {
+  "ids": [
+   "BG34_Treasure_919"
+  ],
+  "files": [
+   "new-127774-timewarped-ritual.webp"
+  ]
+ },
+ "timewarped-mothership": {
+  "ids": [
+   "BG34_Giant_598"
+  ],
+  "files": [
+   "new-127776-timewarped-mothership.webp"
+  ]
+ },
+ "timewarped-kiljaeden": {
+  "ids": [
+   "BG34_Giant_313"
+  ],
+  "files": [
+   "new-127780-timewarped-kiljaeden.webp"
+  ]
+ },
+ "timewarped-lei": {
+  "ids": [
+   "BG34_Giant_602"
+  ],
+  "files": [
+   "new-127790-timewarped-lei.webp"
+  ]
+ },
+ "timewarped-murk-eye": {
+  "ids": [
+   "BG34_Giant_318"
+  ],
+  "files": [
+   "new-127799-timewarped-murk-eye.webp"
+  ]
+ },
+ "timewarped-painter": {
+  "ids": [
+   "BG34_Giant_319"
+  ],
+  "files": [
+   "new-127800-timewarped-painter.webp"
+  ]
+ },
+ "timewarped-mystic": {
+  "ids": [
+   "BG34_Giant_320"
+  ],
+  "files": [
+   "new-127801-timewarped-mystic.webp"
+  ]
+ },
+ "timewarped-summoner": {
+  "ids": [
+   "BG34_Giant_324"
+  ],
+  "files": [
+   "new-127830-timewarped-summoner.webp"
+  ]
+ },
+ "timewarped-goldenizer": {
+  "ids": [
+   "BG34_Treasure_955"
+  ],
+  "files": [
+   "new-127865-timewarped-goldenizer.webp"
+  ]
+ },
+ "timewarped-bandit": {
+  "ids": [
+   "BG34_PreMadeChamp_078"
+  ],
+  "files": [
+   "new-127868-timewarped-bandit.webp"
+  ]
+ },
+ "timewarped-lil-quilboar": {
+  "ids": [
+   "BG34_Giant_608"
+  ],
+  "files": [
+   "new-127877-timewarped-lil-quilboar.webp"
+  ]
+ },
+ "timewarped-tipper": {
+  "ids": [
+   "BG34_Giant_604"
+  ],
+  "files": [
+   "new-127948-timewarped-tipper.webp"
+  ]
+ },
+ "timewarped-traveler": {
+  "ids": [
+   "BG34_Giant_605"
+  ],
+  "files": [
+   "new-127962-timewarped-traveler.webp"
+  ]
+ },
+ "timewarped-big-winner": {
+  "ids": [
+   "BG34_Treasure_606"
+  ],
+  "files": [
+   "new-127965-timewarped-big-winner.webp"
+  ]
+ },
+ "timewarped-trainee": {
+  "ids": [
+   "BG34_Treasure_607"
+  ],
+  "files": [
+   "new-127967-timewarped-trainee.webp"
+  ]
+ },
+ "timewarped-lasso": {
+  "ids": [
+   "BG34_Treasure_609"
+  ],
+  "files": [
+   "new-127970-timewarped-lasso.webp"
+  ]
+ },
+ "timewarped-shadowdancer": {
+  "ids": [
+   "BG34_Giant_360"
+  ],
+  "files": [
+   "new-128003-timewarped-shadowdancer.webp"
+  ]
+ },
+ "timewarped-thief": {
+  "ids": [
+   "BG34_Treasure_966"
+  ],
+  "files": [
+   "new-128015-timewarped-thief.webp"
+  ]
+ },
+ "timewarped-ghoul-acabra": {
+  "ids": [
+   "BG34_Giant_609"
+  ],
+  "files": [
+   "new-128044-timewarped-ghoul-acabra.webp"
+  ]
+ },
+ "timewarped-goldrinn": {
+  "ids": [
+   "BG34_Giant_362"
+  ],
+  "files": [
+   "new-128111-timewarped-goldrinn.webp"
+  ]
+ },
+ "timewarped-gemsplitter": {
+  "ids": [
+   "BG34_Giant_644"
+  ],
+  "files": [
+   "new-128117-timewarped-gemsplitter.webp"
+  ]
+ },
+ "timewarped-caretaker": {
+  "ids": [
+   "BG34_Giant_618"
+  ],
+  "files": [
+   "new-128177-timewarped-caretaker.webp"
+  ]
+ },
+ "timewarped-hawkstrider": {
+  "ids": [
+   "BG34_Giant_370"
+  ],
+  "files": [
+   "new-128211-timewarped-hawkstrider.webp"
+  ]
+ },
+ "timewarped-zerus": {
+  "ids": [
+   "BG34_Giant_671"
+  ],
+  "files": [
+   "new-128917-timewarped-zerus.webp"
+  ]
+ },
+ "timewarped-trumpeter": {
+  "ids": [
+   "BG34_Giant_676"
+  ],
+  "files": [
+   "new-129101-timewarped-trumpeter.webp"
+  ]
+ },
+ "timewarped-wargear": {
+  "ids": [
+   "BG34_Giant_677"
+  ],
+  "files": [
+   "new-129109-timewarped-wargear.webp"
+  ]
+ },
+ "timewarped-collector": {
+  "ids": [
+   "BG34_Giant_680"
+  ],
+  "files": [
+   "new-129114-timewarped-collector.webp"
+  ]
+ },
+ "timewarped-hag": {
+  "ids": [
+   "BG34_Giant_342"
+  ],
+  "files": [
+   "new-129119-timewarped-hag.webp"
+  ]
+ },
+ "timewarped-mythrax": {
+  "ids": [
+   "BG34_Giant_684"
+  ],
+  "files": [
+   "new-129128-timewarped-mythrax.webp"
+  ]
+ },
+ "timewarped-secrecy": {
+  "ids": [
+   "BG34_Treasure_625"
+  ],
+  "files": [
+   "new-129289-timewarped-secrecy.webp"
+  ]
+ },
+ "timewarped-chimera": {
+  "ids": [
+   "BG34_Giant_679"
+  ],
+  "files": [
+   "new-129428-timewarped-chimera.webp"
+  ]
+ },
+ "scarlet-survivor": {
+  "ids": [
+   "BG35_814"
+  ],
+  "files": [
+   "new-129749-scarlet-survivor.webp"
+  ]
+ },
+ "void-pup-trainer": {
+  "ids": [
+   "BG35_152"
+  ],
+  "files": [
+   "new-130078-void-pup-trainer.webp"
+  ]
+ },
+ "bristleback-bully": {
+  "ids": [
+   "BG35_432"
+  ],
+  "files": [
+   "new-130145-bristleback-bully.webp"
+  ]
+ },
+ "earthsong-shaman": {
+  "ids": [
+   "BG35_431"
+  ],
+  "files": [
+   "new-130149-earthsong-shaman.webp"
+  ]
+ },
+ "redtusk-thornraiser": {
+  "ids": [
+   "BG35_433"
+  ],
+  "files": [
+   "new-130153-redtusk-thornraiser.webp"
+  ]
+ },
+ "timewarped-astrogill": {
+  "ids": [
+   "BG34_Giant_801"
+  ],
+  "files": [
+   "new-130290-timewarped-astrogill.webp"
+  ]
+ },
+ "cthun": {
+  "ids": [
+   "TB_BaconShop_HERO_29"
+  ],
+  "files": [
+   "new-130610-cthun.webp"
+  ]
+ },
+ "harbinger-aphlass": {
+  "ids": [
+   "BGFYM_005"
+  ],
+  "files": [
+   "new-130620-harbinger-aphlass.webp"
+  ]
+ },
+ "lurking-leviathan": {
+  "ids": [
+   "BG35_602"
+  ],
+  "files": [
+   "new-130711-lurking-leviathan.webp"
+  ]
+ },
+ "deepwater-chieftain": {
+  "ids": [
+   "BG35_143"
+  ],
+  "files": [
+   "new-131216-deepwater-chieftain.webp"
+  ]
+ },
+ "zoatroid": {
+  "ids": [
+   "BG36_098"
+  ],
+  "files": [
+   "new-131694-zoatroid.webp"
+  ]
+ },
+ "wandering-willbreaker": {
+  "ids": [
+   "BG36_100"
+  ],
+  "files": [
+   "new-131698-wandering-willbreaker.webp"
+  ]
+ },
+ "yshaarj": {
+  "ids": [
+   "TB_BaconShop_HERO_92"
+  ],
+  "files": [
+   "new-132532-yshaarj.webp"
+  ]
+ },
+ "rescue-bot": {
+  "ids": [
+   "BG36_854"
+  ],
+  "files": [
+   "new-132895-rescue-bot.webp"
+  ]
+ },
+ "devilish-distractor": {
+  "ids": [
+   "BG36_762"
+  ],
+  "files": [
+   "new-132901-devilish-distractor.webp"
+  ]
+ },
+ "hooktusk-master-marauder": {
+  "ids": [
+   "BG36_344"
+  ],
+  "files": [
+   "new-132925-hooktusk-master-marauder.webp"
+  ]
+ },
+ "treasure-parrot": {
+  "ids": [
+   "BG36_763"
+  ],
+  "files": [
+   "new-132987-treasure-parrot.webp"
+  ]
+ },
+ "drifting-sacrifice": {
+  "ids": [
+   "BG36_113"
+  ],
+  "files": [
+   "new-133098-drifting-sacrifice.webp"
+  ]
+ },
+ "underrot-spawn": {
+  "ids": [
+   "BG36_116"
+  ],
+  "files": [
+   "new-133104-underrot-spawn.webp"
+  ]
+ },
+ "kangors-apprentice": {
+  "ids": [
+   "BGS_012"
+  ],
+  "files": [
+   "new-59935-kangors-apprentice.webp"
+  ]
+ },
+ "goldrinn-the-great-wolf": {
+  "ids": [
+   "BGS_018"
+  ],
+  "files": [
+   "new-59955-goldrinn-the-great-wolf.webp"
+  ]
+ },
+ "deflect-o-bot": {
+  "ids": [
+   "BGS_071"
+  ],
+  "files": [
+   "new-61930-deflect-o-bot.webp"
+  ]
+ },
+ "monstrous-macaw": {
+  "ids": [
+   "BGS_078"
+  ],
+  "files": [
+   "new-62230-monstrous-macaw.webp"
+  ]
+ },
+ "gentle-djinni": {
+  "ids": [
+   "BGS_121"
+  ],
+  "files": [
+   "new-64062-gentle-djinni.webp"
+  ]
+ },
+ "sewer-rat": {
+  "ids": [
+   "BG19_010"
+  ],
+  "files": [
+   "new-70790-sewer-rat.webp"
+  ]
+ },
+ "reef-explorer": {
+  "ids": [
+   "BG23_016"
+  ],
+  "files": [
+   "new-80754-reef-explorer.webp"
+  ]
+ },
+ "mantid-queen": {
+  "ids": [
+   "BG22_402"
+  ],
+  "files": [
+   "new-86783-mantid-queen.webp"
+  ]
+ },
+ "nether-drake": {
+  "ids": [
+   "BG24_003"
+  ],
+  "files": [
+   "new-92397-nether-drake.webp"
+  ]
+ },
+ "sindorei-straight-shot": {
+  "ids": [
+   "BG25_016"
+  ],
+  "files": [
+   "new-95286-sindorei-straight-shot.webp"
+  ]
+ },
+ "alleycat": {
+  "ids": [
+   "BG_CFM_315"
+  ],
+  "files": [
+   "new-96758-alleycat.webp"
+  ]
+ },
+ "annoy-o-module": {
+  "ids": [
+   "BG_BOT_911"
+  ],
+  "files": [
+   "new-96812-annoy-o-module.webp"
+  ]
+ },
+ "peggy-sturdybone": {
+  "ids": [
+   "BG25_032"
+  ],
+  "files": [
+   "new-97535-peggy-sturdybone.webp"
+  ]
+ },
+ "scrap-scraper": {
+  "ids": [
+   "BG26_148"
+  ],
+  "files": [
+   "new-98592-scrap-scraper.webp"
+  ]
+ },
+ "manasaber": {
+  "ids": [
+   "BG26_800"
+  ],
+  "files": [
+   "new-98831-manasaber.webp"
+  ]
+ },
+ "moon-bacon-jazzer": {
+  "ids": [
+   "BG26_159"
+  ],
+  "files": [
+   "new-98930-moon-bacon-jazzer.webp"
+  ]
+ },
+ "prickly-piper": {
+  "ids": [
+   "BG26_160"
+  ],
+  "files": [
+   "new-98946-prickly-piper.webp"
+  ]
+ },
+ "tichondrius": {
+  "ids": [
+   "BG26_523"
+  ],
+  "files": [
+   "new-99228-tichondrius.webp"
+  ]
+ }
+}
